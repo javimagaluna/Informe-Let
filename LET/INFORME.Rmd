@@ -24,11 +24,12 @@ opts_chunk$set(
 opts_knit$set(width=75)
 ```
 
-#UWU Hola probando probando
+# UWU Hola probando probando
 
 para añadir archivo rmd, poner 
 git add .
 git commit -m"algun comentario"
 git push origin main
 
-#Probando de nuevo UWU
+# Probando de nuevo UWU
+# Perdon UWU 
