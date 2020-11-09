@@ -24,7 +24,7 @@ opts_chunk$set(
 opts_knit$set(width=75)
 ```
 
-#UWU 
+#UWU Hola probando probando
 
 para añadir archivo rmd, poner 
 git add .
