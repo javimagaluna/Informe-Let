@@ -1,6 +1,8 @@
 ---
-title: "INFORME"
-autor: "Javiera Preuss"
+title: |
+  ![](Logu.png){width=1in}  
+  INFORME
+author: "Javiera Preuss Araya"
 date: "`r Sys.Date()`"
 output:
   rmdformats::material:
@@ -24,13 +26,39 @@ opts_chunk$set(
 opts_knit$set(width=75)
 ```
 
-# UWU Hola probando probando
 
-para añadir archivo rmd, poner 
-git add .
-git commit -m"algun comentario"
-git push origin main
+Me costó mucho elegir una base de datos T_T estuve hoy en la mañana luchando por cual base elegir jaja
 
-# Probando de nuevo UWU
-# Perdon UWU 
-# Estoy aprendiendo esto T_T
+# Introducción dataset suicidio
+
+Según la OMS (Organización Mundial de la Salud) cada 40 segundos una persona se suicida a nivel mundial, esta tasa a medida del transcurso de los años a ido aumentando y aparentemente no se observan mejorias. Algunos países han implementado nuevas intervenciones para prevenir el suicidio pero esto no ha sido suficiente, a pesar de tener grandes bases de datos estas no son del todo completas, los paises de menores ingresos económicos poseen una precaria información registrada de sus datos, lo que dificulta a las diferentes organizaciones de salud para crear nuevas estrategias efectivas para reducir esta tasa. Cabe destacar que las cifras anteriormente mencionadas no incluyen a los suicidios "tentativos", los cuales pueden llegar a ser 20 veces mayor que el suicidio consumado.
+
+El suicidio es un tema complejo y delicado, cualquier paso en falso es un error fatal, es por ello que es inevitable cuestionarse ¿Qué es lo que esta pasando a nivel mundial con la salud mental?, hoy en día es bastante común escuchar a los jovenes decir "me quiero morir" y normalizarlo como si fuese una broma, pero ¿y si esto no es así? ¿Qué pasaría si realmente la persona se quiere suicidar y nosotros ignoramos estas señales definitorias de vida o muerte?. Si bien, no todos somos personas capacitadas para estos asuntos, pero si es necesario tener una idea del como actuar en estas situaciones, es por ello que se necesitan más politicas públicas para que el personal especializado visualice esta realidad. En Chile es usual escuchar que los tratamientos de salud mental tienen un costo muy elevado o que estos estan colpsados de atenciones médicas por lo que agendar una cita es casi imposible, entonces una se pregunta ¿Qué tan accesible es la salud mental? ¿Cuánto personal especializado existe?. 
+
+En este informe analizaremos las tasas de suicidio según país y edad  durante los años 2000, 2010, 2015 y 2016, además, nos enfocaremos en la accesibilidad de los recursos de salud mental del año 2016 para cada país, tanto el personal capacitado como los establecimientos de salud mental, y, así, contrastaremos esta información para evidenciar posibles carencias o eficiencias sistematicas de las naciones. 
+
+CARTA DE NAVEGACIÓN EN PROCESO CREATIVO DE CREACIÓN
+Primero se visualizaran los datos de forma gráfica para poder evidenciar más las tasas generales de suicidio mundial y se realizará el respectivo análisis descriptivo.
+
+
+# Resumen de los datos 
+
+```{r}
+Age.standardized.suicide.rates <- read.csv("C:/Users/javiera/Desktop/Informe Let/Informe-Let/LET/datos tasas suicidio/Age-standardized suicide rates.csv")
+
+Crude.suicide.rates <- read.csv("C:/Users/javiera/Desktop/Informe Let/Informe-Let/LET/datos tasas suicidio/Crude suicide rates.csv")
+
+Facilities <- read.csv("C:/Users/javiera/Desktop/Informe Let/Informe-Let/LET/datos tasas suicidio/Facilities.csv")
+
+Human.Resources <- read.csv("C:/Users/javiera/Desktop/Informe Let/Informe-Let/LET/datos tasas suicidio/Human Resources.csv")
+
+
+```
+
+
+
+
+
+
+
+
