@@ -1,7 +1,7 @@
 ---
 title: |
   ![](Logu.png){width=1in}  
-  INFORME
+  Informe
 author: "Javiera Preuss Araya"
 date: "`r Sys.Date()`"
 output:
@@ -13,6 +13,7 @@ output:
 ```{r setup, echo=FALSE, warning=FALSE}
 library(knitr)
 library(rmdformats)
+library(here)
 
 ## Global options
 options(max.print="75")
@@ -27,9 +28,7 @@ opts_knit$set(width=75)
 ```
 
 
-Me costó mucho elegir una base de datos T_T estuve hoy en la mañana luchando por cual base elegir jaja
-
-# Introducción dataset suicidio
+# Introducción
 
 Según la OMS (Organización Mundial de la Salud) cada 40 segundos una persona se suicida a nivel mundial, esta tasa a medida del transcurso de los años a ido aumentando y aparentemente no se observan mejorias. Algunos países han implementado nuevas intervenciones para prevenir el suicidio pero esto no ha sido suficiente, a pesar de tener grandes bases de datos estas no son del todo completas, los paises de menores ingresos económicos poseen una precaria información registrada de sus datos, lo que dificulta a las diferentes organizaciones de salud para crear nuevas estrategias efectivas para reducir esta tasa. Cabe destacar que las cifras anteriormente mencionadas no incluyen a los suicidios "tentativos", los cuales pueden llegar a ser 20 veces mayor que el suicidio consumado.
 
@@ -39,21 +38,6 @@ En este informe analizaremos las tasas de suicidio según país y edad  durante 
 
 CARTA DE NAVEGACIÓN EN PROCESO CREATIVO DE CREACIÓN
 Primero se visualizaran los datos de forma gráfica para poder evidenciar más las tasas generales de suicidio mundial y se realizará el respectivo análisis descriptivo.
-
-
-# Resumen de los datos 
-
-```{r}
-Age.standardized.suicide.rates <- read.csv("C:/Users/javiera/Desktop/Informe Let/Informe-Let/LET/datos tasas suicidio/Age-standardized suicide rates.csv")
-
-Crude.suicide.rates <- read.csv("C:/Users/javiera/Desktop/Informe Let/Informe-Let/LET/datos tasas suicidio/Crude suicide rates.csv")
-
-Facilities <- read.csv("C:/Users/javiera/Desktop/Informe Let/Informe-Let/LET/datos tasas suicidio/Facilities.csv")
-
-Human.Resources <- read.csv("C:/Users/javiera/Desktop/Informe Let/Informe-Let/LET/datos tasas suicidio/Human Resources.csv")
-
-
-```
 
 
 
