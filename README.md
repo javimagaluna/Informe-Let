@@ -1,4 +1,3 @@
-
 # Informe estadístico LET0010
 
 Este informe posee información sobre las tasas de suicidio y el acceso a salud mental a nivel mundial.
