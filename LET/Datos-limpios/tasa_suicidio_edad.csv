@@ -1,0 +1,4393 @@
+"","pais","sexo","rango_edad","tasa_suicidio"
+"1","Afghanistan"," Both sexes","sobre_80",42
+"2","Afghanistan"," Male","sobre_80",70.4
+"3","Afghanistan"," Female","sobre_80",20.1
+"4","Albania"," Both sexes","sobre_80",16.3
+"5","Albania"," Male","sobre_80",23.2
+"6","Albania"," Female","sobre_80",10.9
+"7","Algeria"," Both sexes","sobre_80",9.4
+"8","Algeria"," Male","sobre_80",12.7
+"9","Algeria"," Female","sobre_80",6.4
+"10","Angola"," Both sexes","sobre_80",63.5
+"11","Angola"," Male","sobre_80",123.2
+"12","Angola"," Female","sobre_80",25.3
+"13","Antigua and Barbuda"," Both sexes","sobre_80",0
+"14","Antigua and Barbuda"," Male","sobre_80",0
+"15","Antigua and Barbuda"," Female","sobre_80",0
+"16","Argentina"," Both sexes","sobre_80",15.8
+"17","Argentina"," Male","sobre_80",41.6
+"18","Argentina"," Female","sobre_80",4.1
+"19","Armenia"," Both sexes","sobre_80",27.9
+"20","Armenia"," Male","sobre_80",41
+"21","Armenia"," Female","sobre_80",20.2
+"22","Australia"," Both sexes","sobre_80",28.8
+"23","Australia"," Male","sobre_80",41.2
+"24","Australia"," Female","sobre_80",20.1
+"25","Austria"," Both sexes","sobre_80",40.9
+"26","Austria"," Male","sobre_80",91.8
+"27","Austria"," Female","sobre_80",12.7
+"28","Azerbaijan"," Both sexes","sobre_80",7.7
+"29","Azerbaijan"," Male","sobre_80",12.5
+"30","Azerbaijan"," Female","sobre_80",5
+"31","Bahamas"," Both sexes","sobre_80",4.3
+"32","Bahamas"," Male","sobre_80",8.1
+"33","Bahamas"," Female","sobre_80",2.4
+"34","Bahrain"," Both sexes","sobre_80",25.2
+"35","Bahrain"," Male","sobre_80",40.8
+"36","Bahrain"," Female","sobre_80",11.5
+"37","Bangladesh"," Both sexes","sobre_80",30
+"38","Bangladesh"," Male","sobre_80",51.4
+"39","Bangladesh"," Female","sobre_80",10.2
+"40","Barbados"," Both sexes","sobre_80",9.7
+"41","Barbados"," Male","sobre_80",26.6
+"42","Barbados"," Female","sobre_80",0
+"43","Belarus"," Both sexes","sobre_80",40.6
+"44","Belarus"," Male","sobre_80",96.1
+"45","Belarus"," Female","sobre_80",22.9
+"46","Belgium"," Both sexes","sobre_80",53.4
+"47","Belgium"," Male","sobre_80",71.8
+"48","Belgium"," Female","sobre_80",42.9
+"49","Belize"," Both sexes","sobre_80",22.4
+"50","Belize"," Male","sobre_80",36.2
+"51","Belize"," Female","sobre_80",10.4
+"52","Benin"," Both sexes","sobre_80",90
+"53","Benin"," Male","sobre_80",146.4
+"54","Benin"," Female","sobre_80",55.6
+"55","Bhutan"," Both sexes","sobre_80",18.9
+"56","Bhutan"," Male","sobre_80",28.7
+"57","Bhutan"," Female","sobre_80",7.7
+"58","Bolivia (Plurinational State of)"," Both sexes","sobre_80",14.1
+"59","Bolivia (Plurinational State of)"," Male","sobre_80",19.4
+"60","Bolivia (Plurinational State of)"," Female","sobre_80",10.2
+"61","Bosnia and Herzegovina"," Both sexes","sobre_80",21
+"62","Bosnia and Herzegovina"," Male","sobre_80",41.5
+"63","Bosnia and Herzegovina"," Female","sobre_80",9.7
+"64","Botswana"," Both sexes","sobre_80",48.9
+"65","Botswana"," Male","sobre_80",89.2
+"66","Botswana"," Female","sobre_80",28.9
+"67","Brazil"," Both sexes","sobre_80",19.5
+"68","Brazil"," Male","sobre_80",31.9
+"69","Brazil"," Female","sobre_80",12.3
+"70","Brunei Darussalam"," Both sexes","sobre_80",10.5
+"71","Brunei Darussalam"," Male","sobre_80",13.6
+"72","Brunei Darussalam"," Female","sobre_80",8.1
+"73","Bulgaria"," Both sexes","sobre_80",35.3
+"74","Bulgaria"," Male","sobre_80",64.5
+"75","Bulgaria"," Female","sobre_80",18.9
+"76","Burkina Faso"," Both sexes","sobre_80",108
+"77","Burkina Faso"," Male","sobre_80",214.7
+"78","Burkina Faso"," Female","sobre_80",47.4
+"79","Burundi"," Both sexes","sobre_80",93.7
+"80","Burundi"," Male","sobre_80",174.8
+"81","Burundi"," Female","sobre_80",34
+"82","Cabo Verde"," Both sexes","sobre_80",116.3
+"83","Cabo Verde"," Male","sobre_80",178.9
+"84","Cabo Verde"," Female","sobre_80",79.2
+"85","Cambodia"," Both sexes","sobre_80",15.5
+"86","Cambodia"," Male","sobre_80",25.5
+"87","Cambodia"," Female","sobre_80",9.3
+"88","Cameroon"," Both sexes","sobre_80",113.3
+"89","Cameroon"," Male","sobre_80",168.3
+"90","Cameroon"," Female","sobre_80",72.5
+"91","Canada"," Both sexes","sobre_80",21.8
+"92","Canada"," Male","sobre_80",29.7
+"93","Canada"," Female","sobre_80",16.8
+"94","Central African Republic"," Both sexes","sobre_80",51.7
+"95","Central African Republic"," Male","sobre_80",98.8
+"96","Central African Republic"," Female","sobre_80",21.8
+"97","Chad"," Both sexes","sobre_80",76.8
+"98","Chad"," Male","sobre_80",83.8
+"99","Chad"," Female","sobre_80",71.7
+"100","Chile"," Both sexes","sobre_80",15.3
+"101","Chile"," Male","sobre_80",39.4
+"102","Chile"," Female","sobre_80",2.5
+"103","China"," Both sexes","sobre_80",61.3
+"104","China"," Male","sobre_80",73.2
+"105","China"," Female","sobre_80",52.3
+"106","Colombia"," Both sexes","sobre_80",10.1
+"107","Colombia"," Male","sobre_80",22.9
+"108","Colombia"," Female","sobre_80",1.8
+"109","Comoros"," Both sexes","sobre_80",70.1
+"110","Comoros"," Male","sobre_80",138.1
+"111","Comoros"," Female","sobre_80",24.6
+"112","Congo"," Both sexes","sobre_80",55.9
+"113","Congo"," Male","sobre_80",99.4
+"114","Congo"," Female","sobre_80",23
+"115","Costa Rica"," Both sexes","sobre_80",9.4
+"116","Costa Rica"," Male","sobre_80",14.5
+"117","Costa Rica"," Female","sobre_80",5.7
+"118","Côte d'Ivoire"," Both sexes","sobre_80",130.7
+"119","Côte d'Ivoire"," Male","sobre_80",202.6
+"120","Côte d'Ivoire"," Female","sobre_80",52
+"121","Croatia"," Both sexes","sobre_80",40.9
+"122","Croatia"," Male","sobre_80",91.5
+"123","Croatia"," Female","sobre_80",17.6
+"124","Cuba"," Both sexes","sobre_80",51.9
+"125","Cuba"," Male","sobre_80",101
+"126","Cuba"," Female","sobre_80",16.5
+"127","Cyprus"," Both sexes","sobre_80",6.8
+"128","Cyprus"," Male","sobre_80",9.3
+"129","Cyprus"," Female","sobre_80",5.2
+"130","Czechia"," Both sexes","sobre_80",22.4
+"131","Czechia"," Male","sobre_80",55.4
+"132","Czechia"," Female","sobre_80",6
+"133","Democratic People's Republic of Korea"," Both sexes","sobre_80",40.9
+"134","Democratic People's Republic of Korea"," Male","sobre_80",100
+"135","Democratic People's Republic of Korea"," Female","sobre_80",27.2
+"136","Democratic Republic of the Congo"," Both sexes","sobre_80",57.5
+"137","Democratic Republic of the Congo"," Male","sobre_80",106
+"138","Democratic Republic of the Congo"," Female","sobre_80",24.7
+"139","Denmark"," Both sexes","sobre_80",49.6
+"140","Denmark"," Male","sobre_80",56.4
+"141","Denmark"," Female","sobre_80",45.3
+"142","Djibouti"," Both sexes","sobre_80",52.2
+"143","Djibouti"," Male","sobre_80",91.2
+"144","Djibouti"," Female","sobre_80",22.9
+"145","Dominican Republic"," Both sexes","sobre_80",22
+"146","Dominican Republic"," Male","sobre_80",32.8
+"147","Dominican Republic"," Female","sobre_80",13.1
+"148","Ecuador"," Both sexes","sobre_80",16.5
+"149","Ecuador"," Male","sobre_80",30.1
+"150","Ecuador"," Female","sobre_80",6.2
+"151","Egypt"," Both sexes","sobre_80",8.6
+"152","Egypt"," Male","sobre_80",13.7
+"153","Egypt"," Female","sobre_80",5.5
+"154","El Salvador"," Both sexes","sobre_80",14
+"155","El Salvador"," Male","sobre_80",27.6
+"156","El Salvador"," Female","sobre_80",4.1
+"157","Equatorial Guinea"," Both sexes","sobre_80",95.4
+"158","Equatorial Guinea"," Male","sobre_80",171.8
+"159","Equatorial Guinea"," Female","sobre_80",31.7
+"160","Eritrea"," Both sexes","sobre_80",84.1
+"161","Eritrea"," Male","sobre_80",165.4
+"162","Eritrea"," Female","sobre_80",28
+"163","Estonia"," Both sexes","sobre_80",36.2
+"164","Estonia"," Male","sobre_80",83.2
+"165","Estonia"," Female","sobre_80",20.2
+"166","Eswatini"," Both sexes","sobre_80",46.1
+"167","Eswatini"," Male","sobre_80",77.4
+"168","Eswatini"," Female","sobre_80",29.5
+"169","Ethiopia"," Both sexes","sobre_80",87.6
+"170","Ethiopia"," Male","sobre_80",160.5
+"171","Ethiopia"," Female","sobre_80",26.6
+"172","Fiji"," Both sexes","sobre_80",43.6
+"173","Fiji"," Male","sobre_80",111.2
+"174","Fiji"," Female","sobre_80",0
+"175","Finland"," Both sexes","sobre_80",22
+"176","Finland"," Male","sobre_80",40.3
+"177","Finland"," Female","sobre_80",12.3
+"178","France"," Both sexes","sobre_80",73.4
+"179","France"," Male","sobre_80",96.8
+"180","France"," Female","sobre_80",60.1
+"181","Gabon"," Both sexes","sobre_80",64.4
+"182","Gabon"," Male","sobre_80",123.1
+"183","Gabon"," Female","sobre_80",24.2
+"184","Gambia"," Both sexes","sobre_80",78.9
+"185","Gambia"," Male","sobre_80",110
+"186","Gambia"," Female","sobre_80",50.1
+"187","Georgia"," Both sexes","sobre_80",20.9
+"188","Georgia"," Male","sobre_80",42.6
+"189","Georgia"," Female","sobre_80",10.5
+"190","Germany"," Both sexes","sobre_80",39.2
+"191","Germany"," Male","sobre_80",68.9
+"192","Germany"," Female","sobre_80",22.2
+"193","Ghana"," Both sexes","sobre_80",70.7
+"194","Ghana"," Male","sobre_80",165
+"195","Ghana"," Female","sobre_80",15.7
+"196","Greece"," Both sexes","sobre_80",7.2
+"197","Greece"," Male","sobre_80",14.3
+"198","Greece"," Female","sobre_80",2.4
+"199","Grenada"," Both sexes","sobre_80",51.6
+"200","Grenada"," Male","sobre_80",0
+"201","Grenada"," Female","sobre_80",79.1
+"202","Guatemala"," Both sexes","sobre_80",7.4
+"203","Guatemala"," Male","sobre_80",6.6
+"204","Guatemala"," Female","sobre_80",8
+"205","Guinea"," Both sexes","sobre_80",78.5
+"206","Guinea"," Male","sobre_80",102.2
+"207","Guinea"," Female","sobre_80",59.9
+"208","Guinea-Bissau"," Both sexes","sobre_80",66.9
+"209","Guinea-Bissau"," Male","sobre_80",87.3
+"210","Guinea-Bissau"," Female","sobre_80",52.3
+"211","Guyana"," Both sexes","sobre_80",38.6
+"212","Guyana"," Male","sobre_80",91.4
+"213","Guyana"," Female","sobre_80",0
+"214","Haiti"," Both sexes","sobre_80",15
+"215","Haiti"," Male","sobre_80",24.7
+"216","Haiti"," Female","sobre_80",8.3
+"217","Honduras"," Both sexes","sobre_80",15.8
+"218","Honduras"," Male","sobre_80",27.9
+"219","Honduras"," Female","sobre_80",7.2
+"220","Hungary"," Both sexes","sobre_80",47.4
+"221","Hungary"," Male","sobre_80",99.3
+"222","Hungary"," Female","sobre_80",25.9
+"223","Iceland"," Both sexes","sobre_80",8
+"224","Iceland"," Male","sobre_80",0
+"225","Iceland"," Female","sobre_80",13.7
+"226","India"," Both sexes","sobre_80",24.5
+"227","India"," Male","sobre_80",37.7
+"228","India"," Female","sobre_80",13.6
+"229","Indonesia"," Both sexes","sobre_80",14.4
+"230","Indonesia"," Male","sobre_80",18.2
+"231","Indonesia"," Female","sobre_80",12
+"232","Iran (Islamic Republic of)"," Both sexes","sobre_80",14.3
+"233","Iran (Islamic Republic of)"," Male","sobre_80",18.2
+"234","Iran (Islamic Republic of)"," Female","sobre_80",10
+"235","Iraq"," Both sexes","sobre_80",9.1
+"236","Iraq"," Male","sobre_80",11.9
+"237","Iraq"," Female","sobre_80",7.4
+"238","Ireland"," Both sexes","sobre_80",11
+"239","Ireland"," Male","sobre_80",11.7
+"240","Ireland"," Female","sobre_80",10.6
+"241","Israel"," Both sexes","sobre_80",19
+"242","Israel"," Male","sobre_80",27.5
+"243","Israel"," Female","sobre_80",13.5
+"244","Italy"," Both sexes","sobre_80",22.9
+"245","Italy"," Male","sobre_80",37
+"246","Italy"," Female","sobre_80",14.6
+"247","Jamaica"," Both sexes","sobre_80",5.3
+"248","Jamaica"," Male","sobre_80",6.7
+"249","Jamaica"," Female","sobre_80",4.3
+"250","Japan"," Both sexes","sobre_80",27.8
+"251","Japan"," Male","sobre_80",42.6
+"252","Japan"," Female","sobre_80",19.7
+"253","Jordan"," Both sexes","sobre_80",18.8
+"254","Jordan"," Male","sobre_80",25.8
+"255","Jordan"," Female","sobre_80",13.2
+"256","Kazakhstan"," Both sexes","sobre_80",50.1
+"257","Kazakhstan"," Male","sobre_80",90.6
+"258","Kazakhstan"," Female","sobre_80",33.7
+"259","Kenya"," Both sexes","sobre_80",56.2
+"260","Kenya"," Male","sobre_80",107.7
+"261","Kenya"," Female","sobre_80",17.1
+"262","Kiribati"," Both sexes","sobre_80",37.1
+"263","Kiribati"," Male","sobre_80",71
+"264","Kiribati"," Female","sobre_80",21.6
+"265","Kuwait"," Both sexes","sobre_80",0
+"266","Kuwait"," Male","sobre_80",0
+"267","Kuwait"," Female","sobre_80",0
+"268","Kyrgyzstan"," Both sexes","sobre_80",14.3
+"269","Kyrgyzstan"," Male","sobre_80",14.2
+"270","Kyrgyzstan"," Female","sobre_80",14.4
+"271","Lao People's Democratic Republic"," Both sexes","sobre_80",28.7
+"272","Lao People's Democratic Republic"," Male","sobre_80",44.4
+"273","Lao People's Democratic Republic"," Female","sobre_80",18.1
+"274","Latvia"," Both sexes","sobre_80",31.7
+"275","Latvia"," Male","sobre_80",74
+"276","Latvia"," Female","sobre_80",17.6
+"277","Lebanon"," Both sexes","sobre_80",11.3
+"278","Lebanon"," Male","sobre_80",16.6
+"279","Lebanon"," Female","sobre_80",7.2
+"280","Lesotho"," Both sexes","sobre_80",164.7
+"281","Lesotho"," Male","sobre_80",80.8
+"282","Lesotho"," Female","sobre_80",210.4
+"283","Liberia"," Both sexes","sobre_80",132.1
+"284","Liberia"," Male","sobre_80",140
+"285","Liberia"," Female","sobre_80",126
+"286","Libya"," Both sexes","sobre_80",15.1
+"287","Libya"," Male","sobre_80",23.9
+"288","Libya"," Female","sobre_80",8.7
+"289","Lithuania"," Both sexes","sobre_80",46
+"290","Lithuania"," Male","sobre_80",126.6
+"291","Lithuania"," Female","sobre_80",18
+"292","Luxembourg"," Both sexes","sobre_80",32.8
+"293","Luxembourg"," Male","sobre_80",44.4
+"294","Luxembourg"," Female","sobre_80",26.1
+"295","Madagascar"," Both sexes","sobre_80",56.2
+"296","Madagascar"," Male","sobre_80",98.6
+"297","Madagascar"," Female","sobre_80",20.4
+"298","Malawi"," Both sexes","sobre_80",90.8
+"299","Malawi"," Male","sobre_80",178
+"300","Malawi"," Female","sobre_80",32.5
+"301","Malaysia"," Both sexes","sobre_80",47.3
+"302","Malaysia"," Male","sobre_80",60.1
+"303","Malaysia"," Female","sobre_80",36.4
+"304","Maldives"," Both sexes","sobre_80",26
+"305","Maldives"," Male","sobre_80",34.9
+"306","Maldives"," Female","sobre_80",14.3
+"307","Mali"," Both sexes","sobre_80",69.2
+"308","Mali"," Male","sobre_80",113.9
+"309","Mali"," Female","sobre_80",31.9
+"310","Malta"," Both sexes","sobre_80",12.4
+"311","Malta"," Male","sobre_80",33
+"312","Malta"," Female","sobre_80",0
+"313","Mauritania"," Both sexes","sobre_80",60.5
+"314","Mauritania"," Male","sobre_80",112.3
+"315","Mauritania"," Female","sobre_80",25.8
+"316","Mauritius"," Both sexes","sobre_80",4
+"317","Mauritius"," Male","sobre_80",11.5
+"318","Mauritius"," Female","sobre_80",0
+"319","Mexico"," Both sexes","sobre_80",15.7
+"320","Mexico"," Male","sobre_80",24.8
+"321","Mexico"," Female","sobre_80",9.5
+"322","Micronesia (Federated States of)"," Both sexes","sobre_80",39.7
+"323","Micronesia (Federated States of)"," Male","sobre_80",61.3
+"324","Micronesia (Federated States of)"," Female","sobre_80",24.7
+"325","Mongolia"," Both sexes","sobre_80",19
+"326","Mongolia"," Male","sobre_80",42.8
+"327","Mongolia"," Female","sobre_80",6.6
+"328","Montenegro"," Both sexes","sobre_80",42
+"329","Montenegro"," Male","sobre_80",70.8
+"330","Montenegro"," Female","sobre_80",23.9
+"331","Morocco"," Both sexes","sobre_80",18.5
+"332","Morocco"," Male","sobre_80",16.2
+"333","Morocco"," Female","sobre_80",20
+"334","Mozambique"," Both sexes","sobre_80",76.3
+"335","Mozambique"," Male","sobre_80",154.6
+"336","Mozambique"," Female","sobre_80",27.7
+"337","Myanmar"," Both sexes","sobre_80",26.6
+"338","Myanmar"," Male","sobre_80",17.8
+"339","Myanmar"," Female","sobre_80",32.1
+"340","Namibia"," Both sexes","sobre_80",39.1
+"341","Namibia"," Male","sobre_80",75.9
+"342","Namibia"," Female","sobre_80",18.7
+"343","Nepal"," Both sexes","sobre_80",38.6
+"344","Nepal"," Male","sobre_80",59
+"345","Nepal"," Female","sobre_80",22.8
+"346","Netherlands"," Both sexes","sobre_80",32.8
+"347","Netherlands"," Male","sobre_80",37.6
+"348","Netherlands"," Female","sobre_80",29.9
+"349","New Zealand"," Both sexes","sobre_80",21.7
+"350","New Zealand"," Male","sobre_80",24.4
+"351","New Zealand"," Female","sobre_80",19.7
+"352","Nicaragua"," Both sexes","sobre_80",9.4
+"353","Nicaragua"," Male","sobre_80",19.4
+"354","Nicaragua"," Female","sobre_80",2.4
+"355","Niger"," Both sexes","sobre_80",69.1
+"356","Niger"," Male","sobre_80",94.7
+"357","Niger"," Female","sobre_80",49.2
+"358","Nigeria"," Both sexes","sobre_80",127
+"359","Nigeria"," Male","sobre_80",130.7
+"360","Nigeria"," Female","sobre_80",123.9
+"361","Norway"," Both sexes","sobre_80",32.1
+"362","Norway"," Male","sobre_80",37.1
+"363","Norway"," Female","sobre_80",29.1
+"364","Oman"," Both sexes","sobre_80",11.7
+"365","Oman"," Male","sobre_80",16.4
+"366","Oman"," Female","sobre_80",7.9
+"367","Pakistan"," Both sexes","sobre_80",7.5
+"368","Pakistan"," Male","sobre_80",7.5
+"369","Pakistan"," Female","sobre_80",7.5
+"370","Panama"," Both sexes","sobre_80",9.5
+"371","Panama"," Male","sobre_80",15.7
+"372","Panama"," Female","sobre_80",4.5
+"373","Papua New Guinea"," Both sexes","sobre_80",20.6
+"374","Papua New Guinea"," Male","sobre_80",33
+"375","Papua New Guinea"," Female","sobre_80",13.7
+"376","Paraguay"," Both sexes","sobre_80",11
+"377","Paraguay"," Male","sobre_80",19.9
+"378","Paraguay"," Female","sobre_80",4.2
+"379","Peru"," Both sexes","sobre_80",11.7
+"380","Peru"," Male","sobre_80",17.5
+"381","Peru"," Female","sobre_80",7.8
+"382","Philippines"," Both sexes","sobre_80",35.1
+"383","Philippines"," Male","sobre_80",39.3
+"384","Philippines"," Female","sobre_80",32.6
+"385","Poland"," Both sexes","sobre_80",14.5
+"386","Poland"," Male","sobre_80",35.8
+"387","Poland"," Female","sobre_80",5.1
+"388","Portugal"," Both sexes","sobre_80",47.3
+"389","Portugal"," Male","sobre_80",94.9
+"390","Portugal"," Female","sobre_80",20.2
+"391","Qatar"," Both sexes","sobre_80",17.1
+"392","Qatar"," Male","sobre_80",26.3
+"393","Qatar"," Female","sobre_80",5.2
+"394","Republic of Korea"," Both sexes","sobre_80",83.6
+"395","Republic of Korea"," Male","sobre_80",155
+"396","Republic of Korea"," Female","sobre_80",51.5
+"397","Republic of Moldova"," Both sexes","sobre_80",19.7
+"398","Republic of Moldova"," Male","sobre_80",34.5
+"399","Republic of Moldova"," Female","sobre_80",12.9
+"400","Republic of North Macedonia"," Both sexes","sobre_80",29.1
+"401","Republic of North Macedonia"," Male","sobre_80",46.1
+"402","Republic of North Macedonia"," Female","sobre_80",17.7
+"403","Romania"," Both sexes","sobre_80",16
+"404","Romania"," Male","sobre_80",31.6
+"405","Romania"," Female","sobre_80",7.2
+"406","Russian Federation"," Both sexes","sobre_80",46.7
+"407","Russian Federation"," Male","sobre_80",101
+"408","Russian Federation"," Female","sobre_80",28.4
+"409","Rwanda"," Both sexes","sobre_80",93.4
+"410","Rwanda"," Male","sobre_80",168.5
+"411","Rwanda"," Female","sobre_80",40.7
+"412","Saint Lucia"," Both sexes","sobre_80",7.2
+"413","Saint Lucia"," Male","sobre_80",18
+"414","Saint Lucia"," Female","sobre_80",0
+"415","Saint Vincent and the Grenadines"," Both sexes","sobre_80",0
+"416","Saint Vincent and the Grenadines"," Male","sobre_80",0
+"417","Saint Vincent and the Grenadines"," Female","sobre_80",0
+"418","Samoa"," Both sexes","sobre_80",30.1
+"419","Samoa"," Male","sobre_80",53.9
+"420","Samoa"," Female","sobre_80",17.8
+"421","Sao Tome and Principe"," Both sexes","sobre_80",15
+"422","Sao Tome and Principe"," Male","sobre_80",18.6
+"423","Sao Tome and Principe"," Female","sobre_80",11
+"424","Saudi Arabia"," Both sexes","sobre_80",8.5
+"425","Saudi Arabia"," Male","sobre_80",11.6
+"426","Saudi Arabia"," Female","sobre_80",5.8
+"427","Senegal"," Both sexes","sobre_80",119.9
+"428","Senegal"," Male","sobre_80",231.3
+"429","Senegal"," Female","sobre_80",44.1
+"430","Serbia"," Both sexes","sobre_80",64.6
+"431","Serbia"," Male","sobre_80",121.1
+"432","Serbia"," Female","sobre_80",33.7
+"433","Seychelles"," Both sexes","sobre_80",25.3
+"434","Seychelles"," Male","sobre_80",47.8
+"435","Seychelles"," Female","sobre_80",14.3
+"436","Sierra Leone"," Both sexes","sobre_80",93.7
+"437","Sierra Leone"," Male","sobre_80",112.8
+"438","Sierra Leone"," Female","sobre_80",76.6
+"439","Singapore"," Both sexes","sobre_80",26.8
+"440","Singapore"," Male","sobre_80",46.1
+"441","Singapore"," Female","sobre_80",14.7
+"442","Slovakia"," Both sexes","sobre_80",21.7
+"443","Slovakia"," Male","sobre_80",55.5
+"444","Slovakia"," Female","sobre_80",6.7
+"445","Slovenia"," Both sexes","sobre_80",38.9
+"446","Slovenia"," Male","sobre_80",96.4
+"447","Slovenia"," Female","sobre_80",12.2
+"448","Solomon Islands"," Both sexes","sobre_80",32.4
+"449","Solomon Islands"," Male","sobre_80",46.3
+"450","Solomon Islands"," Female","sobre_80",18.8
+"451","Somalia"," Both sexes","sobre_80",49.9
+"452","Somalia"," Male","sobre_80",84
+"453","Somalia"," Female","sobre_80",23.9
+"454","South Africa"," Both sexes","sobre_80",33.3
+"455","South Africa"," Male","sobre_80",61.6
+"456","South Africa"," Female","sobre_80",22.1
+"457","South Sudan"," Both sexes","sobre_80",42.7
+"458","South Sudan"," Male","sobre_80",71.6
+"459","South Sudan"," Female","sobre_80",21
+"460","Spain"," Both sexes","sobre_80",21.2
+"461","Spain"," Male","sobre_80",41.3
+"462","Spain"," Female","sobre_80",9.5
+"463","Sri Lanka"," Both sexes","sobre_80",50.9
+"464","Sri Lanka"," Male","sobre_80",84.7
+"465","Sri Lanka"," Female","sobre_80",28.2
+"466","Sudan"," Both sexes","sobre_80",9.5
+"467","Sudan"," Male","sobre_80",14
+"468","Sudan"," Female","sobre_80",6
+"469","Suriname"," Both sexes","sobre_80",61
+"470","Suriname"," Male","sobre_80",95
+"471","Suriname"," Female","sobre_80",39.2
+"472","Sweden"," Both sexes","sobre_80",45.3
+"473","Sweden"," Male","sobre_80",47
+"474","Sweden"," Female","sobre_80",44.2
+"475","Switzerland"," Both sexes","sobre_80",84.6
+"476","Switzerland"," Male","sobre_80",107.3
+"477","Switzerland"," Female","sobre_80",71.1
+"478","Syrian Arab Republic"," Both sexes","sobre_80",10
+"479","Syrian Arab Republic"," Male","sobre_80",12.5
+"480","Syrian Arab Republic"," Female","sobre_80",8
+"481","Tajikistan"," Both sexes","sobre_80",12.4
+"482","Tajikistan"," Male","sobre_80",17.1
+"483","Tajikistan"," Female","sobre_80",9.1
+"484","Thailand"," Both sexes","sobre_80",27.3
+"485","Thailand"," Male","sobre_80",38.9
+"486","Thailand"," Female","sobre_80",19.5
+"487","Timor-Leste"," Both sexes","sobre_80",27.4
+"488","Timor-Leste"," Male","sobre_80",35.7
+"489","Timor-Leste"," Female","sobre_80",21.8
+"490","Togo"," Both sexes","sobre_80",124.5
+"491","Togo"," Male","sobre_80",187.6
+"492","Togo"," Female","sobre_80",75.5
+"493","Tonga"," Both sexes","sobre_80",20.4
+"494","Tonga"," Male","sobre_80",25.8
+"495","Tonga"," Female","sobre_80",17.7
+"496","Trinidad and Tobago"," Both sexes","sobre_80",17.6
+"497","Trinidad and Tobago"," Male","sobre_80",50.9
+"498","Trinidad and Tobago"," Female","sobre_80",0
+"499","Tunisia"," Both sexes","sobre_80",13.2
+"500","Tunisia"," Male","sobre_80",16
+"501","Tunisia"," Female","sobre_80",11.2
+"502","Turkey"," Both sexes","sobre_80",10.1
+"503","Turkey"," Male","sobre_80",18.5
+"504","Turkey"," Female","sobre_80",5.4
+"505","Turkmenistan"," Both sexes","sobre_80",11.1
+"506","Turkmenistan"," Male","sobre_80",17.2
+"507","Turkmenistan"," Female","sobre_80",7.8
+"508","Uganda"," Both sexes","sobre_80",153.3
+"509","Uganda"," Male","sobre_80",176.6
+"510","Uganda"," Female","sobre_80",137.2
+"511","Ukraine"," Both sexes","sobre_80",34.2
+"512","Ukraine"," Male","sobre_80",79
+"513","Ukraine"," Female","sobre_80",17.4
+"514","United Arab Emirates"," Both sexes","sobre_80",6.7
+"515","United Arab Emirates"," Male","sobre_80",9
+"516","United Arab Emirates"," Female","sobre_80",3.3
+"517","United Kingdom of Great Britain and Northern Ireland"," Both sexes","sobre_80",15.4
+"518","United Kingdom of Great Britain and Northern Ireland"," Male","sobre_80",19.7
+"519","United Kingdom of Great Britain and Northern Ireland"," Female","sobre_80",12.6
+"520","United Republic of Tanzania"," Both sexes","sobre_80",80.6
+"521","United Republic of Tanzania"," Male","sobre_80",139.2
+"522","United Republic of Tanzania"," Female","sobre_80",29.4
+"523","United States of America"," Both sexes","sobre_80",25.1
+"524","United States of America"," Male","sobre_80",49.7
+"525","United States of America"," Female","sobre_80",9.6
+"526","Uruguay"," Both sexes","sobre_80",38.9
+"527","Uruguay"," Male","sobre_80",89.7
+"528","Uruguay"," Female","sobre_80",17.5
+"529","Uzbekistan"," Both sexes","sobre_80",4.8
+"530","Uzbekistan"," Male","sobre_80",7.1
+"531","Uzbekistan"," Female","sobre_80",3.5
+"532","Vanuatu"," Both sexes","sobre_80",31.2
+"533","Vanuatu"," Male","sobre_80",45.8
+"534","Vanuatu"," Female","sobre_80",16.8
+"535","Venezuela (Bolivarian Republic of)"," Both sexes","sobre_80",8.9
+"536","Venezuela (Bolivarian Republic of)"," Male","sobre_80",20.5
+"537","Venezuela (Bolivarian Republic of)"," Female","sobre_80",2.2
+"538","Viet Nam"," Both sexes","sobre_80",20.9
+"539","Viet Nam"," Male","sobre_80",29.4
+"540","Viet Nam"," Female","sobre_80",17.1
+"541","Yemen"," Both sexes","sobre_80",13.1
+"542","Yemen"," Male","sobre_80",18.2
+"543","Yemen"," Female","sobre_80",9.4
+"544","Zambia"," Both sexes","sobre_80",79.7
+"545","Zambia"," Male","sobre_80",152.1
+"546","Zambia"," Female","sobre_80",31.2
+"547","Zimbabwe"," Both sexes","sobre_80",205.7
+"548","Zimbabwe"," Male","sobre_80",285
+"549","Zimbabwe"," Female","sobre_80",152.4
+"550","Afghanistan"," Both sexes","70to79",11
+"551","Afghanistan"," Male","70to79",20.9
+"552","Afghanistan"," Female","70to79",2.3
+"553","Albania"," Both sexes","70to79",8.3
+"554","Albania"," Male","70to79",11.9
+"555","Albania"," Female","70to79",4.9
+"556","Algeria"," Both sexes","70to79",5.6
+"557","Algeria"," Male","70to79",8.4
+"558","Algeria"," Female","70to79",3
+"559","Angola"," Both sexes","70to79",42.1
+"560","Angola"," Male","70to79",68.2
+"561","Angola"," Female","70to79",21.7
+"562","Antigua and Barbuda"," Both sexes","70to79",0
+"563","Antigua and Barbuda"," Male","70to79",0
+"564","Antigua and Barbuda"," Female","70to79",0
+"565","Argentina"," Both sexes","70to79",11.6
+"566","Argentina"," Male","70to79",22.7
+"567","Argentina"," Female","70to79",3.7
+"568","Armenia"," Both sexes","70to79",17.4
+"569","Armenia"," Male","70to79",28.1
+"570","Armenia"," Female","70to79",10.4
+"571","Australia"," Both sexes","70to79",13.1
+"572","Australia"," Male","70to79",19.8
+"573","Australia"," Female","70to79",6.7
+"574","Austria"," Both sexes","70to79",25.1
+"575","Austria"," Male","70to79",40.6
+"576","Austria"," Female","70to79",12.4
+"577","Azerbaijan"," Both sexes","70to79",6.6
+"578","Azerbaijan"," Male","70to79",10.4
+"579","Azerbaijan"," Female","70to79",4
+"580","Bahamas"," Both sexes","70to79",3
+"581","Bahamas"," Male","70to79",5.4
+"582","Bahamas"," Female","70to79",1.3
+"583","Bahrain"," Both sexes","70to79",11
+"584","Bahrain"," Male","70to79",17.7
+"585","Bahrain"," Female","70to79",4.2
+"586","Bangladesh"," Both sexes","70to79",12.8
+"587","Bangladesh"," Male","70to79",19.2
+"588","Bangladesh"," Female","70to79",6.4
+"589","Barbados"," Both sexes","70to79",4.4
+"590","Barbados"," Male","70to79",0
+"591","Barbados"," Female","70to79",7.8
+"592","Belarus"," Both sexes","70to79",32.4
+"593","Belarus"," Male","70to79",76.8
+"594","Belarus"," Female","70to79",11.4
+"595","Belgium"," Both sexes","70to79",27.5
+"596","Belgium"," Male","70to79",37.2
+"597","Belgium"," Female","70to79",19.6
+"598","Belize"," Both sexes","70to79",18
+"599","Belize"," Male","70to79",29
+"600","Belize"," Female","70to79",7
+"601","Benin"," Both sexes","70to79",60.4
+"602","Benin"," Male","70to79",81.1
+"603","Benin"," Female","70to79",45.8
+"604","Bhutan"," Both sexes","70to79",13.7
+"605","Bhutan"," Male","70to79",17.1
+"606","Bhutan"," Female","70to79",9.6
+"607","Bolivia (Plurinational State of)"," Both sexes","70to79",13.4
+"608","Bolivia (Plurinational State of)"," Male","70to79",18
+"609","Bolivia (Plurinational State of)"," Female","70to79",9.2
+"610","Bosnia and Herzegovina"," Both sexes","70to79",19.6
+"611","Bosnia and Herzegovina"," Male","70to79",34.9
+"612","Bosnia and Herzegovina"," Female","70to79",8.6
+"613","Botswana"," Both sexes","70to79",32
+"614","Botswana"," Male","70to79",49.6
+"615","Botswana"," Female","70to79",20.3
+"616","Brazil"," Both sexes","70to79",11.9
+"617","Brazil"," Male","70to79",19.4
+"618","Brazil"," Female","70to79",6.3
+"619","Brunei Darussalam"," Both sexes","70to79",9.8
+"620","Brunei Darussalam"," Male","70to79",11.4
+"621","Brunei Darussalam"," Female","70to79",8.4
+"622","Bulgaria"," Both sexes","70to79",23.2
+"623","Bulgaria"," Male","70to79",41.3
+"624","Bulgaria"," Female","70to79",11
+"625","Burkina Faso"," Both sexes","70to79",68
+"626","Burkina Faso"," Male","70to79",111.6
+"627","Burkina Faso"," Female","70to79",40.5
+"628","Burundi"," Both sexes","70to79",58.2
+"629","Burundi"," Male","70to79",94
+"630","Burundi"," Female","70to79",28.3
+"631","Cabo Verde"," Both sexes","70to79",61.3
+"632","Cabo Verde"," Male","70to79",95.8
+"633","Cabo Verde"," Female","70to79",39.8
+"634","Cambodia"," Both sexes","70to79",13.1
+"635","Cambodia"," Male","70to79",21.6
+"636","Cambodia"," Female","70to79",7.4
+"637","Cameroon"," Both sexes","70to79",78.1
+"638","Cameroon"," Male","70to79",97.2
+"639","Cameroon"," Female","70to79",62
+"640","Canada"," Both sexes","70to79",12.1
+"641","Canada"," Male","70to79",19.5
+"642","Canada"," Female","70to79",5.5
+"643","Central African Republic"," Both sexes","70to79",37
+"644","Central African Republic"," Male","70to79",59.8
+"645","Central African Republic"," Female","70to79",19.3
+"646","Chad"," Both sexes","70to79",55.9
+"647","Chad"," Male","70to79",49.4
+"648","Chad"," Female","70to79",61.5
+"649","Chile"," Both sexes","70to79",15.5
+"650","Chile"," Male","70to79",30.2
+"651","Chile"," Female","70to79",4.1
+"652","China"," Both sexes","70to79",44
+"653","China"," Male","70to79",51.2
+"654","China"," Female","70to79",37.1
+"655","Colombia"," Both sexes","70to79",10.1
+"656","Colombia"," Male","70to79",20.6
+"657","Colombia"," Female","70to79",1.9
+"658","Comoros"," Both sexes","70to79",50.1
+"659","Comoros"," Male","70to79",85.6
+"660","Comoros"," Female","70to79",21.1
+"661","Congo"," Both sexes","70to79",36.8
+"662","Congo"," Male","70to79",57.8
+"663","Congo"," Female","70to79",19
+"664","Costa Rica"," Both sexes","70to79",8.7
+"665","Costa Rica"," Male","70to79",17.4
+"666","Costa Rica"," Female","70to79",0.9
+"667","Côte d'Ivoire"," Both sexes","70to79",88.4
+"668","Côte d'Ivoire"," Male","70to79",123.2
+"669","Côte d'Ivoire"," Female","70to79",46.5
+"670","Croatia"," Both sexes","70to79",30.7
+"671","Croatia"," Male","70to79",52.9
+"672","Croatia"," Female","70to79",15.6
+"673","Cuba"," Both sexes","70to79",32.7
+"674","Cuba"," Male","70to79",54.4
+"675","Cuba"," Female","70to79",13.1
+"676","Cyprus"," Both sexes","70to79",7.4
+"677","Cyprus"," Male","70to79",14.7
+"678","Cyprus"," Female","70to79",1.2
+"679","Czechia"," Both sexes","70to79",18.8
+"680","Czechia"," Male","70to79",36.1
+"681","Czechia"," Female","70to79",6.1
+"682","Democratic People's Republic of Korea"," Both sexes","70to79",33.8
+"683","Democratic People's Republic of Korea"," Male","70to79",69.8
+"684","Democratic People's Republic of Korea"," Female","70to79",14.2
+"685","Democratic Republic of the Congo"," Both sexes","70to79",39.3
+"686","Democratic Republic of the Congo"," Male","70to79",61.5
+"687","Democratic Republic of the Congo"," Female","70to79",21.5
+"688","Denmark"," Both sexes","70to79",20
+"689","Denmark"," Male","70to79",29.1
+"690","Denmark"," Female","70to79",11.8
+"691","Djibouti"," Both sexes","70to79",33.8
+"692","Djibouti"," Male","70to79",50.9
+"693","Djibouti"," Female","70to79",18.9
+"694","Dominican Republic"," Both sexes","70to79",16.8
+"695","Dominican Republic"," Male","70to79",28
+"696","Dominican Republic"," Female","70to79",6.6
+"697","Ecuador"," Both sexes","70to79",10.8
+"698","Ecuador"," Male","70to79",18.6
+"699","Ecuador"," Female","70to79",4
+"700","Egypt"," Both sexes","70to79",6.5
+"701","Egypt"," Male","70to79",10.8
+"702","Egypt"," Female","70to79",3.2
+"703","El Salvador"," Both sexes","70to79",11
+"704","El Salvador"," Male","70to79",22.3
+"705","El Salvador"," Female","70to79",2.3
+"706","Equatorial Guinea"," Both sexes","70to79",68.1
+"707","Equatorial Guinea"," Male","70to79",106.8
+"708","Equatorial Guinea"," Female","70to79",31.1
+"709","Eritrea"," Both sexes","70to79",62.8
+"710","Eritrea"," Male","70to79",105
+"711","Eritrea"," Female","70to79",27.3
+"712","Estonia"," Both sexes","70to79",28.3
+"713","Estonia"," Male","70to79",59.5
+"714","Estonia"," Female","70to79",11.4
+"715","Eswatini"," Both sexes","70to79",31.5
+"716","Eswatini"," Male","70to79",44.5
+"717","Eswatini"," Female","70to79",22.8
+"718","Ethiopia"," Both sexes","70to79",51.4
+"719","Ethiopia"," Male","70to79",86.3
+"720","Ethiopia"," Female","70to79",21
+"721","Fiji"," Both sexes","70to79",14.3
+"722","Fiji"," Male","70to79",18
+"723","Fiji"," Female","70to79",11.3
+"724","Finland"," Both sexes","70to79",18.7
+"725","Finland"," Male","70to79",29.5
+"726","Finland"," Female","70to79",9.7
+"727","France"," Both sexes","70to79",27.2
+"728","France"," Male","70to79",37.2
+"729","France"," Female","70to79",18.5
+"730","Gabon"," Both sexes","70to79",41.1
+"731","Gabon"," Male","70to79",67.4
+"732","Gabon"," Female","70to79",19.4
+"733","Gambia"," Both sexes","70to79",52.5
+"734","Gambia"," Male","70to79",63
+"735","Gambia"," Female","70to79",41.6
+"736","Georgia"," Both sexes","70to79",15.3
+"737","Georgia"," Male","70to79",29.4
+"738","Georgia"," Female","70to79",6.8
+"739","Germany"," Both sexes","70to79",23.2
+"740","Germany"," Male","70to79",35.8
+"741","Germany"," Female","70to79",12.5
+"742","Ghana"," Both sexes","70to79",46.9
+"743","Ghana"," Male","70to79",88.5
+"744","Ghana"," Female","70to79",12
+"745","Greece"," Both sexes","70to79",6.4
+"746","Greece"," Male","70to79",12
+"747","Greece"," Female","70to79",1.8
+"748","Grenada"," Both sexes","70to79",0
+"749","Grenada"," Male","70to79",0
+"750","Grenada"," Female","70to79",0
+"751","Guatemala"," Both sexes","70to79",2.8
+"752","Guatemala"," Male","70to79",5.3
+"753","Guatemala"," Female","70to79",0.8
+"754","Guinea"," Both sexes","70to79",50.5
+"755","Guinea"," Male","70to79",55.1
+"756","Guinea"," Female","70to79",46.5
+"757","Guinea-Bissau"," Both sexes","70to79",42.4
+"758","Guinea-Bissau"," Male","70to79",46.5
+"759","Guinea-Bissau"," Female","70to79",39.4
+"760","Guyana"," Both sexes","70to79",29.8
+"761","Guyana"," Male","70to79",53.6
+"762","Guyana"," Female","70to79",9.9
+"763","Haiti"," Both sexes","70to79",12.7
+"764","Haiti"," Male","70to79",20.6
+"765","Haiti"," Female","70to79",6.4
+"766","Honduras"," Both sexes","70to79",5.3
+"767","Honduras"," Male","70to79",7.8
+"768","Honduras"," Female","70to79",3.3
+"769","Hungary"," Both sexes","70to79",37.3
+"770","Hungary"," Male","70to79",67.5
+"771","Hungary"," Female","70to79",19
+"772","Iceland"," Both sexes","70to79",8.5
+"773","Iceland"," Male","70to79",12.2
+"774","Iceland"," Female","70to79",5.1
+"775","India"," Both sexes","70to79",21.9
+"776","India"," Male","70to79",25.3
+"777","India"," Female","70to79",18.9
+"778","Indonesia"," Both sexes","70to79",7.9
+"779","Indonesia"," Male","70to79",12
+"780","Indonesia"," Female","70to79",4.6
+"781","Iran (Islamic Republic of)"," Both sexes","70to79",8.8
+"782","Iran (Islamic Republic of)"," Male","70to79",11.4
+"783","Iran (Islamic Republic of)"," Female","70to79",5.7
+"784","Iraq"," Both sexes","70to79",5.8
+"785","Iraq"," Male","70to79",7.1
+"786","Iraq"," Female","70to79",4.8
+"787","Ireland"," Both sexes","70to79",8.2
+"788","Ireland"," Male","70to79",13
+"789","Ireland"," Female","70to79",3.8
+"790","Israel"," Both sexes","70to79",9.8
+"791","Israel"," Male","70to79",13.6
+"792","Israel"," Female","70to79",6.6
+"793","Italy"," Both sexes","70to79",13.3
+"794","Italy"," Male","70to79",20.6
+"795","Italy"," Female","70to79",7.2
+"796","Jamaica"," Both sexes","70to79",3.7
+"797","Jamaica"," Male","70to79",5.5
+"798","Jamaica"," Female","70to79",2.1
+"799","Japan"," Both sexes","70to79",25.7
+"800","Japan"," Male","70to79",35.5
+"801","Japan"," Female","70to79",17.5
+"802","Jordan"," Both sexes","70to79",9.9
+"803","Jordan"," Male","70to79",14.2
+"804","Jordan"," Female","70to79",6
+"805","Kazakhstan"," Both sexes","70to79",30
+"806","Kazakhstan"," Male","70to79",61.9
+"807","Kazakhstan"," Female","70to79",13.2
+"808","Kenya"," Both sexes","70to79",28
+"809","Kenya"," Male","70to79",49
+"810","Kenya"," Female","70to79",11.1
+"811","Kiribati"," Both sexes","70to79",18.8
+"812","Kiribati"," Male","70to79",30.5
+"813","Kiribati"," Female","70to79",11.3
+"814","Kuwait"," Both sexes","70to79",4.9
+"815","Kuwait"," Male","70to79",0
+"816","Kuwait"," Female","70to79",11.7
+"817","Kyrgyzstan"," Both sexes","70to79",9
+"818","Kyrgyzstan"," Male","70to79",18
+"819","Kyrgyzstan"," Female","70to79",3.3
+"820","Lao People's Democratic Republic"," Both sexes","70to79",16.5
+"821","Lao People's Democratic Republic"," Male","70to79",25.7
+"822","Lao People's Democratic Republic"," Female","70to79",9.5
+"823","Latvia"," Both sexes","70to79",23.7
+"824","Latvia"," Male","70to79",54.5
+"825","Latvia"," Female","70to79",8.2
+"826","Lebanon"," Both sexes","70to79",7.6
+"827","Lebanon"," Male","70to79",11.2
+"828","Lebanon"," Female","70to79",4
+"829","Lesotho"," Both sexes","70to79",97.1
+"830","Lesotho"," Male","70to79",45.4
+"831","Lesotho"," Female","70to79",133.7
+"832","Liberia"," Both sexes","70to79",86.9
+"833","Liberia"," Male","70to79",75.2
+"834","Liberia"," Female","70to79",97.1
+"835","Libya"," Both sexes","70to79",9.8
+"836","Libya"," Male","70to79",16.1
+"837","Libya"," Female","70to79",4.4
+"838","Lithuania"," Both sexes","70to79",37.5
+"839","Lithuania"," Male","70to79",81.6
+"840","Lithuania"," Female","70to79",13.9
+"841","Luxembourg"," Both sexes","70to79",38.5
+"842","Luxembourg"," Male","70to79",50.2
+"843","Luxembourg"," Female","70to79",28.6
+"844","Madagascar"," Both sexes","70to79",35.9
+"845","Madagascar"," Male","70to79",57.6
+"846","Madagascar"," Female","70to79",18.1
+"847","Malawi"," Both sexes","70to79",46.6
+"848","Malawi"," Male","70to79",80.1
+"849","Malawi"," Female","70to79",21.6
+"850","Malaysia"," Both sexes","70to79",24.3
+"851","Malaysia"," Male","70to79",33.6
+"852","Malaysia"," Female","70to79",15.6
+"853","Maldives"," Both sexes","70to79",14
+"854","Maldives"," Male","70to79",19.5
+"855","Maldives"," Female","70to79",8.2
+"856","Mali"," Both sexes","70to79",39.4
+"857","Mali"," Male","70to79",60.1
+"858","Mali"," Female","70to79",23.3
+"859","Malta"," Both sexes","70to79",8.8
+"860","Malta"," Male","70to79",14
+"861","Malta"," Female","70to79",4.3
+"862","Mauritania"," Both sexes","70to79",37.3
+"863","Mauritania"," Male","70to79",61.9
+"864","Mauritania"," Female","70to79",19.6
+"865","Mauritius"," Both sexes","70to79",5.5
+"866","Mauritius"," Male","70to79",12.9
+"867","Mauritius"," Female","70to79",0
+"868","Mexico"," Both sexes","70to79",7.9
+"869","Mexico"," Male","70to79",13
+"870","Mexico"," Female","70to79",3.3
+"871","Micronesia (Federated States of)"," Both sexes","70to79",17.6
+"872","Micronesia (Federated States of)"," Male","70to79",25.4
+"873","Micronesia (Federated States of)"," Female","70to79",11.7
+"874","Mongolia"," Both sexes","70to79",15.9
+"875","Mongolia"," Male","70to79",27.4
+"876","Mongolia"," Female","70to79",7.4
+"877","Montenegro"," Both sexes","70to79",25.3
+"878","Montenegro"," Male","70to79",40.5
+"879","Montenegro"," Female","70to79",14.5
+"880","Morocco"," Both sexes","70to79",7.9
+"881","Morocco"," Male","70to79",7.5
+"882","Morocco"," Female","70to79",8.2
+"883","Mozambique"," Both sexes","70to79",41.9
+"884","Mozambique"," Male","70to79",72
+"885","Mozambique"," Female","70to79",20.4
+"886","Myanmar"," Both sexes","70to79",15.7
+"887","Myanmar"," Male","70to79",14.4
+"888","Myanmar"," Female","70to79",16.7
+"889","Namibia"," Both sexes","70to79",26.5
+"890","Namibia"," Male","70to79",44.2
+"891","Namibia"," Female","70to79",14.8
+"892","Nepal"," Both sexes","70to79",18.4
+"893","Nepal"," Male","70to79",24.8
+"894","Nepal"," Female","70to79",12.7
+"895","Netherlands"," Both sexes","70to79",16.9
+"896","Netherlands"," Male","70to79",21.2
+"897","Netherlands"," Female","70to79",13
+"898","New Zealand"," Both sexes","70to79",9
+"899","New Zealand"," Male","70to79",16.5
+"900","New Zealand"," Female","70to79",2.2
+"901","Nicaragua"," Both sexes","70to79",7.9
+"902","Nicaragua"," Male","70to79",15.4
+"903","Nicaragua"," Female","70to79",1.8
+"904","Niger"," Both sexes","70to79",42.1
+"905","Niger"," Male","70to79",49.6
+"906","Niger"," Female","70to79",36.2
+"907","Nigeria"," Both sexes","70to79",86.9
+"908","Nigeria"," Male","70to79",74
+"909","Nigeria"," Female","70to79",98.6
+"910","Norway"," Both sexes","70to79",12.4
+"911","Norway"," Male","70to79",17.4
+"912","Norway"," Female","70to79",7.9
+"913","Oman"," Both sexes","70to79",5.6
+"914","Oman"," Male","70to79",8.5
+"915","Oman"," Female","70to79",2.5
+"916","Pakistan"," Both sexes","70to79",4
+"917","Pakistan"," Male","70to79",4
+"918","Pakistan"," Female","70to79",4
+"919","Panama"," Both sexes","70to79",7
+"920","Panama"," Male","70to79",13.5
+"921","Panama"," Female","70to79",1.2
+"922","Papua New Guinea"," Both sexes","70to79",12
+"923","Papua New Guinea"," Male","70to79",17.1
+"924","Papua New Guinea"," Female","70to79",8.2
+"925","Paraguay"," Both sexes","70to79",7.8
+"926","Paraguay"," Male","70to79",12.9
+"927","Paraguay"," Female","70to79",3.1
+"928","Peru"," Both sexes","70to79",8.7
+"929","Peru"," Male","70to79",13.9
+"930","Peru"," Female","70to79",4.1
+"931","Philippines"," Both sexes","70to79",8.7
+"932","Philippines"," Male","70to79",13.3
+"933","Philippines"," Female","70to79",5.3
+"934","Poland"," Both sexes","70to79",16
+"935","Poland"," Male","70to79",33.3
+"936","Poland"," Female","70to79",4.7
+"937","Portugal"," Both sexes","70to79",28.7
+"938","Portugal"," Male","70to79",48.4
+"939","Portugal"," Female","70to79",13.6
+"940","Qatar"," Both sexes","70to79",8.7
+"941","Qatar"," Male","70to79",11.5
+"942","Qatar"," Female","70to79",3.4
+"943","Republic of Korea"," Both sexes","70to79",64.5
+"944","Republic of Korea"," Male","70to79",104.4
+"945","Republic of Korea"," Female","70to79",33.4
+"946","Republic of Moldova"," Both sexes","70to79",13.6
+"947","Republic of Moldova"," Male","70to79",23.4
+"948","Republic of Moldova"," Female","70to79",7.9
+"949","Republic of North Macedonia"," Both sexes","70to79",19.1
+"950","Republic of North Macedonia"," Male","70to79",32.7
+"951","Republic of North Macedonia"," Female","70to79",8.4
+"952","Romania"," Both sexes","70to79",16.2
+"953","Romania"," Male","70to79",32.3
+"954","Romania"," Female","70to79",5.8
+"955","Russian Federation"," Both sexes","70to79",35.2
+"956","Russian Federation"," Male","70to79",76.6
+"957","Russian Federation"," Female","70to79",15.6
+"958","Rwanda"," Both sexes","70to79",48.3
+"959","Rwanda"," Male","70to79",76.9
+"960","Rwanda"," Female","70to79",28.4
+"961","Saint Lucia"," Both sexes","70to79",9.5
+"962","Saint Lucia"," Male","70to79",20.8
+"963","Saint Lucia"," Female","70to79",0
+"964","Saint Vincent and the Grenadines"," Both sexes","70to79",9
+"965","Saint Vincent and the Grenadines"," Male","70to79",19.5
+"966","Saint Vincent and the Grenadines"," Female","70to79",0
+"967","Samoa"," Both sexes","70to79",15.7
+"968","Samoa"," Male","70to79",26.2
+"969","Samoa"," Female","70to79",7.7
+"970","Sao Tome and Principe"," Both sexes","70to79",7.4
+"971","Sao Tome and Principe"," Male","70to79",10.4
+"972","Sao Tome and Principe"," Female","70to79",5.9
+"973","Saudi Arabia"," Both sexes","70to79",8.2
+"974","Saudi Arabia"," Male","70to79",12.3
+"975","Saudi Arabia"," Female","70to79",3.7
+"976","Senegal"," Both sexes","70to79",70.8
+"977","Senegal"," Male","70to79",121
+"978","Senegal"," Female","70to79",33.1
+"979","Serbia"," Both sexes","70to79",43.2
+"980","Serbia"," Male","70to79",70.6
+"981","Serbia"," Female","70to79",23
+"982","Seychelles"," Both sexes","70to79",18.6
+"983","Seychelles"," Male","70to79",35.2
+"984","Seychelles"," Female","70to79",5.9
+"985","Sierra Leone"," Both sexes","70to79",65.6
+"986","Sierra Leone"," Male","70to79",66.9
+"987","Sierra Leone"," Female","70to79",64.4
+"988","Singapore"," Both sexes","70to79",22.8
+"989","Singapore"," Male","70to79",36.5
+"990","Singapore"," Female","70to79",11
+"991","Slovakia"," Both sexes","70to79",19.5
+"992","Slovakia"," Male","70to79",43
+"993","Slovakia"," Female","70to79",4.8
+"994","Slovenia"," Both sexes","70to79",35.8
+"995","Slovenia"," Male","70to79",60
+"996","Slovenia"," Female","70to79",17
+"997","Solomon Islands"," Both sexes","70to79",13.7
+"998","Solomon Islands"," Male","70to79",18
+"999","Solomon Islands"," Female","70to79",9.1
+"1000","Somalia"," Both sexes","70to79",34.2
+"1001","Somalia"," Male","70to79",48.9
+"1002","Somalia"," Female","70to79",20.7
+"1003","South Africa"," Both sexes","70to79",28.1
+"1004","South Africa"," Male","70to79",48.9
+"1005","South Africa"," Female","70to79",15.5
+"1006","South Sudan"," Both sexes","70to79",27.6
+"1007","South Sudan"," Male","70to79",39.4
+"1008","South Sudan"," Female","70to79",17.5
+"1009","Spain"," Both sexes","70to79",14.2
+"1010","Spain"," Male","70to79",22.7
+"1011","Spain"," Female","70to79",7.2
+"1012","Sri Lanka"," Both sexes","70to79",27.2
+"1013","Sri Lanka"," Male","70to79",46.1
+"1014","Sri Lanka"," Female","70to79",13
+"1015","Sudan"," Both sexes","70to79",6.9
+"1016","Sudan"," Male","70to79",10.5
+"1017","Sudan"," Female","70to79",3.7
+"1018","Suriname"," Both sexes","70to79",40.6
+"1019","Suriname"," Male","70to79",65.3
+"1020","Suriname"," Female","70to79",23.2
+"1021","Sweden"," Both sexes","70to79",18.4
+"1022","Sweden"," Male","70to79",26.1
+"1023","Sweden"," Female","70to79",11.2
+"1024","Switzerland"," Both sexes","70to79",28.1
+"1025","Switzerland"," Male","70to79",37.5
+"1026","Switzerland"," Female","70to79",20
+"1027","Syrian Arab Republic"," Both sexes","70to79",4.4
+"1028","Syrian Arab Republic"," Male","70to79",6.4
+"1029","Syrian Arab Republic"," Female","70to79",2.9
+"1030","Tajikistan"," Both sexes","70to79",9.1
+"1031","Tajikistan"," Male","70to79",11.2
+"1032","Tajikistan"," Female","70to79",7.2
+"1033","Thailand"," Both sexes","70to79",22.6
+"1034","Thailand"," Male","70to79",34.4
+"1035","Thailand"," Female","70to79",13.3
+"1036","Timor-Leste"," Both sexes","70to79",15.9
+"1037","Timor-Leste"," Male","70to79",22.6
+"1038","Timor-Leste"," Female","70to79",10.2
+"1039","Togo"," Both sexes","70to79",77.3
+"1040","Togo"," Male","70to79",99.6
+"1041","Togo"," Female","70to79",58.3
+"1042","Tonga"," Both sexes","70to79",10
+"1043","Tonga"," Male","70to79",12.3
+"1044","Tonga"," Female","70to79",8.2
+"1045","Trinidad and Tobago"," Both sexes","70to79",15.2
+"1046","Trinidad and Tobago"," Male","70to79",29.5
+"1047","Trinidad and Tobago"," Female","70to79",4.4
+"1048","Tunisia"," Both sexes","70to79",8.2
+"1049","Tunisia"," Male","70to79",10.9
+"1050","Tunisia"," Female","70to79",5.9
+"1051","Turkey"," Both sexes","70to79",5.6
+"1052","Turkey"," Male","70to79",9.8
+"1053","Turkey"," Female","70to79",2.3
+"1054","Turkmenistan"," Both sexes","70to79",9.1
+"1055","Turkmenistan"," Male","70to79",13.3
+"1056","Turkmenistan"," Female","70to79",6.1
+"1057","Uganda"," Both sexes","70to79",99.1
+"1058","Uganda"," Male","70to79",88.6
+"1059","Uganda"," Female","70to79",107
+"1060","Ukraine"," Both sexes","70to79",27.9
+"1061","Ukraine"," Male","70to79",62.4
+"1062","Ukraine"," Female","70to79",10.4
+"1063","United Arab Emirates"," Both sexes","70to79",5.6
+"1064","United Arab Emirates"," Male","70to79",7.2
+"1065","United Arab Emirates"," Female","70to79",1.4
+"1066","United Kingdom of Great Britain and Northern Ireland"," Both sexes","70to79",7.4
+"1067","United Kingdom of Great Britain and Northern Ireland"," Male","70to79",11.3
+"1068","United Kingdom of Great Britain and Northern Ireland"," Female","70to79",3.9
+"1069","United Republic of Tanzania"," Both sexes","70to79",43
+"1070","United Republic of Tanzania"," Male","70to79",67.7
+"1071","United Republic of Tanzania"," Female","70to79",23.4
+"1072","United States of America"," Both sexes","70to79",18.4
+"1073","United States of America"," Male","70to79",32.5
+"1074","United States of America"," Female","70to79",6.6
+"1075","Uruguay"," Both sexes","70to79",32.7
+"1076","Uruguay"," Male","70to79",57.7
+"1077","Uruguay"," Female","70to79",15.1
+"1078","Uzbekistan"," Both sexes","70to79",6.6
+"1079","Uzbekistan"," Male","70to79",11.2
+"1080","Uzbekistan"," Female","70to79",3.1
+"1081","Vanuatu"," Both sexes","70to79",13.1
+"1082","Vanuatu"," Male","70to79",17.9
+"1083","Vanuatu"," Female","70to79",8.3
+"1084","Venezuela (Bolivarian Republic of)"," Both sexes","70to79",7.1
+"1085","Venezuela (Bolivarian Republic of)"," Male","70to79",12.5
+"1086","Venezuela (Bolivarian Republic of)"," Female","70to79",2.7
+"1087","Viet Nam"," Both sexes","70to79",16.6
+"1088","Viet Nam"," Male","70to79",26.2
+"1089","Viet Nam"," Female","70to79",10.5
+"1090","Yemen"," Both sexes","70to79",9.7
+"1091","Yemen"," Male","70to79",14.2
+"1092","Yemen"," Female","70to79",5.9
+"1093","Zambia"," Both sexes","70to79",48.9
+"1094","Zambia"," Male","70to79",79
+"1095","Zambia"," Female","70to79",26.4
+"1096","Zimbabwe"," Both sexes","70to79",81.5
+"1097","Zimbabwe"," Male","70to79",111.5
+"1098","Zimbabwe"," Female","70to79",59.4
+"1099","Afghanistan"," Both sexes","60to69",5.5
+"1100","Afghanistan"," Male","60to69",9.8
+"1101","Afghanistan"," Female","60to69",1.4
+"1102","Albania"," Both sexes","60to69",6
+"1103","Albania"," Male","60to69",8.1
+"1104","Albania"," Female","60to69",3.9
+"1105","Algeria"," Both sexes","60to69",4.2
+"1106","Algeria"," Male","60to69",6.2
+"1107","Algeria"," Female","60to69",2.2
+"1108","Angola"," Both sexes","60to69",23.8
+"1109","Angola"," Male","60to69",34.7
+"1110","Angola"," Female","60to69",14.5
+"1111","Antigua and Barbuda"," Both sexes","60to69",8.1
+"1112","Antigua and Barbuda"," Male","60to69",0
+"1113","Antigua and Barbuda"," Female","60to69",15.8
+"1114","Argentina"," Both sexes","60to69",10
+"1115","Argentina"," Male","60to69",17.2
+"1116","Argentina"," Female","60to69",3.9
+"1117","Armenia"," Both sexes","60to69",10.1
+"1118","Armenia"," Male","60to69",17.8
+"1119","Armenia"," Female","60to69",4.4
+"1120","Australia"," Both sexes","60to69",12.9
+"1121","Australia"," Male","60to69",19.8
+"1122","Australia"," Female","60to69",6.2
+"1123","Austria"," Both sexes","60to69",17.8
+"1124","Austria"," Male","60to69",27.4
+"1125","Austria"," Female","60to69",9
+"1126","Azerbaijan"," Both sexes","60to69",4.5
+"1127","Azerbaijan"," Male","60to69",7.3
+"1128","Azerbaijan"," Female","60to69",2.1
+"1129","Bahamas"," Both sexes","60to69",2.6
+"1130","Bahamas"," Male","60to69",4.8
+"1131","Bahamas"," Female","60to69",0.9
+"1132","Bahrain"," Both sexes","60to69",6.2
+"1133","Bahrain"," Male","60to69",8.2
+"1134","Bahrain"," Female","60to69",3.2
+"1135","Bangladesh"," Both sexes","60to69",7.7
+"1136","Bangladesh"," Male","60to69",9.3
+"1137","Bangladesh"," Female","60to69",6.1
+"1138","Barbados"," Both sexes","60to69",0
+"1139","Barbados"," Male","60to69",0
+"1140","Barbados"," Female","60to69",0
+"1141","Belarus"," Both sexes","60to69",32
+"1142","Belarus"," Male","60to69",65.3
+"1143","Belarus"," Female","60to69",8.9
+"1144","Belgium"," Both sexes","60to69",24.2
+"1145","Belgium"," Male","60to69",32.7
+"1146","Belgium"," Female","60to69",16.2
+"1147","Belize"," Both sexes","60to69",15.1
+"1148","Belize"," Male","60to69",25.9
+"1149","Belize"," Female","60to69",4.1
+"1150","Benin"," Both sexes","60to69",36.6
+"1151","Benin"," Male","60to69",47.3
+"1152","Benin"," Female","60to69",27.6
+"1153","Bhutan"," Both sexes","60to69",12.6
+"1154","Bhutan"," Male","60to69",13.8
+"1155","Bhutan"," Female","60to69",11.2
+"1156","Bolivia (Plurinational State of)"," Both sexes","60to69",15
+"1157","Bolivia (Plurinational State of)"," Male","60to69",20.2
+"1158","Bolivia (Plurinational State of)"," Female","60to69",10
+"1159","Bosnia and Herzegovina"," Both sexes","60to69",12.7
+"1160","Bosnia and Herzegovina"," Male","60to69",22.7
+"1161","Bosnia and Herzegovina"," Female","60to69",4.2
+"1162","Botswana"," Both sexes","60to69",21.8
+"1163","Botswana"," Male","60to69",33.4
+"1164","Botswana"," Female","60to69",12.9
+"1165","Brazil"," Both sexes","60to69",9.2
+"1166","Brazil"," Male","60to69",14.6
+"1167","Brazil"," Female","60to69",4.7
+"1168","Brunei Darussalam"," Both sexes","60to69",7.3
+"1169","Brunei Darussalam"," Male","60to69",9.1
+"1170","Brunei Darussalam"," Female","60to69",5.6
+"1171","Bulgaria"," Both sexes","60to69",15.4
+"1172","Bulgaria"," Male","60to69",27.3
+"1173","Bulgaria"," Female","60to69",5.5
+"1174","Burkina Faso"," Both sexes","60to69",37.7
+"1175","Burkina Faso"," Male","60to69",54.9
+"1176","Burkina Faso"," Female","60to69",25.7
+"1177","Burundi"," Both sexes","60to69",31
+"1178","Burundi"," Male","60to69",45.2
+"1179","Burundi"," Female","60to69",17.3
+"1180","Cabo Verde"," Both sexes","60to69",44.4
+"1181","Cabo Verde"," Male","60to69",73.2
+"1182","Cabo Verde"," Female","60to69",22.2
+"1183","Cambodia"," Both sexes","60to69",10.2
+"1184","Cambodia"," Male","60to69",14.8
+"1185","Cambodia"," Female","60to69",7.1
+"1186","Cameroon"," Both sexes","60to69",46.3
+"1187","Cameroon"," Male","60to69",55.5
+"1188","Cameroon"," Female","60to69",38
+"1189","Canada"," Both sexes","60to69",13.6
+"1190","Canada"," Male","60to69",21.2
+"1191","Canada"," Female","60to69",6.2
+"1192","Central African Republic"," Both sexes","60to69",23.8
+"1193","Central African Republic"," Male","60to69",35.1
+"1194","Central African Republic"," Female","60to69",14.1
+"1195","Chad"," Both sexes","60to69",33.3
+"1196","Chad"," Male","60to69",29.7
+"1197","Chad"," Female","60to69",36.4
+"1198","Chile"," Both sexes","60to69",12.9
+"1199","Chile"," Male","60to69",22.7
+"1200","Chile"," Female","60to69",4.1
+"1201","China"," Both sexes","60to69",23.4
+"1202","China"," Male","60to69",24.2
+"1203","China"," Female","60to69",22.6
+"1204","Colombia"," Both sexes","60to69",8.7
+"1205","Colombia"," Male","60to69",16.2
+"1206","Colombia"," Female","60to69",2.3
+"1207","Comoros"," Both sexes","60to69",28.1
+"1208","Comoros"," Male","60to69",43.5
+"1209","Comoros"," Female","60to69",13.9
+"1210","Congo"," Both sexes","60to69",22.4
+"1211","Congo"," Male","60to69",33.5
+"1212","Congo"," Female","60to69",12.2
+"1213","Costa Rica"," Both sexes","60to69",8.3
+"1214","Costa Rica"," Male","60to69",15.6
+"1215","Costa Rica"," Female","60to69",1.3
+"1216","Côte d'Ivoire"," Both sexes","60to69",51.8
+"1217","Côte d'Ivoire"," Male","60to69",67.3
+"1218","Côte d'Ivoire"," Female","60to69",33
+"1219","Croatia"," Both sexes","60to69",25.5
+"1220","Croatia"," Male","60to69",38.6
+"1221","Croatia"," Female","60to69",14
+"1222","Cuba"," Both sexes","60to69",25.7
+"1223","Cuba"," Male","60to69",39.9
+"1224","Cuba"," Female","60to69",12
+"1225","Cyprus"," Both sexes","60to69",8.9
+"1226","Cyprus"," Male","60to69",12.9
+"1227","Cyprus"," Female","60to69",5
+"1228","Czechia"," Both sexes","60to69",17
+"1229","Czechia"," Male","60to69",28.5
+"1230","Czechia"," Female","60to69",6.8
+"1231","Democratic People's Republic of Korea"," Both sexes","60to69",26.3
+"1232","Democratic People's Republic of Korea"," Male","60to69",46.5
+"1233","Democratic People's Republic of Korea"," Female","60to69",10.2
+"1234","Democratic Republic of the Congo"," Both sexes","60to69",23.4
+"1235","Democratic Republic of the Congo"," Male","60to69",34.2
+"1236","Democratic Republic of the Congo"," Female","60to69",13.8
+"1237","Denmark"," Both sexes","60to69",17.1
+"1238","Denmark"," Male","60to69",23.9
+"1239","Denmark"," Female","60to69",10.5
+"1240","Djibouti"," Both sexes","60to69",17.5
+"1241","Djibouti"," Male","60to69",24.1
+"1242","Djibouti"," Female","60to69",11.6
+"1243","Dominican Republic"," Both sexes","60to69",15.4
+"1244","Dominican Republic"," Male","60to69",27.1
+"1245","Dominican Republic"," Female","60to69",4.3
+"1246","Ecuador"," Both sexes","60to69",8.6
+"1247","Ecuador"," Male","60to69",14.4
+"1248","Ecuador"," Female","60to69",3.2
+"1249","Egypt"," Both sexes","60to69",6
+"1250","Egypt"," Male","60to69",9.4
+"1251","Egypt"," Female","60to69",2.9
+"1252","El Salvador"," Both sexes","60to69",11.2
+"1253","El Salvador"," Male","60to69",23.5
+"1254","El Salvador"," Female","60to69",2.1
+"1255","Equatorial Guinea"," Both sexes","60to69",41.4
+"1256","Equatorial Guinea"," Male","60to69",59
+"1257","Equatorial Guinea"," Female","60to69",23.2
+"1258","Eritrea"," Both sexes","60to69",38.9
+"1259","Eritrea"," Male","60to69",58.4
+"1260","Eritrea"," Female","60to69",21.3
+"1261","Estonia"," Both sexes","60to69",21
+"1262","Estonia"," Male","60to69",42.5
+"1263","Estonia"," Female","60to69",5.4
+"1264","Eswatini"," Both sexes","60to69",23.3
+"1265","Eswatini"," Male","60to69",34.4
+"1266","Eswatini"," Female","60to69",15.8
+"1267","Ethiopia"," Both sexes","60to69",24.7
+"1268","Ethiopia"," Male","60to69",39.4
+"1269","Ethiopia"," Female","60to69",11.7
+"1270","Fiji"," Both sexes","60to69",5.3
+"1271","Fiji"," Male","60to69",6.1
+"1272","Fiji"," Female","60to69",4.5
+"1273","Finland"," Both sexes","60to69",16.5
+"1274","Finland"," Male","60to69",24.7
+"1275","Finland"," Female","60to69",8.8
+"1276","France"," Both sexes","60to69",20.3
+"1277","France"," Male","60to69",28.1
+"1278","France"," Female","60to69",13
+"1279","Gabon"," Both sexes","60to69",23.7
+"1280","Gabon"," Male","60to69",35.7
+"1281","Gabon"," Female","60to69",12.1
+"1282","Gambia"," Both sexes","60to69",28.1
+"1283","Gambia"," Male","60to69",32.9
+"1284","Gambia"," Female","60to69",22.9
+"1285","Georgia"," Both sexes","60to69",12.6
+"1286","Georgia"," Male","60to69",23.2
+"1287","Georgia"," Female","60to69",4.6
+"1288","Germany"," Both sexes","60to69",16.1
+"1289","Germany"," Male","60to69",23.2
+"1290","Germany"," Female","60to69",9.4
+"1291","Ghana"," Both sexes","60to69",23.6
+"1292","Ghana"," Male","60to69",42.7
+"1293","Ghana"," Female","60to69",6.6
+"1294","Greece"," Both sexes","60to69",7.1
+"1295","Greece"," Male","60to69",11.7
+"1296","Greece"," Female","60to69",3
+"1297","Grenada"," Both sexes","60to69",14.3
+"1298","Grenada"," Male","60to69",29.4
+"1299","Grenada"," Female","60to69",0
+"1300","Guatemala"," Both sexes","60to69",4.1
+"1301","Guatemala"," Male","60to69",7.8
+"1302","Guatemala"," Female","60to69",1.1
+"1303","Guinea"," Both sexes","60to69",27.8
+"1304","Guinea"," Male","60to69",31.1
+"1305","Guinea"," Female","60to69",24.8
+"1306","Guinea-Bissau"," Both sexes","60to69",22.9
+"1307","Guinea-Bissau"," Male","60to69",24.6
+"1308","Guinea-Bissau"," Female","60to69",21.5
+"1309","Guyana"," Both sexes","60to69",31.7
+"1310","Guyana"," Male","60to69",52.1
+"1311","Guyana"," Female","60to69",13.2
+"1312","Haiti"," Both sexes","60to69",11.6
+"1313","Haiti"," Male","60to69",19.3
+"1314","Haiti"," Female","60to69",4.9
+"1315","Honduras"," Both sexes","60to69",4.9
+"1316","Honduras"," Male","60to69",8.4
+"1317","Honduras"," Female","60to69",1.9
+"1318","Hungary"," Both sexes","60to69",28.1
+"1319","Hungary"," Male","60to69",48.3
+"1320","Hungary"," Female","60to69",12.2
+"1321","Iceland"," Both sexes","60to69",24
+"1322","Iceland"," Male","60to69",37.4
+"1323","Iceland"," Female","60to69",10.3
+"1324","India"," Both sexes","60to69",17.5
+"1325","India"," Male","60to69",21.7
+"1326","India"," Female","60to69",13.3
+"1327","Indonesia"," Both sexes","60to69",6.6
+"1328","Indonesia"," Male","60to69",9.4
+"1329","Indonesia"," Female","60to69",3.7
+"1330","Iran (Islamic Republic of)"," Both sexes","60to69",4.6
+"1331","Iran (Islamic Republic of)"," Male","60to69",5.9
+"1332","Iran (Islamic Republic of)"," Female","60to69",3.3
+"1333","Iraq"," Both sexes","60to69",5.6
+"1334","Iraq"," Male","60to69",6.5
+"1335","Iraq"," Female","60to69",4.8
+"1336","Ireland"," Both sexes","60to69",12.4
+"1337","Ireland"," Male","60to69",22
+"1338","Ireland"," Female","60to69",3.1
+"1339","Israel"," Both sexes","60to69",7.9
+"1340","Israel"," Male","60to69",12.2
+"1341","Israel"," Female","60to69",4
+"1342","Italy"," Both sexes","60to69",10.2
+"1343","Italy"," Male","60to69",15.7
+"1344","Italy"," Female","60to69",5.1
+"1345","Jamaica"," Both sexes","60to69",2.8
+"1346","Jamaica"," Male","60to69",4.4
+"1347","Jamaica"," Female","60to69",1.2
+"1348","Japan"," Both sexes","60to69",20.8
+"1349","Japan"," Male","60to69",28.9
+"1350","Japan"," Female","60to69",12.9
+"1351","Jordan"," Both sexes","60to69",5.8
+"1352","Jordan"," Male","60to69",7.7
+"1353","Jordan"," Female","60to69",4.1
+"1354","Kazakhstan"," Both sexes","60to69",29.2
+"1355","Kazakhstan"," Male","60to69",57.8
+"1356","Kazakhstan"," Female","60to69",9.1
+"1357","Kenya"," Both sexes","60to69",12.7
+"1358","Kenya"," Male","60to69",21.1
+"1359","Kenya"," Female","60to69",5.7
+"1360","Kiribati"," Both sexes","60to69",14.5
+"1361","Kiribati"," Male","60to69",23.5
+"1362","Kiribati"," Female","60to69",7.2
+"1363","Kuwait"," Both sexes","60to69",2.6
+"1364","Kuwait"," Male","60to69",4
+"1365","Kuwait"," Female","60to69",0
+"1366","Kyrgyzstan"," Both sexes","60to69",10.4
+"1367","Kyrgyzstan"," Male","60to69",18.1
+"1368","Kyrgyzstan"," Female","60to69",4.4
+"1369","Lao People's Democratic Republic"," Both sexes","60to69",11.7
+"1370","Lao People's Democratic Republic"," Male","60to69",16.9
+"1371","Lao People's Democratic Republic"," Female","60to69",7.1
+"1372","Latvia"," Both sexes","60to69",25.6
+"1373","Latvia"," Male","60to69",46.5
+"1374","Latvia"," Female","60to69",11.1
+"1375","Lebanon"," Both sexes","60to69",5.7
+"1376","Lebanon"," Male","60to69",8.1
+"1377","Lebanon"," Female","60to69",3.2
+"1378","Lesotho"," Both sexes","60to69",55.4
+"1379","Lesotho"," Male","60to69",33.1
+"1380","Lesotho"," Female","60to69",69.9
+"1381","Liberia"," Both sexes","60to69",45.3
+"1382","Liberia"," Male","60to69",39.8
+"1383","Liberia"," Female","60to69",50.1
+"1384","Libya"," Both sexes","60to69",7.2
+"1385","Libya"," Male","60to69",11.6
+"1386","Libya"," Female","60to69",3.1
+"1387","Lithuania"," Both sexes","60to69",40.4
+"1388","Lithuania"," Male","60to69",78.5
+"1389","Lithuania"," Female","60to69",13.3
+"1390","Luxembourg"," Both sexes","60to69",21.1
+"1391","Luxembourg"," Male","60to69",28.9
+"1392","Luxembourg"," Female","60to69",13.1
+"1393","Madagascar"," Both sexes","60to69",18.4
+"1394","Madagascar"," Male","60to69",27
+"1395","Madagascar"," Female","60to69",10.7
+"1396","Malawi"," Both sexes","60to69",19.8
+"1397","Malawi"," Male","60to69",33.9
+"1398","Malawi"," Female","60to69",9.5
+"1399","Malaysia"," Both sexes","60to69",15.8
+"1400","Malaysia"," Male","60to69",21.9
+"1401","Malaysia"," Female","60to69",9.7
+"1402","Maldives"," Both sexes","60to69",5.7
+"1403","Maldives"," Male","60to69",7.8
+"1404","Maldives"," Female","60to69",3.4
+"1405","Mali"," Both sexes","60to69",20.8
+"1406","Mali"," Male","60to69",30
+"1407","Mali"," Female","60to69",13.4
+"1408","Malta"," Both sexes","60to69",3.8
+"1409","Malta"," Male","60to69",6.8
+"1410","Malta"," Female","60to69",1
+"1411","Mauritania"," Both sexes","60to69",20.7
+"1412","Mauritania"," Male","60to69",32
+"1413","Mauritania"," Female","60to69",10.9
+"1414","Mauritius"," Both sexes","60to69",6.4
+"1415","Mauritius"," Male","60to69",11.9
+"1416","Mauritius"," Female","60to69",1.5
+"1417","Mexico"," Both sexes","60to69",6.1
+"1418","Mexico"," Male","60to69",10.7
+"1419","Mexico"," Female","60to69",1.9
+"1420","Micronesia (Federated States of)"," Both sexes","60to69",13.8
+"1421","Micronesia (Federated States of)"," Male","60to69",19.7
+"1422","Micronesia (Federated States of)"," Female","60to69",8.2
+"1423","Mongolia"," Both sexes","60to69",12.5
+"1424","Mongolia"," Male","60to69",20.4
+"1425","Mongolia"," Female","60to69",6.1
+"1426","Montenegro"," Both sexes","60to69",17.9
+"1427","Montenegro"," Male","60to69",27.7
+"1428","Montenegro"," Female","60to69",9
+"1429","Morocco"," Both sexes","60to69",4.6
+"1430","Morocco"," Male","60to69",3.1
+"1431","Morocco"," Female","60to69",6
+"1432","Mozambique"," Both sexes","60to69",17.1
+"1433","Mozambique"," Male","60to69",25.5
+"1434","Mozambique"," Female","60to69",10.4
+"1435","Myanmar"," Both sexes","60to69",11.7
+"1436","Myanmar"," Male","60to69",10.8
+"1437","Myanmar"," Female","60to69",12.4
+"1438","Namibia"," Both sexes","60to69",19.7
+"1439","Namibia"," Male","60to69",32.7
+"1440","Namibia"," Female","60to69",10.6
+"1441","Nepal"," Both sexes","60to69",12.5
+"1442","Nepal"," Male","60to69",17.6
+"1443","Nepal"," Female","60to69",8.1
+"1444","Netherlands"," Both sexes","60to69",17.3
+"1445","Netherlands"," Male","60to69",23.3
+"1446","Netherlands"," Female","60to69",11.4
+"1447","New Zealand"," Both sexes","60to69",8.1
+"1448","New Zealand"," Male","60to69",12.7
+"1449","New Zealand"," Female","60to69",3.8
+"1450","Nicaragua"," Both sexes","60to69",8.2
+"1451","Nicaragua"," Male","60to69",15.5
+"1452","Nicaragua"," Female","60to69",2.4
+"1453","Niger"," Both sexes","60to69",22.8
+"1454","Niger"," Male","60to69",26.5
+"1455","Niger"," Female","60to69",18.8
+"1456","Nigeria"," Both sexes","60to69",48.8
+"1457","Nigeria"," Male","60to69",41.7
+"1458","Nigeria"," Female","60to69",55.4
+"1459","Norway"," Both sexes","60to69",16.3
+"1460","Norway"," Male","60to69",20.9
+"1461","Norway"," Female","60to69",11.7
+"1462","Oman"," Both sexes","60to69",3.3
+"1463","Oman"," Male","60to69",4.7
+"1464","Oman"," Female","60to69",1.7
+"1465","Pakistan"," Both sexes","60to69",2.9
+"1466","Pakistan"," Male","60to69",3.2
+"1467","Pakistan"," Female","60to69",2.7
+"1468","Panama"," Both sexes","60to69",4.2
+"1469","Panama"," Male","60to69",8.1
+"1470","Panama"," Female","60to69",0.6
+"1471","Papua New Guinea"," Both sexes","60to69",10.6
+"1472","Papua New Guinea"," Male","60to69",15.3
+"1473","Papua New Guinea"," Female","60to69",6.5
+"1474","Paraguay"," Both sexes","60to69",8.3
+"1475","Paraguay"," Male","60to69",12.8
+"1476","Paraguay"," Female","60to69",3.7
+"1477","Peru"," Both sexes","60to69",8.3
+"1478","Peru"," Male","60to69",14.1
+"1479","Peru"," Female","60to69",3.1
+"1480","Philippines"," Both sexes","60to69",4.1
+"1481","Philippines"," Male","60to69",7.2
+"1482","Philippines"," Female","60to69",1.3
+"1483","Poland"," Both sexes","60to69",21.7
+"1484","Poland"," Male","60to69",40.1
+"1485","Poland"," Female","60to69",6.3
+"1486","Portugal"," Both sexes","60to69",18.1
+"1487","Portugal"," Male","60to69",29.6
+"1488","Portugal"," Female","60to69",8.2
+"1489","Qatar"," Both sexes","60to69",10.7
+"1490","Qatar"," Male","60to69",12.6
+"1491","Qatar"," Female","60to69",3.7
+"1492","Republic of Korea"," Both sexes","60to69",34.2
+"1493","Republic of Korea"," Male","60to69",54.2
+"1494","Republic of Korea"," Female","60to69",15.5
+"1495","Republic of Moldova"," Both sexes","60to69",26.9
+"1496","Republic of Moldova"," Male","60to69",51.3
+"1497","Republic of Moldova"," Female","60to69",8.7
+"1498","Republic of North Macedonia"," Both sexes","60to69",12.9
+"1499","Republic of North Macedonia"," Male","60to69",19.5
+"1500","Republic of North Macedonia"," Female","60to69",6.9
+"1501","Romania"," Both sexes","60to69",16.4
+"1502","Romania"," Male","60to69",30.1
+"1503","Romania"," Female","60to69",5.2
+"1504","Russian Federation"," Both sexes","60to69",30.8
+"1505","Russian Federation"," Male","60to69",61.4
+"1506","Russian Federation"," Female","60to69",9.8
+"1507","Rwanda"," Both sexes","60to69",24.3
+"1508","Rwanda"," Male","60to69",35.3
+"1509","Rwanda"," Female","60to69",15.1
+"1510","Saint Lucia"," Both sexes","60to69",12.3
+"1511","Saint Lucia"," Male","60to69",25.4
+"1512","Saint Lucia"," Female","60to69",0
+"1513","Saint Vincent and the Grenadines"," Both sexes","60to69",2.7
+"1514","Saint Vincent and the Grenadines"," Male","60to69",5.4
+"1515","Saint Vincent and the Grenadines"," Female","60to69",0
+"1516","Samoa"," Both sexes","60to69",12.6
+"1517","Samoa"," Male","60to69",20.4
+"1518","Samoa"," Female","60to69",5.2
+"1519","Sao Tome and Principe"," Both sexes","60to69",4.9
+"1520","Sao Tome and Principe"," Male","60to69",7.3
+"1521","Sao Tome and Principe"," Female","60to69",3.1
+"1522","Saudi Arabia"," Both sexes","60to69",6.2
+"1523","Saudi Arabia"," Male","60to69",8.1
+"1524","Saudi Arabia"," Female","60to69",3.3
+"1525","Senegal"," Both sexes","60to69",33.7
+"1526","Senegal"," Male","60to69",56.4
+"1527","Senegal"," Female","60to69",16.3
+"1528","Serbia"," Both sexes","60to69",22.2
+"1529","Serbia"," Male","60to69",35.4
+"1530","Serbia"," Female","60to69",10.6
+"1531","Seychelles"," Both sexes","60to69",16.8
+"1532","Seychelles"," Male","60to69",30.4
+"1533","Seychelles"," Female","60to69",3.5
+"1534","Sierra Leone"," Both sexes","60to69",39.3
+"1535","Sierra Leone"," Male","60to69",37.7
+"1536","Sierra Leone"," Female","60to69",40.8
+"1537","Singapore"," Both sexes","60to69",15.6
+"1538","Singapore"," Male","60to69",22.8
+"1539","Singapore"," Female","60to69",8.6
+"1540","Slovakia"," Both sexes","60to69",17.6
+"1541","Slovakia"," Male","60to69",32.4
+"1542","Slovakia"," Female","60to69",5.2
+"1543","Slovenia"," Both sexes","60to69",26.7
+"1544","Slovenia"," Male","60to69",41
+"1545","Slovenia"," Female","60to69",12.8
+"1546","Solomon Islands"," Both sexes","60to69",8.9
+"1547","Solomon Islands"," Male","60to69",12.9
+"1548","Solomon Islands"," Female","60to69",5
+"1549","Somalia"," Both sexes","60to69",18.4
+"1550","Somalia"," Male","60to69",23.3
+"1551","Somalia"," Female","60to69",13.4
+"1552","South Africa"," Both sexes","60to69",23.9
+"1553","South Africa"," Male","60to69",41.7
+"1554","South Africa"," Female","60to69",10.4
+"1555","South Sudan"," Both sexes","60to69",14.4
+"1556","South Sudan"," Male","60to69",18.2
+"1557","South Sudan"," Female","60to69",10.9
+"1558","Spain"," Both sexes","60to69",10.6
+"1559","Spain"," Male","60to69",15.9
+"1560","Spain"," Female","60to69",5.8
+"1561","Sri Lanka"," Both sexes","60to69",19
+"1562","Sri Lanka"," Male","60to69",32.2
+"1563","Sri Lanka"," Female","60to69",7.8
+"1564","Sudan"," Both sexes","60to69",5.7
+"1565","Sudan"," Male","60to69",8.6
+"1566","Sudan"," Female","60to69",3
+"1567","Suriname"," Both sexes","60to69",34.1
+"1568","Suriname"," Male","60to69",58.7
+"1569","Suriname"," Female","60to69",13
+"1570","Sweden"," Both sexes","60to69",17.3
+"1571","Sweden"," Male","60to69",23.5
+"1572","Sweden"," Female","60to69",11.1
+"1573","Switzerland"," Both sexes","60to69",21.5
+"1574","Switzerland"," Male","60to69",30.3
+"1575","Switzerland"," Female","60to69",13
+"1576","Syrian Arab Republic"," Both sexes","60to69",2.7
+"1577","Syrian Arab Republic"," Male","60to69",4
+"1578","Syrian Arab Republic"," Female","60to69",1.5
+"1579","Tajikistan"," Both sexes","60to69",7.6
+"1580","Tajikistan"," Male","60to69",10.6
+"1581","Tajikistan"," Female","60to69",4.8
+"1582","Thailand"," Both sexes","60to69",17.8
+"1583","Thailand"," Male","60to69",26.1
+"1584","Thailand"," Female","60to69",10.6
+"1585","Timor-Leste"," Both sexes","60to69",11.5
+"1586","Timor-Leste"," Male","60to69",15.3
+"1587","Timor-Leste"," Female","60to69",7.8
+"1588","Togo"," Both sexes","60to69",43.3
+"1589","Togo"," Male","60to69",54.7
+"1590","Togo"," Female","60to69",33
+"1591","Tonga"," Both sexes","60to69",8.1
+"1592","Tonga"," Male","60to69",10.8
+"1593","Tonga"," Female","60to69",6
+"1594","Trinidad and Tobago"," Both sexes","60to69",16.9
+"1595","Trinidad and Tobago"," Male","60to69",28
+"1596","Trinidad and Tobago"," Female","60to69",6.6
+"1597","Tunisia"," Both sexes","60to69",5.9
+"1598","Tunisia"," Male","60to69",7.6
+"1599","Tunisia"," Female","60to69",4.3
+"1600","Turkey"," Both sexes","60to69",3
+"1601","Turkey"," Male","60to69",4.9
+"1602","Turkey"," Female","60to69",1.5
+"1603","Turkmenistan"," Both sexes","60to69",8.2
+"1604","Turkmenistan"," Male","60to69",13.3
+"1605","Turkmenistan"," Female","60to69",4.1
+"1606","Uganda"," Both sexes","60to69",47.8
+"1607","Uganda"," Male","60to69",41.9
+"1608","Uganda"," Female","60to69",52.2
+"1609","Ukraine"," Both sexes","60to69",25
+"1610","Ukraine"," Male","60to69",51.3
+"1611","Ukraine"," Female","60to69",7.2
+"1612","United Arab Emirates"," Both sexes","60to69",4.4
+"1613","United Arab Emirates"," Male","60to69",5.6
+"1614","United Arab Emirates"," Female","60to69",1.6
+"1615","United Kingdom of Great Britain and Northern Ireland"," Both sexes","60to69",8.5
+"1616","United Kingdom of Great Britain and Northern Ireland"," Male","60to69",13
+"1617","United Kingdom of Great Britain and Northern Ireland"," Female","60to69",4.2
+"1618","United Republic of Tanzania"," Both sexes","60to69",22.6
+"1619","United Republic of Tanzania"," Male","60to69",32.6
+"1620","United Republic of Tanzania"," Female","60to69",14.4
+"1621","United States of America"," Both sexes","60to69",17.9
+"1622","United States of America"," Male","60to69",27.9
+"1623","United States of America"," Female","60to69",8.8
+"1624","Uruguay"," Both sexes","60to69",23.6
+"1625","Uruguay"," Male","60to69",39
+"1626","Uruguay"," Female","60to69",10.4
+"1627","Uzbekistan"," Both sexes","60to69",7.1
+"1628","Uzbekistan"," Male","60to69",12.8
+"1629","Uzbekistan"," Female","60to69",2.2
+"1630","Vanuatu"," Both sexes","60to69",8.2
+"1631","Vanuatu"," Male","60to69",12.1
+"1632","Vanuatu"," Female","60to69",4.3
+"1633","Venezuela (Bolivarian Republic of)"," Both sexes","60to69",5.7
+"1634","Venezuela (Bolivarian Republic of)"," Male","60to69",10.3
+"1635","Venezuela (Bolivarian Republic of)"," Female","60to69",1.5
+"1636","Viet Nam"," Both sexes","60to69",14.8
+"1637","Viet Nam"," Male","60to69",20.6
+"1638","Viet Nam"," Female","60to69",10.1
+"1639","Yemen"," Both sexes","60to69",8.3
+"1640","Yemen"," Male","60to69",11.9
+"1641","Yemen"," Female","60to69",4.9
+"1642","Zambia"," Both sexes","60to69",25.8
+"1643","Zambia"," Male","60to69",38.7
+"1644","Zambia"," Female","60to69",16
+"1645","Zimbabwe"," Both sexes","60to69",41.3
+"1646","Zimbabwe"," Male","60to69",62.8
+"1647","Zimbabwe"," Female","60to69",26.4
+"1648","Afghanistan"," Both sexes","50to59",5.6
+"1649","Afghanistan"," Male","50to59",9.3
+"1650","Afghanistan"," Female","50to59",1.6
+"1651","Albania"," Both sexes","50to59",7.8
+"1652","Albania"," Male","50to59",11.4
+"1653","Albania"," Female","50to59",4.4
+"1654","Algeria"," Both sexes","50to59",4.1
+"1655","Algeria"," Male","50to59",6.2
+"1656","Algeria"," Female","50to59",2
+"1657","Angola"," Both sexes","50to59",14.8
+"1658","Angola"," Male","50to59",21.8
+"1659","Angola"," Female","50to59",8.6
+"1660","Antigua and Barbuda"," Both sexes","50to59",0
+"1661","Antigua and Barbuda"," Male","50to59",0
+"1662","Antigua and Barbuda"," Female","50to59",0
+"1663","Argentina"," Both sexes","50to59",9.5
+"1664","Argentina"," Male","50to59",15.1
+"1665","Argentina"," Female","50to59",4.3
+"1666","Armenia"," Both sexes","50to59",8.4
+"1667","Armenia"," Male","50to59",15.9
+"1668","Armenia"," Female","50to59",2.6
+"1669","Australia"," Both sexes","50to59",18.2
+"1670","Australia"," Male","50to59",27.5
+"1671","Australia"," Female","50to59",9
+"1672","Austria"," Both sexes","50to59",23.1
+"1673","Austria"," Male","50to59",33.1
+"1674","Austria"," Female","50to59",13.2
+"1675","Azerbaijan"," Both sexes","50to59",4.1
+"1676","Azerbaijan"," Male","50to59",7
+"1677","Azerbaijan"," Female","50to59",1.4
+"1678","Bahamas"," Both sexes","50to59",2.6
+"1679","Bahamas"," Male","50to59",4.6
+"1680","Bahamas"," Female","50to59",0.8
+"1681","Bahrain"," Both sexes","50to59",4.8
+"1682","Bahrain"," Male","50to59",6.5
+"1683","Bahrain"," Female","50to59",1.9
+"1684","Bangladesh"," Both sexes","50to59",4.9
+"1685","Bangladesh"," Male","50to59",6.2
+"1686","Bangladesh"," Female","50to59",3.6
+"1687","Barbados"," Both sexes","50to59",0.3
+"1688","Barbados"," Male","50to59",0.6
+"1689","Barbados"," Female","50to59",0
+"1690","Belarus"," Both sexes","50to59",39.9
+"1691","Belarus"," Male","50to59",75.9
+"1692","Belarus"," Female","50to59",9.5
+"1693","Belgium"," Both sexes","50to59",32.3
+"1694","Belgium"," Male","50to59",41.8
+"1695","Belgium"," Female","50to59",22.7
+"1696","Belize"," Both sexes","50to59",10.5
+"1697","Belize"," Male","50to59",17.8
+"1698","Belize"," Female","50to59",3
+"1699","Benin"," Both sexes","50to59",24.5
+"1700","Benin"," Male","50to59",33
+"1701","Benin"," Female","50to59",16.7
+"1702","Bhutan"," Both sexes","50to59",16.3
+"1703","Bhutan"," Male","50to59",18.9
+"1704","Bhutan"," Female","50to59",13.2
+"1705","Bolivia (Plurinational State of)"," Both sexes","50to59",15
+"1706","Bolivia (Plurinational State of)"," Male","50to59",20
+"1707","Bolivia (Plurinational State of)"," Female","50to59",10.1
+"1708","Bosnia and Herzegovina"," Both sexes","50to59",12.3
+"1709","Bosnia and Herzegovina"," Male","50to59",19.3
+"1710","Bosnia and Herzegovina"," Female","50to59",5.4
+"1711","Botswana"," Both sexes","50to59",20.3
+"1712","Botswana"," Male","50to59",31.5
+"1713","Botswana"," Female","50to59",11.2
+"1714","Brazil"," Both sexes","50to59",9.3
+"1715","Brazil"," Male","50to59",14.6
+"1716","Brazil"," Female","50to59",4.5
+"1717","Brunei Darussalam"," Both sexes","50to59",7.2
+"1718","Brunei Darussalam"," Male","50to59",8.6
+"1719","Brunei Darussalam"," Female","50to59",5.7
+"1720","Bulgaria"," Both sexes","50to59",13.8
+"1721","Bulgaria"," Male","50to59",22.9
+"1722","Bulgaria"," Female","50to59",4.9
+"1723","Burkina Faso"," Both sexes","50to59",23.4
+"1724","Burkina Faso"," Male","50to59",34
+"1725","Burkina Faso"," Female","50to59",14.8
+"1726","Burundi"," Both sexes","50to59",23.9
+"1727","Burundi"," Male","50to59",34.8
+"1728","Burundi"," Female","50to59",13.5
+"1729","Cabo Verde"," Both sexes","50to59",31.6
+"1730","Cabo Verde"," Male","50to59",50.2
+"1731","Cabo Verde"," Female","50to59",15.4
+"1732","Cambodia"," Both sexes","50to59",5.1
+"1733","Cambodia"," Male","50to59",7.3
+"1734","Cambodia"," Female","50to59",3.3
+"1735","Cameroon"," Both sexes","50to59",29.2
+"1736","Cameroon"," Male","50to59",37.2
+"1737","Cameroon"," Female","50to59",21.5
+"1738","Canada"," Both sexes","50to59",19.7
+"1739","Canada"," Male","50to59",29
+"1740","Canada"," Female","50to59",10.2
+"1741","Central African Republic"," Both sexes","50to59",18.8
+"1742","Central African Republic"," Male","50to59",27.6
+"1743","Central African Republic"," Female","50to59",10.6
+"1744","Chad"," Both sexes","50to59",25.9
+"1745","Chad"," Male","50to59",24.5
+"1746","Chad"," Female","50to59",27.1
+"1747","Chile"," Both sexes","50to59",14.3
+"1748","Chile"," Male","50to59",22.6
+"1749","Chile"," Female","50to59",6.2
+"1750","China"," Both sexes","50to59",10.5
+"1751","China"," Male","50to59",9
+"1752","China"," Female","50to59",12.1
+"1753","Colombia"," Both sexes","50to59",8
+"1754","Colombia"," Male","50to59",13.9
+"1755","Colombia"," Female","50to59",2.7
+"1756","Comoros"," Both sexes","50to59",20
+"1757","Comoros"," Male","50to59",30.4
+"1758","Comoros"," Female","50to59",9.8
+"1759","Congo"," Both sexes","50to59",16.1
+"1760","Congo"," Male","50to59",23.4
+"1761","Congo"," Female","50to59",8.8
+"1762","Costa Rica"," Both sexes","50to59",11.5
+"1763","Costa Rica"," Male","50to59",20
+"1764","Costa Rica"," Female","50to59",3.4
+"1765","Côte d'Ivoire"," Both sexes","50to59",33.6
+"1766","Côte d'Ivoire"," Male","50to59",45.5
+"1767","Côte d'Ivoire"," Female","50to59",19.8
+"1768","Croatia"," Both sexes","50to59",22.2
+"1769","Croatia"," Male","50to59",37
+"1770","Croatia"," Female","50to59",8.1
+"1771","Cuba"," Both sexes","50to59",17.8
+"1772","Cuba"," Male","50to59",27.8
+"1773","Cuba"," Female","50to59",7.9
+"1774","Cyprus"," Both sexes","50to59",6.3
+"1775","Cyprus"," Male","50to59",9.9
+"1776","Cyprus"," Female","50to59",2.7
+"1777","Czechia"," Both sexes","50to59",18.6
+"1778","Czechia"," Male","50to59",29.8
+"1779","Czechia"," Female","50to59",7.4
+"1780","Democratic People's Republic of Korea"," Both sexes","50to59",11.3
+"1781","Democratic People's Republic of Korea"," Male","50to59",16.2
+"1782","Democratic People's Republic of Korea"," Female","50to59",6.7
+"1783","Democratic Republic of the Congo"," Both sexes","50to59",15.6
+"1784","Democratic Republic of the Congo"," Male","50to59",23.8
+"1785","Democratic Republic of the Congo"," Female","50to59",7.8
+"1786","Denmark"," Both sexes","50to59",17.6
+"1787","Denmark"," Male","50to59",25.7
+"1788","Denmark"," Female","50to59",9.4
+"1789","Djibouti"," Both sexes","50to59",11.8
+"1790","Djibouti"," Male","50to59",15.9
+"1791","Djibouti"," Female","50to59",7.7
+"1792","Dominican Republic"," Both sexes","50to59",12.6
+"1793","Dominican Republic"," Male","50to59",22.3
+"1794","Dominican Republic"," Female","50to59",3.1
+"1795","Ecuador"," Both sexes","50to59",6.6
+"1796","Ecuador"," Male","50to59",10.5
+"1797","Ecuador"," Female","50to59",2.8
+"1798","Egypt"," Both sexes","50to59",6.4
+"1799","Egypt"," Male","50to59",10.7
+"1800","Egypt"," Female","50to59",2.1
+"1801","El Salvador"," Both sexes","50to59",11.9
+"1802","El Salvador"," Male","50to59",24.8
+"1803","El Salvador"," Female","50to59",2.3
+"1804","Equatorial Guinea"," Both sexes","50to59",30.3
+"1805","Equatorial Guinea"," Male","50to59",42.7
+"1806","Equatorial Guinea"," Female","50to59",16.1
+"1807","Eritrea"," Both sexes","50to59",29.2
+"1808","Eritrea"," Male","50to59",45.3
+"1809","Eritrea"," Female","50to59",14.2
+"1810","Estonia"," Both sexes","50to59",24.5
+"1811","Estonia"," Male","50to59",42.3
+"1812","Estonia"," Female","50to59",8.6
+"1813","Eswatini"," Both sexes","50to59",24.7
+"1814","Eswatini"," Male","50to59",38
+"1815","Eswatini"," Female","50to59",15.8
+"1816","Ethiopia"," Both sexes","50to59",16
+"1817","Ethiopia"," Male","50to59",26.3
+"1818","Ethiopia"," Female","50to59",6.9
+"1819","Fiji"," Both sexes","50to59",3.2
+"1820","Fiji"," Male","50to59",4.3
+"1821","Fiji"," Female","50to59",2.2
+"1822","Finland"," Both sexes","50to59",22.4
+"1823","Finland"," Male","50to59",32.9
+"1824","Finland"," Female","50to59",12
+"1825","France"," Both sexes","50to59",23.2
+"1826","France"," Male","50to59",35
+"1827","France"," Female","50to59",11.8
+"1828","Gabon"," Both sexes","50to59",14.5
+"1829","Gabon"," Male","50to59",21.5
+"1830","Gabon"," Female","50to59",7
+"1831","Gambia"," Both sexes","50to59",15.3
+"1832","Gambia"," Male","50to59",18.5
+"1833","Gambia"," Female","50to59",12.4
+"1834","Georgia"," Both sexes","50to59",12.5
+"1835","Georgia"," Male","50to59",22.8
+"1836","Georgia"," Female","50to59",3.6
+"1837","Germany"," Both sexes","50to59",17.3
+"1838","Germany"," Male","50to59",25
+"1839","Germany"," Female","50to59",9.4
+"1840","Ghana"," Both sexes","50to59",12.5
+"1841","Ghana"," Male","50to59",22.4
+"1842","Ghana"," Female","50to59",3.4
+"1843","Greece"," Both sexes","50to59",7.5
+"1844","Greece"," Male","50to59",12.3
+"1845","Greece"," Female","50to59",2.8
+"1846","Grenada"," Both sexes","50to59",0
+"1847","Grenada"," Male","50to59",0
+"1848","Grenada"," Female","50to59",0
+"1849","Guatemala"," Both sexes","50to59",3.1
+"1850","Guatemala"," Male","50to59",5.6
+"1851","Guatemala"," Female","50to59",1
+"1852","Guinea"," Both sexes","50to59",15.9
+"1853","Guinea"," Male","50to59",18.7
+"1854","Guinea"," Female","50to59",13.3
+"1855","Guinea-Bissau"," Both sexes","50to59",9.3
+"1856","Guinea-Bissau"," Male","50to59",11.2
+"1857","Guinea-Bissau"," Female","50to59",7.5
+"1858","Guyana"," Both sexes","50to59",46.6
+"1859","Guyana"," Male","50to59",73.8
+"1860","Guyana"," Female","50to59",19.1
+"1861","Haiti"," Both sexes","50to59",10.7
+"1862","Haiti"," Male","50to59",17.5
+"1863","Haiti"," Female","50to59",4.4
+"1864","Honduras"," Both sexes","50to59",5.4
+"1865","Honduras"," Male","50to59",8.5
+"1866","Honduras"," Female","50to59",2.6
+"1867","Hungary"," Both sexes","50to59",30
+"1868","Hungary"," Male","50to59",47.5
+"1869","Hungary"," Female","50to59",14.2
+"1870","Iceland"," Both sexes","50to59",13.4
+"1871","Iceland"," Male","50to59",17.7
+"1872","Iceland"," Female","50to59",9.3
+"1873","India"," Both sexes","50to59",16.8
+"1874","India"," Male","50to59",22.5
+"1875","India"," Female","50to59",10.9
+"1876","Indonesia"," Both sexes","50to59",4.6
+"1877","Indonesia"," Male","50to59",6.9
+"1878","Indonesia"," Female","50to59",2.4
+"1879","Iran (Islamic Republic of)"," Both sexes","50to59",3.7
+"1880","Iran (Islamic Republic of)"," Male","50to59",5.2
+"1881","Iran (Islamic Republic of)"," Female","50to59",2.2
+"1882","Iraq"," Both sexes","50to59",6.6
+"1883","Iraq"," Male","50to59",8.3
+"1884","Iraq"," Female","50to59",5
+"1885","Ireland"," Both sexes","50to59",19.5
+"1886","Ireland"," Male","50to59",31.8
+"1887","Ireland"," Female","50to59",7.4
+"1888","Israel"," Both sexes","50to59",9.4
+"1889","Israel"," Male","50to59",15
+"1890","Israel"," Female","50to59",4.1
+"1891","Italy"," Both sexes","50to59",9.5
+"1892","Italy"," Male","50to59",13.9
+"1893","Italy"," Female","50to59",5.2
+"1894","Jamaica"," Both sexes","50to59",2.9
+"1895","Jamaica"," Male","50to59",4.9
+"1896","Jamaica"," Female","50to59",1
+"1897","Japan"," Both sexes","50to59",23.9
+"1898","Japan"," Male","50to59",34.5
+"1899","Japan"," Female","50to59",13.1
+"1900","Jordan"," Both sexes","50to59",4.9
+"1901","Jordan"," Male","50to59",6.5
+"1902","Jordan"," Female","50to59",3.2
+"1903","Kazakhstan"," Both sexes","50to59",32.8
+"1904","Kazakhstan"," Male","50to59",61.6
+"1905","Kazakhstan"," Female","50to59",8.3
+"1906","Kenya"," Both sexes","50to59",8.4
+"1907","Kenya"," Male","50to59",13.7
+"1908","Kenya"," Female","50to59",3.7
+"1909","Kiribati"," Both sexes","50to59",10.4
+"1910","Kiribati"," Male","50to59",17.6
+"1911","Kiribati"," Female","50to59",4.2
+"1912","Kuwait"," Both sexes","50to59",2.3
+"1913","Kuwait"," Male","50to59",3.7
+"1914","Kuwait"," Female","50to59",0
+"1915","Kyrgyzstan"," Both sexes","50to59",11.7
+"1916","Kyrgyzstan"," Male","50to59",21.3
+"1917","Kyrgyzstan"," Female","50to59",3.1
+"1918","Lao People's Democratic Republic"," Both sexes","50to59",9.7
+"1919","Lao People's Democratic Republic"," Male","50to59",13.7
+"1920","Lao People's Democratic Republic"," Female","50to59",5.9
+"1921","Latvia"," Both sexes","50to59",30.8
+"1922","Latvia"," Male","50to59",57.7
+"1923","Latvia"," Female","50to59",8
+"1924","Lebanon"," Both sexes","50to59",5.2
+"1925","Lebanon"," Male","50to59",7.2
+"1926","Lebanon"," Female","50to59",2.4
+"1927","Lesotho"," Both sexes","50to59",48.5
+"1928","Lesotho"," Male","50to59",33.7
+"1929","Lesotho"," Female","50to59",56.9
+"1930","Liberia"," Both sexes","50to59",19.2
+"1931","Liberia"," Male","50to59",19.8
+"1932","Liberia"," Female","50to59",18.6
+"1933","Libya"," Both sexes","50to59",7.8
+"1934","Libya"," Male","50to59",13.3
+"1935","Libya"," Female","50to59",2.5
+"1936","Lithuania"," Both sexes","50to59",46
+"1937","Lithuania"," Male","50to59",85.4
+"1938","Lithuania"," Female","50to59",12.3
+"1939","Luxembourg"," Both sexes","50to59",19.2
+"1940","Luxembourg"," Male","50to59",28.6
+"1941","Luxembourg"," Female","50to59",9.3
+"1942","Madagascar"," Both sexes","50to59",11.3
+"1943","Madagascar"," Male","50to59",16.3
+"1944","Madagascar"," Female","50to59",6.5
+"1945","Malawi"," Both sexes","50to59",11.7
+"1946","Malawi"," Male","50to59",20.8
+"1947","Malawi"," Female","50to59",4.7
+"1948","Malaysia"," Both sexes","50to59",10.9
+"1949","Malaysia"," Male","50to59",15.8
+"1950","Malaysia"," Female","50to59",5.7
+"1951","Maldives"," Both sexes","50to59",2.6
+"1952","Maldives"," Male","50to59",3.7
+"1953","Maldives"," Female","50to59",1.3
+"1954","Mali"," Both sexes","50to59",12.6
+"1955","Mali"," Male","50to59",18.8
+"1956","Mali"," Female","50to59",7.3
+"1957","Malta"," Both sexes","50to59",13.2
+"1958","Malta"," Male","50to59",20.9
+"1959","Malta"," Female","50to59",5.5
+"1960","Mauritania"," Both sexes","50to59",12.9
+"1961","Mauritania"," Male","50to59",19.9
+"1962","Mauritania"," Female","50to59",6.1
+"1963","Mauritius"," Both sexes","50to59",7.4
+"1964","Mauritius"," Male","50to59",12.7
+"1965","Mauritius"," Female","50to59",2.3
+"1966","Mexico"," Both sexes","50to59",5.9
+"1967","Mexico"," Male","50to59",10.1
+"1968","Mexico"," Female","50to59",2
+"1969","Micronesia (Federated States of)"," Both sexes","50to59",9.3
+"1970","Micronesia (Federated States of)"," Male","50to59",14.1
+"1971","Micronesia (Federated States of)"," Female","50to59",4.7
+"1972","Mongolia"," Both sexes","50to59",17.4
+"1973","Mongolia"," Male","50to59",31.5
+"1974","Mongolia"," Female","50to59",5.2
+"1975","Montenegro"," Both sexes","50to59",13
+"1976","Montenegro"," Male","50to59",18.7
+"1977","Montenegro"," Female","50to59",7.3
+"1978","Morocco"," Both sexes","50to59",3.3
+"1979","Morocco"," Male","50to59",2.4
+"1980","Morocco"," Female","50to59",4.2
+"1981","Mozambique"," Both sexes","50to59",11.5
+"1982","Mozambique"," Male","50to59",18.4
+"1983","Mozambique"," Female","50to59",6
+"1984","Myanmar"," Both sexes","50to59",8.8
+"1985","Myanmar"," Male","50to59",7.4
+"1986","Myanmar"," Female","50to59",10.1
+"1987","Namibia"," Both sexes","50to59",20.8
+"1988","Namibia"," Male","50to59",34.2
+"1989","Namibia"," Female","50to59",10.1
+"1990","Nepal"," Both sexes","50to59",10.8
+"1991","Nepal"," Male","50to59",15.7
+"1992","Nepal"," Female","50to59",5.9
+"1993","Netherlands"," Both sexes","50to59",19.3
+"1994","Netherlands"," Male","50to59",25.8
+"1995","Netherlands"," Female","50to59",12.8
+"1996","New Zealand"," Both sexes","50to59",14.6
+"1997","New Zealand"," Male","50to59",20.8
+"1998","New Zealand"," Female","50to59",8.9
+"1999","Nicaragua"," Both sexes","50to59",9.8
+"2000","Nicaragua"," Male","50to59",18.1
+"2001","Nicaragua"," Female","50to59",2.9
+"2002","Niger"," Both sexes","50to59",15.9
+"2003","Niger"," Male","50to59",18
+"2004","Niger"," Female","50to59",13.2
+"2005","Nigeria"," Both sexes","50to59",26
+"2006","Nigeria"," Male","50to59",25
+"2007","Nigeria"," Female","50to59",27.1
+"2008","Norway"," Both sexes","50to59",17.6
+"2009","Norway"," Male","50to59",22.8
+"2010","Norway"," Female","50to59",12.1
+"2011","Oman"," Both sexes","50to59",3.6
+"2012","Oman"," Male","50to59",4.7
+"2013","Oman"," Female","50to59",1
+"2014","Pakistan"," Both sexes","50to59",2.7
+"2015","Pakistan"," Male","50to59",3.2
+"2016","Pakistan"," Female","50to59",2.1
+"2017","Panama"," Both sexes","50to59",5.2
+"2018","Panama"," Male","50to59",8.7
+"2019","Panama"," Female","50to59",1.8
+"2020","Papua New Guinea"," Both sexes","50to59",7.9
+"2021","Papua New Guinea"," Male","50to59",11.6
+"2022","Papua New Guinea"," Female","50to59",4.2
+"2023","Paraguay"," Both sexes","50to59",7.6
+"2024","Paraguay"," Male","50to59",10.6
+"2025","Paraguay"," Female","50to59",4.5
+"2026","Peru"," Both sexes","50to59",7.2
+"2027","Peru"," Male","50to59",11.9
+"2028","Peru"," Female","50to59",2.8
+"2029","Philippines"," Both sexes","50to59",3.8
+"2030","Philippines"," Male","50to59",5.9
+"2031","Philippines"," Female","50to59",1.8
+"2032","Poland"," Both sexes","50to59",27.7
+"2033","Poland"," Male","50to59",49.4
+"2034","Poland"," Female","50to59",7.2
+"2035","Portugal"," Both sexes","50to59",16.8
+"2036","Portugal"," Male","50to59",26.5
+"2037","Portugal"," Female","50to59",8.1
+"2038","Qatar"," Both sexes","50to59",5.9
+"2039","Qatar"," Male","50to59",7
+"2040","Qatar"," Female","50to59",1.1
+"2041","Republic of Korea"," Both sexes","50to59",35.6
+"2042","Republic of Korea"," Male","50to59",56.8
+"2043","Republic of Korea"," Female","50to59",14.6
+"2044","Republic of Moldova"," Both sexes","50to59",27.8
+"2045","Republic of Moldova"," Male","50to59",53.6
+"2046","Republic of Moldova"," Female","50to59",5.9
+"2047","Republic of North Macedonia"," Both sexes","50to59",12.7
+"2048","Republic of North Macedonia"," Male","50to59",20.4
+"2049","Republic of North Macedonia"," Female","50to59",5
+"2050","Romania"," Both sexes","50to59",16.8
+"2051","Romania"," Male","50to59",30.9
+"2052","Romania"," Female","50to59",3.5
+"2053","Russian Federation"," Both sexes","50to59",37.7
+"2054","Russian Federation"," Male","50to59",72.4
+"2055","Russian Federation"," Female","50to59",8.9
+"2056","Rwanda"," Both sexes","50to59",17.5
+"2057","Rwanda"," Male","50to59",25.7
+"2058","Rwanda"," Female","50to59",9.3
+"2059","Saint Lucia"," Both sexes","50to59",9.3
+"2060","Saint Lucia"," Male","50to59",19.2
+"2061","Saint Lucia"," Female","50to59",0
+"2062","Saint Vincent and the Grenadines"," Both sexes","50to59",0.9
+"2063","Saint Vincent and the Grenadines"," Male","50to59",1.8
+"2064","Saint Vincent and the Grenadines"," Female","50to59",0
+"2065","Samoa"," Both sexes","50to59",7
+"2066","Samoa"," Male","50to59",11.3
+"2067","Samoa"," Female","50to59",2.5
+"2068","Sao Tome and Principe"," Both sexes","50to59",3.9
+"2069","Sao Tome and Principe"," Male","50to59",5.7
+"2070","Sao Tome and Principe"," Female","50to59",2.5
+"2071","Saudi Arabia"," Both sexes","50to59",4.8
+"2072","Saudi Arabia"," Male","50to59",6
+"2073","Saudi Arabia"," Female","50to59",2.4
+"2074","Senegal"," Both sexes","50to59",18.5
+"2075","Senegal"," Male","50to59",31.7
+"2076","Senegal"," Female","50to59",8.1
+"2077","Serbia"," Both sexes","50to59",22.2
+"2078","Serbia"," Male","50to59",35.3
+"2079","Serbia"," Female","50to59",9.8
+"2080","Seychelles"," Both sexes","50to59",14.6
+"2081","Seychelles"," Male","50to59",27
+"2082","Seychelles"," Female","50to59",2.9
+"2083","Sierra Leone"," Both sexes","50to59",24.9
+"2084","Sierra Leone"," Male","50to59",23.7
+"2085","Sierra Leone"," Female","50to59",26
+"2086","Singapore"," Both sexes","50to59",12.4
+"2087","Singapore"," Male","50to59",18.2
+"2088","Singapore"," Female","50to59",6.6
+"2089","Slovakia"," Both sexes","50to59",21.9
+"2090","Slovakia"," Male","50to59",37.8
+"2091","Slovakia"," Female","50to59",6.8
+"2092","Slovenia"," Both sexes","50to59",26.4
+"2093","Slovenia"," Male","50to59",44.8
+"2094","Slovenia"," Female","50to59",7.6
+"2095","Solomon Islands"," Both sexes","50to59",5.8
+"2096","Solomon Islands"," Male","50to59",8.7
+"2097","Solomon Islands"," Female","50to59",2.7
+"2098","Somalia"," Both sexes","50to59",12.4
+"2099","Somalia"," Male","50to59",15.7
+"2100","Somalia"," Female","50to59",9.1
+"2101","South Africa"," Both sexes","50to59",24.7
+"2102","South Africa"," Male","50to59",42.9
+"2103","South Africa"," Female","50to59",9.4
+"2104","South Sudan"," Both sexes","50to59",9.7
+"2105","South Sudan"," Male","50to59",12.4
+"2106","South Sudan"," Female","50to59",7.2
+"2107","Spain"," Both sexes","50to59",11.8
+"2108","Spain"," Male","50to59",18.1
+"2109","Spain"," Female","50to59",5.6
+"2110","Sri Lanka"," Both sexes","50to59",17
+"2111","Sri Lanka"," Male","50to59",30.1
+"2112","Sri Lanka"," Female","50to59",5.1
+"2113","Sudan"," Both sexes","50to59",6.7
+"2114","Sudan"," Male","50to59",10.3
+"2115","Sudan"," Female","50to59",3.3
+"2116","Suriname"," Both sexes","50to59",38.5
+"2117","Suriname"," Male","50to59",61.3
+"2118","Suriname"," Female","50to59",15.9
+"2119","Sweden"," Both sexes","50to59",20.3
+"2120","Sweden"," Male","50to59",26.2
+"2121","Sweden"," Female","50to59",14.1
+"2122","Switzerland"," Both sexes","50to59",21.7
+"2123","Switzerland"," Male","50to59",29.3
+"2124","Switzerland"," Female","50to59",13.9
+"2125","Syrian Arab Republic"," Both sexes","50to59",2.8
+"2126","Syrian Arab Republic"," Male","50to59",4.7
+"2127","Syrian Arab Republic"," Female","50to59",1.2
+"2128","Tajikistan"," Both sexes","50to59",6
+"2129","Tajikistan"," Male","50to59",10.6
+"2130","Tajikistan"," Female","50to59",1.9
+"2131","Thailand"," Both sexes","50to59",17
+"2132","Thailand"," Male","50to59",26.3
+"2133","Thailand"," Female","50to59",8.5
+"2134","Timor-Leste"," Both sexes","50to59",7.7
+"2135","Timor-Leste"," Male","50to59",10.8
+"2136","Timor-Leste"," Female","50to59",4.5
+"2137","Togo"," Both sexes","50to59",24.8
+"2138","Togo"," Male","50to59",34.7
+"2139","Togo"," Female","50to59",15.5
+"2140","Tonga"," Both sexes","50to59",5.2
+"2141","Tonga"," Male","50to59",7
+"2142","Tonga"," Female","50to59",3.2
+"2143","Trinidad and Tobago"," Both sexes","50to59",10.1
+"2144","Trinidad and Tobago"," Male","50to59",17.3
+"2145","Trinidad and Tobago"," Female","50to59",3.2
+"2146","Tunisia"," Both sexes","50to59",5.6
+"2147","Tunisia"," Male","50to59",8
+"2148","Tunisia"," Female","50to59",3.3
+"2149","Turkey"," Both sexes","50to59",3.1
+"2150","Turkey"," Male","50to59",4.9
+"2151","Turkey"," Female","50to59",1.4
+"2152","Turkmenistan"," Both sexes","50to59",9.6
+"2153","Turkmenistan"," Male","50to59",17
+"2154","Turkmenistan"," Female","50to59",3.3
+"2155","Uganda"," Both sexes","50to59",29.6
+"2156","Uganda"," Male","50to59",30.6
+"2157","Uganda"," Female","50to59",28.8
+"2158","Ukraine"," Both sexes","50to59",29.8
+"2159","Ukraine"," Male","50to59",58.4
+"2160","Ukraine"," Female","50to59",6.4
+"2161","United Arab Emirates"," Both sexes","50to59",3.2
+"2162","United Arab Emirates"," Male","50to59",3.7
+"2163","United Arab Emirates"," Female","50to59",1.4
+"2164","United Kingdom of Great Britain and Northern Ireland"," Both sexes","50to59",13.4
+"2165","United Kingdom of Great Britain and Northern Ireland"," Male","50to59",20.8
+"2166","United Kingdom of Great Britain and Northern Ireland"," Female","50to59",6.2
+"2167","United Republic of Tanzania"," Both sexes","50to59",15.3
+"2168","United Republic of Tanzania"," Male","50to59",21.5
+"2169","United Republic of Tanzania"," Female","50to59",9.6
+"2170","United States of America"," Both sexes","50to59",21.7
+"2171","United States of America"," Male","50to59",32
+"2172","United States of America"," Female","50to59",11.6
+"2173","Uruguay"," Both sexes","50to59",22.1
+"2174","Uruguay"," Male","50to59",35.6
+"2175","Uruguay"," Female","50to59",9.8
+"2176","Uzbekistan"," Both sexes","50to59",7.5
+"2177","Uzbekistan"," Male","50to59",13.9
+"2178","Uzbekistan"," Female","50to59",1.7
+"2179","Vanuatu"," Both sexes","50to59",5.1
+"2180","Vanuatu"," Male","50to59",8
+"2181","Vanuatu"," Female","50to59",2.4
+"2182","Venezuela (Bolivarian Republic of)"," Both sexes","50to59",4.6
+"2183","Venezuela (Bolivarian Republic of)"," Male","50to59",8.2
+"2184","Venezuela (Bolivarian Republic of)"," Female","50to59",1.1
+"2185","Viet Nam"," Both sexes","50to59",8.3
+"2186","Viet Nam"," Male","50to59",12.9
+"2187","Viet Nam"," Female","50to59",4
+"2188","Yemen"," Both sexes","50to59",9.1
+"2189","Yemen"," Male","50to59",13.6
+"2190","Yemen"," Female","50to59",5.1
+"2191","Zambia"," Both sexes","50to59",18.7
+"2192","Zambia"," Male","50to59",27.3
+"2193","Zambia"," Female","50to59",11.2
+"2194","Zimbabwe"," Both sexes","50to59",29.4
+"2195","Zimbabwe"," Male","50to59",47
+"2196","Zimbabwe"," Female","50to59",16
+"2197","Afghanistan"," Both sexes","40to49",6.6
+"2198","Afghanistan"," Male","40to49",10.5
+"2199","Afghanistan"," Female","40to49",2.3
+"2200","Albania"," Both sexes","40to49",9.1
+"2201","Albania"," Male","40to49",13.5
+"2202","Albania"," Female","40to49",5
+"2203","Algeria"," Both sexes","40to49",4.7
+"2204","Algeria"," Male","40to49",7
+"2205","Algeria"," Female","40to49",2.4
+"2206","Angola"," Both sexes","40to49",7
+"2207","Angola"," Male","40to49",10.7
+"2208","Angola"," Female","40to49",3.5
+"2209","Antigua and Barbuda"," Both sexes","40to49",0
+"2210","Antigua and Barbuda"," Male","40to49",0
+"2211","Antigua and Barbuda"," Female","40to49",0
+"2212","Argentina"," Both sexes","40to49",9.8
+"2213","Argentina"," Male","40to49",15.5
+"2214","Argentina"," Female","40to49",4.2
+"2215","Armenia"," Both sexes","40to49",9
+"2216","Armenia"," Male","40to49",17.2
+"2217","Armenia"," Female","40to49",2.3
+"2218","Australia"," Both sexes","40to49",19.7
+"2219","Australia"," Male","40to49",30.2
+"2220","Australia"," Female","40to49",9.4
+"2221","Austria"," Both sexes","40to49",15.7
+"2222","Austria"," Male","40to49",23.8
+"2223","Austria"," Female","40to49",7.6
+"2224","Azerbaijan"," Both sexes","40to49",3.5
+"2225","Azerbaijan"," Male","40to49",6.2
+"2226","Azerbaijan"," Female","40to49",1
+"2227","Bahamas"," Both sexes","40to49",2.2
+"2228","Bahamas"," Male","40to49",4
+"2229","Bahamas"," Female","40to49",0.5
+"2230","Bahrain"," Both sexes","40to49",6.1
+"2231","Bahrain"," Male","40to49",8.6
+"2232","Bahrain"," Female","40to49",1.4
+"2233","Bangladesh"," Both sexes","40to49",4.6
+"2234","Bangladesh"," Male","40to49",4.8
+"2235","Bangladesh"," Female","40to49",4.5
+"2236","Barbados"," Both sexes","40to49",0.4
+"2237","Barbados"," Male","40to49",0.9
+"2238","Barbados"," Female","40to49",0
+"2239","Belarus"," Both sexes","40to49",39.9
+"2240","Belarus"," Male","40to49",70.4
+"2241","Belarus"," Female","40to49",11.8
+"2242","Belgium"," Both sexes","40to49",29.1
+"2243","Belgium"," Male","40to49",40.2
+"2244","Belgium"," Female","40to49",17.6
+"2245","Belize"," Both sexes","40to49",7.2
+"2246","Belize"," Male","40to49",12.8
+"2247","Belize"," Female","40to49",1.9
+"2248","Benin"," Both sexes","40to49",15.6
+"2249","Benin"," Male","40to49",22.6
+"2250","Benin"," Female","40to49",9
+"2251","Bhutan"," Both sexes","40to49",19.3
+"2252","Bhutan"," Male","40to49",23.3
+"2253","Bhutan"," Female","40to49",14.5
+"2254","Bolivia (Plurinational State of)"," Both sexes","40to49",15.6
+"2255","Bolivia (Plurinational State of)"," Male","40to49",21.2
+"2256","Bolivia (Plurinational State of)"," Female","40to49",10.1
+"2257","Bosnia and Herzegovina"," Both sexes","40to49",11.1
+"2258","Bosnia and Herzegovina"," Male","40to49",18.4
+"2259","Bosnia and Herzegovina"," Female","40to49",3.9
+"2260","Botswana"," Both sexes","40to49",15.3
+"2261","Botswana"," Male","40to49",23.5
+"2262","Botswana"," Female","40to49",7.4
+"2263","Brazil"," Both sexes","40to49",8.6
+"2264","Brazil"," Male","40to49",13.6
+"2265","Brazil"," Female","40to49",4
+"2266","Brunei Darussalam"," Both sexes","40to49",7.8
+"2267","Brunei Darussalam"," Male","40to49",11.3
+"2268","Brunei Darussalam"," Female","40to49",4.1
+"2269","Bulgaria"," Both sexes","40to49",10.3
+"2270","Bulgaria"," Male","40to49",16.2
+"2271","Bulgaria"," Female","40to49",4.1
+"2272","Burkina Faso"," Both sexes","40to49",13.9
+"2273","Burkina Faso"," Male","40to49",21.2
+"2274","Burkina Faso"," Female","40to49",7.1
+"2275","Burundi"," Both sexes","40to49",15.1
+"2276","Burundi"," Male","40to49",22.6
+"2277","Burundi"," Female","40to49",7.9
+"2278","Cabo Verde"," Both sexes","40to49",16.8
+"2279","Cabo Verde"," Male","40to49",26.2
+"2280","Cabo Verde"," Female","40to49",7.1
+"2281","Cambodia"," Both sexes","40to49",6.8
+"2282","Cambodia"," Male","40to49",10.8
+"2283","Cambodia"," Female","40to49",3.2
+"2284","Cameroon"," Both sexes","40to49",18.8
+"2285","Cameroon"," Male","40to49",27.2
+"2286","Cameroon"," Female","40to49",10.4
+"2287","Canada"," Both sexes","40to49",17.4
+"2288","Canada"," Male","40to49",25.3
+"2289","Canada"," Female","40to49",9.5
+"2290","Central African Republic"," Both sexes","40to49",12.6
+"2291","Central African Republic"," Male","40to49",19.5
+"2292","Central African Republic"," Female","40to49",5.7
+"2293","Chad"," Both sexes","40to49",16.7
+"2294","Chad"," Male","40to49",19.8
+"2295","Chad"," Female","40to49",13.5
+"2296","Chile"," Both sexes","40to49",14.4
+"2297","Chile"," Male","40to49",23.2
+"2298","Chile"," Female","40to49",5.6
+"2299","China"," Both sexes","40to49",6.3
+"2300","China"," Male","40to49",4.8
+"2301","China"," Female","40to49",7.8
+"2302","Colombia"," Both sexes","40to49",7
+"2303","Colombia"," Male","40to49",11.9
+"2304","Colombia"," Female","40to49",2.3
+"2305","Comoros"," Both sexes","40to49",11.4
+"2306","Comoros"," Male","40to49",17.2
+"2307","Comoros"," Female","40to49",5.5
+"2308","Congo"," Both sexes","40to49",9.5
+"2309","Congo"," Male","40to49",13.4
+"2310","Congo"," Female","40to49",5.6
+"2311","Costa Rica"," Both sexes","40to49",10.4
+"2312","Costa Rica"," Male","40to49",18
+"2313","Costa Rica"," Female","40to49",2.9
+"2314","Côte d'Ivoire"," Both sexes","40to49",23.6
+"2315","Côte d'Ivoire"," Male","40to49",32.9
+"2316","Côte d'Ivoire"," Female","40to49",13.7
+"2317","Croatia"," Both sexes","40to49",17
+"2318","Croatia"," Male","40to49",23.7
+"2319","Croatia"," Female","40to49",10.2
+"2320","Cuba"," Both sexes","40to49",13.8
+"2321","Cuba"," Male","40to49",22.1
+"2322","Cuba"," Female","40to49",5.4
+"2323","Cyprus"," Both sexes","40to49",6.2
+"2324","Cyprus"," Male","40to49",11
+"2325","Cyprus"," Female","40to49",1.7
+"2326","Czechia"," Both sexes","40to49",15.8
+"2327","Czechia"," Male","40to49",25.5
+"2328","Czechia"," Female","40to49",5.6
+"2329","Democratic People's Republic of Korea"," Both sexes","40to49",7.9
+"2330","Democratic People's Republic of Korea"," Male","40to49",9.4
+"2331","Democratic People's Republic of Korea"," Female","40to49",6.3
+"2332","Democratic Republic of the Congo"," Both sexes","40to49",9.5
+"2333","Democratic Republic of the Congo"," Male","40to49",15
+"2334","Democratic Republic of the Congo"," Female","40to49",4.2
+"2335","Denmark"," Both sexes","40to49",16.7
+"2336","Denmark"," Male","40to49",25.7
+"2337","Denmark"," Female","40to49",7.5
+"2338","Djibouti"," Both sexes","40to49",8
+"2339","Djibouti"," Male","40to49",11
+"2340","Djibouti"," Female","40to49",5.1
+"2341","Dominican Republic"," Both sexes","40to49",13.4
+"2342","Dominican Republic"," Male","40to49",23.8
+"2343","Dominican Republic"," Female","40to49",3.3
+"2344","Ecuador"," Both sexes","40to49",7.1
+"2345","Ecuador"," Male","40to49",12
+"2346","Ecuador"," Female","40to49",2.3
+"2347","Egypt"," Both sexes","40to49",5.1
+"2348","Egypt"," Male","40to49",8.8
+"2349","Egypt"," Female","40to49",1.4
+"2350","El Salvador"," Both sexes","40to49",13.1
+"2351","El Salvador"," Male","40to49",25.6
+"2352","El Salvador"," Female","40to49",3.4
+"2353","Equatorial Guinea"," Both sexes","40to49",23.5
+"2354","Equatorial Guinea"," Male","40to49",31.9
+"2355","Equatorial Guinea"," Female","40to49",11.3
+"2356","Eritrea"," Both sexes","40to49",14.5
+"2357","Eritrea"," Male","40to49",23.8
+"2358","Eritrea"," Female","40to49",5.7
+"2359","Estonia"," Both sexes","40to49",17.8
+"2360","Estonia"," Male","40to49",29.3
+"2361","Estonia"," Female","40to49",6.3
+"2362","Eswatini"," Both sexes","40to49",22.8
+"2363","Eswatini"," Male","40to49",34.4
+"2364","Eswatini"," Female","40to49",13.5
+"2365","Ethiopia"," Both sexes","40to49",11.5
+"2366","Ethiopia"," Male","40to49",18.5
+"2367","Ethiopia"," Female","40to49",4.5
+"2368","Fiji"," Both sexes","40to49",6.4
+"2369","Fiji"," Male","40to49",10.9
+"2370","Fiji"," Female","40to49",1.7
+"2371","Finland"," Both sexes","40to49",19.9
+"2372","Finland"," Male","40to49",30.5
+"2373","Finland"," Female","40to49",8.9
+"2374","France"," Both sexes","40to49",21.8
+"2375","France"," Male","40to49",33.9
+"2376","France"," Female","40to49",9.6
+"2377","Gabon"," Both sexes","40to49",8.3
+"2378","Gabon"," Male","40to49",12
+"2379","Gabon"," Female","40to49",4
+"2380","Gambia"," Both sexes","40to49",6.4
+"2381","Gambia"," Male","40to49",8.8
+"2382","Gambia"," Female","40to49",4.2
+"2383","Georgia"," Both sexes","40to49",9.7
+"2384","Georgia"," Male","40to49",17.6
+"2385","Georgia"," Female","40to49",2.2
+"2386","Germany"," Both sexes","40to49",13.3
+"2387","Germany"," Male","40to49",19.3
+"2388","Germany"," Female","40to49",7.1
+"2389","Ghana"," Both sexes","40to49",7.5
+"2390","Ghana"," Male","40to49",13.2
+"2391","Ghana"," Female","40to49",2.2
+"2392","Greece"," Both sexes","40to49",6.4
+"2393","Greece"," Male","40to49",10.3
+"2394","Greece"," Female","40to49",2.5
+"2395","Grenada"," Both sexes","40to49",0
+"2396","Grenada"," Male","40to49",0
+"2397","Grenada"," Female","40to49",0
+"2398","Guatemala"," Both sexes","40to49",3.5
+"2399","Guatemala"," Male","40to49",6.5
+"2400","Guatemala"," Female","40to49",0.9
+"2401","Guinea"," Both sexes","40to49",8.7
+"2402","Guinea"," Male","40to49",11.6
+"2403","Guinea"," Female","40to49",5.8
+"2404","Guinea-Bissau"," Both sexes","40to49",5.7
+"2405","Guinea-Bissau"," Male","40to49",7.5
+"2406","Guinea-Bissau"," Female","40to49",4
+"2407","Guyana"," Both sexes","40to49",54.8
+"2408","Guyana"," Male","40to49",86.5
+"2409","Guyana"," Female","40to49",21.8
+"2410","Haiti"," Both sexes","40to49",13.6
+"2411","Haiti"," Male","40to49",22.3
+"2412","Haiti"," Female","40to49",5.6
+"2413","Honduras"," Both sexes","40to49",4.4
+"2414","Honduras"," Male","40to49",7.1
+"2415","Honduras"," Female","40to49",1.9
+"2416","Hungary"," Both sexes","40to49",21.3
+"2417","Hungary"," Male","40to49",32.7
+"2418","Hungary"," Female","40to49",9.8
+"2419","Iceland"," Both sexes","40to49",20.4
+"2420","Iceland"," Male","40to49",38.2
+"2421","Iceland"," Female","40to49",2.4
+"2422","India"," Both sexes","40to49",17.7
+"2423","India"," Male","40to49",24.2
+"2424","India"," Female","40to49",10.9
+"2425","Indonesia"," Both sexes","40to49",4.5
+"2426","Indonesia"," Male","40to49",6.4
+"2427","Indonesia"," Female","40to49",2.6
+"2428","Iran (Islamic Republic of)"," Both sexes","40to49",3.5
+"2429","Iran (Islamic Republic of)"," Male","40to49",4.7
+"2430","Iran (Islamic Republic of)"," Female","40to49",2.3
+"2431","Iraq"," Both sexes","40to49",7
+"2432","Iraq"," Male","40to49",7.8
+"2433","Iraq"," Female","40to49",6.1
+"2434","Ireland"," Both sexes","40to49",18
+"2435","Ireland"," Male","40to49",29.2
+"2436","Ireland"," Female","40to49",6.8
+"2437","Israel"," Both sexes","40to49",8.4
+"2438","Israel"," Male","40to49",14.3
+"2439","Israel"," Female","40to49",2.7
+"2440","Italy"," Both sexes","40to49",8.1
+"2441","Italy"," Male","40to49",12.4
+"2442","Italy"," Female","40to49",3.8
+"2443","Jamaica"," Both sexes","40to49",2.7
+"2444","Jamaica"," Male","40to49",4.3
+"2445","Jamaica"," Female","40to49",1
+"2446","Japan"," Both sexes","40to49",20.7
+"2447","Japan"," Male","40to49",29.8
+"2448","Japan"," Female","40to49",11.3
+"2449","Jordan"," Both sexes","40to49",5.2
+"2450","Jordan"," Male","40to49",6
+"2451","Jordan"," Female","40to49",4.3
+"2452","Kazakhstan"," Both sexes","40to49",37.9
+"2453","Kazakhstan"," Male","40to49",67.9
+"2454","Kazakhstan"," Female","40to49",9.9
+"2455","Kenya"," Both sexes","40to49",4.8
+"2456","Kenya"," Male","40to49",7.8
+"2457","Kenya"," Female","40to49",1.9
+"2458","Kiribati"," Both sexes","40to49",11.1
+"2459","Kiribati"," Male","40to49",19.7
+"2460","Kiribati"," Female","40to49",3.4
+"2461","Kuwait"," Both sexes","40to49",2.1
+"2462","Kuwait"," Male","40to49",2.7
+"2463","Kuwait"," Female","40to49",1
+"2464","Kyrgyzstan"," Both sexes","40to49",14.8
+"2465","Kyrgyzstan"," Male","40to49",25.8
+"2466","Kyrgyzstan"," Female","40to49",4.3
+"2467","Lao People's Democratic Republic"," Both sexes","40to49",9.8
+"2468","Lao People's Democratic Republic"," Male","40to49",13.6
+"2469","Lao People's Democratic Republic"," Female","40to49",6.1
+"2470","Latvia"," Both sexes","40to49",25.4
+"2471","Latvia"," Male","40to49",43.4
+"2472","Latvia"," Female","40to49",8.4
+"2473","Lebanon"," Both sexes","40to49",4.5
+"2474","Lebanon"," Male","40to49",6.4
+"2475","Lebanon"," Female","40to49",2.3
+"2476","Lesotho"," Both sexes","40to49",35.7
+"2477","Lesotho"," Male","40to49",29.8
+"2478","Lesotho"," Female","40to49",40.7
+"2479","Liberia"," Both sexes","40to49",9.1
+"2480","Liberia"," Male","40to49",11.2
+"2481","Liberia"," Female","40to49",7.1
+"2482","Libya"," Both sexes","40to49",8.5
+"2483","Libya"," Male","40to49",13.7
+"2484","Libya"," Female","40to49",3
+"2485","Lithuania"," Both sexes","40to49",42.2
+"2486","Lithuania"," Male","40to49",75
+"2487","Lithuania"," Female","40to49",12
+"2488","Luxembourg"," Both sexes","40to49",14.1
+"2489","Luxembourg"," Male","40to49",20.5
+"2490","Luxembourg"," Female","40to49",7.3
+"2491","Madagascar"," Both sexes","40to49",6.6
+"2492","Madagascar"," Male","40to49",9.8
+"2493","Madagascar"," Female","40to49",3.5
+"2494","Malawi"," Both sexes","40to49",6.1
+"2495","Malawi"," Male","40to49",10.1
+"2496","Malawi"," Female","40to49",2.2
+"2497","Malaysia"," Both sexes","40to49",5.9
+"2498","Malaysia"," Male","40to49",8.5
+"2499","Malaysia"," Female","40to49",3.2
+"2500","Maldives"," Both sexes","40to49",1.9
+"2501","Maldives"," Male","40to49",2.6
+"2502","Maldives"," Female","40to49",0.9
+"2503","Mali"," Both sexes","40to49",7.4
+"2504","Mali"," Male","40to49",12
+"2505","Mali"," Female","40to49",3
+"2506","Malta"," Both sexes","40to49",13
+"2507","Malta"," Male","40to49",22.1
+"2508","Malta"," Female","40to49",3.5
+"2509","Mauritania"," Both sexes","40to49",6.8
+"2510","Mauritania"," Male","40to49",10.9
+"2511","Mauritania"," Female","40to49",2.7
+"2512","Mauritius"," Both sexes","40to49",11
+"2513","Mauritius"," Male","40to49",18.4
+"2514","Mauritius"," Female","40to49",3.5
+"2515","Mexico"," Both sexes","40to49",6
+"2516","Mexico"," Male","40to49",10.2
+"2517","Mexico"," Female","40to49",1.9
+"2518","Micronesia (Federated States of)"," Both sexes","40to49",8
+"2519","Micronesia (Federated States of)"," Male","40to49",12.7
+"2520","Micronesia (Federated States of)"," Female","40to49",4.3
+"2521","Mongolia"," Both sexes","40to49",22.2
+"2522","Mongolia"," Male","40to49",40
+"2523","Mongolia"," Female","40to49",5.1
+"2524","Montenegro"," Both sexes","40to49",9.5
+"2525","Montenegro"," Male","40to49",14.3
+"2526","Montenegro"," Female","40to49",4.8
+"2527","Morocco"," Both sexes","40to49",3.4
+"2528","Morocco"," Male","40to49",3.1
+"2529","Morocco"," Female","40to49",3.7
+"2530","Mozambique"," Both sexes","40to49",7.2
+"2531","Mozambique"," Male","40to49",11.3
+"2532","Mozambique"," Female","40to49",3.8
+"2533","Myanmar"," Both sexes","40to49",8.8
+"2534","Myanmar"," Male","40to49",6.4
+"2535","Myanmar"," Female","40to49",11
+"2536","Namibia"," Both sexes","40to49",15.8
+"2537","Namibia"," Male","40to49",25.8
+"2538","Namibia"," Female","40to49",6.9
+"2539","Nepal"," Both sexes","40to49",9.6
+"2540","Nepal"," Male","40to49",12.5
+"2541","Nepal"," Female","40to49",7
+"2542","Netherlands"," Both sexes","40to49",15
+"2543","Netherlands"," Male","40to49",20.3
+"2544","Netherlands"," Female","40to49",9.7
+"2545","New Zealand"," Both sexes","40to49",16.4
+"2546","New Zealand"," Male","40to49",27.3
+"2547","New Zealand"," Female","40to49",6.5
+"2548","Nicaragua"," Both sexes","40to49",12.2
+"2549","Nicaragua"," Male","40to49",21.1
+"2550","Nicaragua"," Female","40to49",4.5
+"2551","Niger"," Both sexes","40to49",7.8
+"2552","Niger"," Male","40to49",10.2
+"2553","Niger"," Female","40to49",5.4
+"2554","Nigeria"," Both sexes","40to49",14.6
+"2555","Nigeria"," Male","40to49",17
+"2556","Nigeria"," Female","40to49",12.2
+"2557","Norway"," Both sexes","40to49",15.1
+"2558","Norway"," Male","40to49",20.2
+"2559","Norway"," Female","40to49",9.6
+"2560","Oman"," Both sexes","40to49",4
+"2561","Oman"," Male","40to49",5.1
+"2562","Oman"," Female","40to49",0.9
+"2563","Pakistan"," Both sexes","40to49",2.9
+"2564","Pakistan"," Male","40to49",3.6
+"2565","Pakistan"," Female","40to49",2.2
+"2566","Panama"," Both sexes","40to49",4.9
+"2567","Panama"," Male","40to49",8.7
+"2568","Panama"," Female","40to49",1.1
+"2569","Papua New Guinea"," Both sexes","40to49",6.5
+"2570","Papua New Guinea"," Male","40to49",10
+"2571","Papua New Guinea"," Female","40to49",2.8
+"2572","Paraguay"," Both sexes","40to49",8.2
+"2573","Paraguay"," Male","40to49",11.3
+"2574","Paraguay"," Female","40to49",5
+"2575","Peru"," Both sexes","40to49",6.8
+"2576","Peru"," Male","40to49",10.5
+"2577","Peru"," Female","40to49",3.1
+"2578","Philippines"," Both sexes","40to49",3.3
+"2579","Philippines"," Male","40to49",4.9
+"2580","Philippines"," Female","40to49",1.7
+"2581","Poland"," Both sexes","40to49",20.8
+"2582","Poland"," Male","40to49",35.5
+"2583","Poland"," Female","40to49",6
+"2584","Portugal"," Both sexes","40to49",13.8
+"2585","Portugal"," Male","40to49",22
+"2586","Portugal"," Female","40to49",6.1
+"2587","Qatar"," Both sexes","40to49",6.1
+"2588","Qatar"," Male","40to49",7.5
+"2589","Qatar"," Female","40to49",1
+"2590","Republic of Korea"," Both sexes","40to49",30.6
+"2591","Republic of Korea"," Male","40to49",44.1
+"2592","Republic of Korea"," Female","40to49",16.5
+"2593","Republic of Moldova"," Both sexes","40to49",23.8
+"2594","Republic of Moldova"," Male","40to49",44.5
+"2595","Republic of Moldova"," Female","40to49",4.3
+"2596","Republic of North Macedonia"," Both sexes","40to49",7.6
+"2597","Republic of North Macedonia"," Male","40to49",11.3
+"2598","Republic of North Macedonia"," Female","40to49",3.9
+"2599","Romania"," Both sexes","40to49",13.3
+"2600","Romania"," Male","40to49",22.4
+"2601","Romania"," Female","40to49",3.9
+"2602","Russian Federation"," Both sexes","40to49",38.4
+"2603","Russian Federation"," Male","40to49",70
+"2604","Russian Federation"," Female","40to49",9
+"2605","Rwanda"," Both sexes","40to49",9.7
+"2606","Rwanda"," Male","40to49",14.9
+"2607","Rwanda"," Female","40to49",4.9
+"2608","Saint Lucia"," Both sexes","40to49",12.7
+"2609","Saint Lucia"," Male","40to49",18.7
+"2610","Saint Lucia"," Female","40to49",7.1
+"2611","Saint Vincent and the Grenadines"," Both sexes","40to49",3.6
+"2612","Saint Vincent and the Grenadines"," Male","40to49",5.6
+"2613","Saint Vincent and the Grenadines"," Female","40to49",1.4
+"2614","Samoa"," Both sexes","40to49",5.3
+"2615","Samoa"," Male","40to49",8.7
+"2616","Samoa"," Female","40to49",1.5
+"2617","Sao Tome and Principe"," Both sexes","40to49",3
+"2618","Sao Tome and Principe"," Male","40to49",3.9
+"2619","Sao Tome and Principe"," Female","40to49",2.1
+"2620","Saudi Arabia"," Both sexes","40to49",4.9
+"2621","Saudi Arabia"," Male","40to49",6.3
+"2622","Saudi Arabia"," Female","40to49",2.5
+"2623","Senegal"," Both sexes","40to49",8.7
+"2624","Senegal"," Male","40to49",15.2
+"2625","Senegal"," Female","40to49",3.3
+"2626","Serbia"," Both sexes","40to49",15.7
+"2627","Serbia"," Male","40to49",23.9
+"2628","Serbia"," Female","40to49",7.6
+"2629","Seychelles"," Both sexes","40to49",13.8
+"2630","Seychelles"," Male","40to49",25
+"2631","Seychelles"," Female","40to49",3.1
+"2632","Sierra Leone"," Both sexes","40to49",15.9
+"2633","Sierra Leone"," Male","40to49",17.8
+"2634","Sierra Leone"," Female","40to49",14
+"2635","Singapore"," Both sexes","40to49",11.3
+"2636","Singapore"," Male","40to49",14.8
+"2637","Singapore"," Female","40to49",7.9
+"2638","Slovakia"," Both sexes","40to49",16.6
+"2639","Slovakia"," Male","40to49",29.1
+"2640","Slovakia"," Female","40to49",3.8
+"2641","Slovenia"," Both sexes","40to49",19.1
+"2642","Slovenia"," Male","40to49",30.8
+"2643","Slovenia"," Female","40to49",6.6
+"2644","Solomon Islands"," Both sexes","40to49",4.3
+"2645","Solomon Islands"," Male","40to49",6.6
+"2646","Solomon Islands"," Female","40to49",2
+"2647","Somalia"," Both sexes","40to49",9.2
+"2648","Somalia"," Male","40to49",12.2
+"2649","Somalia"," Female","40to49",6.3
+"2650","South Africa"," Both sexes","40to49",18.5
+"2651","South Africa"," Male","40to49",31.5
+"2652","South Africa"," Female","40to49",6.1
+"2653","South Sudan"," Both sexes","40to49",5.6
+"2654","South Sudan"," Male","40to49",7.3
+"2655","South Sudan"," Female","40to49",3.9
+"2656","Spain"," Both sexes","40to49",10.6
+"2657","Spain"," Male","40to49",15.6
+"2658","Spain"," Female","40to49",5.4
+"2659","Sri Lanka"," Both sexes","40to49",18.4
+"2660","Sri Lanka"," Male","40to49",32.5
+"2661","Sri Lanka"," Female","40to49",5
+"2662","Sudan"," Both sexes","40to49",11.7
+"2663","Sudan"," Male","40to49",18.7
+"2664","Sudan"," Female","40to49",4.9
+"2665","Suriname"," Both sexes","40to49",30.7
+"2666","Suriname"," Male","40to49",51.6
+"2667","Suriname"," Female","40to49",9.6
+"2668","Sweden"," Both sexes","40to49",16.6
+"2669","Sweden"," Male","40to49",23.3
+"2670","Sweden"," Female","40to49",9.7
+"2671","Switzerland"," Both sexes","40to49",14.9
+"2672","Switzerland"," Male","40to49",21.1
+"2673","Switzerland"," Female","40to49",8.6
+"2674","Syrian Arab Republic"," Both sexes","40to49",3.4
+"2675","Syrian Arab Republic"," Male","40to49",5.9
+"2676","Syrian Arab Republic"," Female","40to49",1.1
+"2677","Tajikistan"," Both sexes","40to49",4.7
+"2678","Tajikistan"," Male","40to49",8
+"2679","Tajikistan"," Female","40to49",1.5
+"2680","Thailand"," Both sexes","40to49",15
+"2681","Thailand"," Male","40to49",25.9
+"2682","Thailand"," Female","40to49",4.9
+"2683","Timor-Leste"," Both sexes","40to49",6.8
+"2684","Timor-Leste"," Male","40to49",10.4
+"2685","Timor-Leste"," Female","40to49",3
+"2686","Togo"," Both sexes","40to49",15.6
+"2687","Togo"," Male","40to49",22.7
+"2688","Togo"," Female","40to49",8.7
+"2689","Tonga"," Both sexes","40to49",3.5
+"2690","Tonga"," Male","40to49",4.8
+"2691","Tonga"," Female","40to49",2.2
+"2692","Trinidad and Tobago"," Both sexes","40to49",17.4
+"2693","Trinidad and Tobago"," Male","40to49",29.3
+"2694","Trinidad and Tobago"," Female","40to49",5.7
+"2695","Tunisia"," Both sexes","40to49",4.5
+"2696","Tunisia"," Male","40to49",6.4
+"2697","Tunisia"," Female","40to49",2.7
+"2698","Turkey"," Both sexes","40to49",6.7
+"2699","Turkey"," Male","40to49",11.3
+"2700","Turkey"," Female","40to49",2.4
+"2701","Turkmenistan"," Both sexes","40to49",10
+"2702","Turkmenistan"," Male","40to49",17.6
+"2703","Turkmenistan"," Female","40to49",2.8
+"2704","Uganda"," Both sexes","40to49",17.9
+"2705","Uganda"," Male","40to49",20.2
+"2706","Uganda"," Female","40to49",15.6
+"2707","Ukraine"," Both sexes","40to49",30.5
+"2708","Ukraine"," Male","40to49",55.3
+"2709","Ukraine"," Female","40to49",7.8
+"2710","United Arab Emirates"," Both sexes","40to49",2.8
+"2711","United Arab Emirates"," Male","40to49",3.4
+"2712","United Arab Emirates"," Female","40to49",0.9
+"2713","United Kingdom of Great Britain and Northern Ireland"," Both sexes","40to49",15
+"2714","United Kingdom of Great Britain and Northern Ireland"," Male","40to49",24
+"2715","United Kingdom of Great Britain and Northern Ireland"," Female","40to49",6.1
+"2716","United Republic of Tanzania"," Both sexes","40to49",9.1
+"2717","United Republic of Tanzania"," Male","40to49",12.7
+"2718","United Republic of Tanzania"," Female","40to49",5.6
+"2719","United States of America"," Both sexes","40to49",19.3
+"2720","United States of America"," Male","40to49",28.5
+"2721","United States of America"," Female","40to49",10.1
+"2722","Uruguay"," Both sexes","40to49",22
+"2723","Uruguay"," Male","40to49",33.9
+"2724","Uruguay"," Female","40to49",10.4
+"2725","Uzbekistan"," Both sexes","40to49",9.7
+"2726","Uzbekistan"," Male","40to49",16.7
+"2727","Uzbekistan"," Female","40to49",3
+"2728","Vanuatu"," Both sexes","40to49",3.8
+"2729","Vanuatu"," Male","40to49",6.1
+"2730","Vanuatu"," Female","40to49",1.8
+"2731","Venezuela (Bolivarian Republic of)"," Both sexes","40to49",4
+"2732","Venezuela (Bolivarian Republic of)"," Male","40to49",6.8
+"2733","Venezuela (Bolivarian Republic of)"," Female","40to49",1.2
+"2734","Viet Nam"," Both sexes","40to49",7.7
+"2735","Viet Nam"," Male","40to49",12.8
+"2736","Viet Nam"," Female","40to49",2.6
+"2737","Yemen"," Both sexes","40to49",12.2
+"2738","Yemen"," Male","40to49",17.4
+"2739","Yemen"," Female","40to49",7
+"2740","Zambia"," Both sexes","40to49",11.8
+"2741","Zambia"," Male","40to49",17
+"2742","Zambia"," Female","40to49",6.9
+"2743","Zimbabwe"," Both sexes","40to49",19.2
+"2744","Zimbabwe"," Male","40to49",30.1
+"2745","Zimbabwe"," Female","40to49",9.4
+"2746","Afghanistan"," Both sexes","30to39",9.2
+"2747","Afghanistan"," Male","30to39",15.1
+"2748","Afghanistan"," Female","30to39",2.7
+"2749","Albania"," Both sexes","30to39",6.1
+"2750","Albania"," Male","30to39",8.8
+"2751","Albania"," Female","30to39",3.4
+"2752","Algeria"," Both sexes","30to39",5.3
+"2753","Algeria"," Male","30to39",7.9
+"2754","Algeria"," Female","30to39",2.6
+"2755","Angola"," Both sexes","30to39",5.4
+"2756","Angola"," Male","30to39",8.4
+"2757","Angola"," Female","30to39",2.5
+"2758","Antigua and Barbuda"," Both sexes","30to39",0
+"2759","Antigua and Barbuda"," Male","30to39",0
+"2760","Antigua and Barbuda"," Female","30to39",0
+"2761","Argentina"," Both sexes","30to39",10.8
+"2762","Argentina"," Male","30to39",17.8
+"2763","Argentina"," Female","30to39",3.7
+"2764","Armenia"," Both sexes","30to39",5.4
+"2765","Armenia"," Male","30to39",10.1
+"2766","Armenia"," Female","30to39",1.4
+"2767","Australia"," Both sexes","30to39",16.3
+"2768","Australia"," Male","30to39",24.7
+"2769","Australia"," Female","30to39",8
+"2770","Austria"," Both sexes","30to39",13.1
+"2771","Austria"," Male","30to39",19.9
+"2772","Austria"," Female","30to39",6.3
+"2773","Azerbaijan"," Both sexes","30to39",3.2
+"2774","Azerbaijan"," Male","30to39",5.4
+"2775","Azerbaijan"," Female","30to39",1
+"2776","Bahamas"," Both sexes","30to39",1.9
+"2777","Bahamas"," Male","30to39",3.7
+"2778","Bahamas"," Female","30to39",0.2
+"2779","Bahrain"," Both sexes","30to39",8.1
+"2780","Bahrain"," Male","30to39",10.6
+"2781","Bahrain"," Female","30to39",2.7
+"2782","Bangladesh"," Both sexes","30to39",6.6
+"2783","Bangladesh"," Male","30to39",4.9
+"2784","Bangladesh"," Female","30to39",8.2
+"2785","Barbados"," Both sexes","30to39",0.4
+"2786","Barbados"," Male","30to39",0.8
+"2787","Barbados"," Female","30to39",0
+"2788","Belarus"," Both sexes","30to39",30.6
+"2789","Belarus"," Male","30to39",52.1
+"2790","Belarus"," Female","30to39",9
+"2791","Belgium"," Both sexes","30to39",18.3
+"2792","Belgium"," Male","30to39",28.2
+"2793","Belgium"," Female","30to39",8.4
+"2794","Belize"," Both sexes","30to39",4
+"2795","Belize"," Male","30to39",7.6
+"2796","Belize"," Female","30to39",0.6
+"2797","Benin"," Both sexes","30to39",13.9
+"2798","Benin"," Male","30to39",21.6
+"2799","Benin"," Female","30to39",6.2
+"2800","Bhutan"," Both sexes","30to39",19.4
+"2801","Bhutan"," Male","30to39",23.3
+"2802","Bhutan"," Female","30to39",14.3
+"2803","Bolivia (Plurinational State of)"," Both sexes","30to39",17
+"2804","Bolivia (Plurinational State of)"," Male","30to39",23.4
+"2805","Bolivia (Plurinational State of)"," Female","30to39",10.6
+"2806","Bosnia and Herzegovina"," Both sexes","30to39",6.7
+"2807","Bosnia and Herzegovina"," Male","30to39",10.4
+"2808","Bosnia and Herzegovina"," Female","30to39",2.8
+"2809","Botswana"," Both sexes","30to39",12.1
+"2810","Botswana"," Male","30to39",19.2
+"2811","Botswana"," Female","30to39",4.9
+"2812","Brazil"," Both sexes","30to39",8.1
+"2813","Brazil"," Male","30to39",12.8
+"2814","Brazil"," Female","30to39",3.4
+"2815","Brunei Darussalam"," Both sexes","30to39",5.4
+"2816","Brunei Darussalam"," Male","30to39",8.6
+"2817","Brunei Darussalam"," Female","30to39",1.9
+"2818","Bulgaria"," Both sexes","30to39",8.8
+"2819","Bulgaria"," Male","30to39",14.2
+"2820","Bulgaria"," Female","30to39",3.1
+"2821","Burkina Faso"," Both sexes","30to39",12
+"2822","Burkina Faso"," Male","30to39",15.7
+"2823","Burkina Faso"," Female","30to39",8.4
+"2824","Burundi"," Both sexes","30to39",12.9
+"2825","Burundi"," Male","30to39",19.7
+"2826","Burundi"," Female","30to39",6.4
+"2827","Cabo Verde"," Both sexes","30to39",8
+"2828","Cabo Verde"," Male","30to39",13
+"2829","Cabo Verde"," Female","30to39",2.5
+"2830","Cambodia"," Both sexes","30to39",9.5
+"2831","Cambodia"," Male","30to39",15.4
+"2832","Cambodia"," Female","30to39",4
+"2833","Cameroon"," Both sexes","30to39",17.6
+"2834","Cameroon"," Male","30to39",27.1
+"2835","Cameroon"," Female","30to39",8.1
+"2836","Canada"," Both sexes","30to39",12.4
+"2837","Canada"," Male","30to39",18
+"2838","Canada"," Female","30to39",6.9
+"2839","Central African Republic"," Both sexes","30to39",12.2
+"2840","Central African Republic"," Male","30to39",18.3
+"2841","Central African Republic"," Female","30to39",6.3
+"2842","Chad"," Both sexes","30to39",14.7
+"2843","Chad"," Male","30to39",19.4
+"2844","Chad"," Female","30to39",9.9
+"2845","Chile"," Both sexes","30to39",13
+"2846","Chile"," Male","30to39",21.1
+"2847","Chile"," Female","30to39",4.7
+"2848","China"," Both sexes","30to39",6
+"2849","China"," Male","30to39",4.7
+"2850","China"," Female","30to39",7.4
+"2851","Colombia"," Both sexes","30to39",7.8
+"2852","Colombia"," Male","30to39",13
+"2853","Colombia"," Female","30to39",2.8
+"2854","Comoros"," Both sexes","30to39",7.9
+"2855","Comoros"," Male","30to39",11.5
+"2856","Comoros"," Female","30to39",4.2
+"2857","Congo"," Both sexes","30to39",7.7
+"2858","Congo"," Male","30to39",10.5
+"2859","Congo"," Female","30to39",4.9
+"2860","Costa Rica"," Both sexes","30to39",10.1
+"2861","Costa Rica"," Male","30to39",17.2
+"2862","Costa Rica"," Female","30to39",2.8
+"2863","Côte d'Ivoire"," Both sexes","30to39",21.1
+"2864","Côte d'Ivoire"," Male","30to39",30
+"2865","Côte d'Ivoire"," Female","30to39",12.2
+"2866","Croatia"," Both sexes","30to39",12.1
+"2867","Croatia"," Male","30to39",20.2
+"2868","Croatia"," Female","30to39",3.9
+"2869","Cuba"," Both sexes","30to39",9.7
+"2870","Cuba"," Male","30to39",16.3
+"2871","Cuba"," Female","30to39",2.8
+"2872","Cyprus"," Both sexes","30to39",6.1
+"2873","Cyprus"," Male","30to39",9.7
+"2874","Cyprus"," Female","30to39",2.5
+"2875","Czechia"," Both sexes","30to39",12.8
+"2876","Czechia"," Male","30to39",18.7
+"2877","Czechia"," Female","30to39",6.4
+"2878","Democratic People's Republic of Korea"," Both sexes","30to39",12.9
+"2879","Democratic People's Republic of Korea"," Male","30to39",13.9
+"2880","Democratic People's Republic of Korea"," Female","30to39",11.8
+"2881","Democratic Republic of the Congo"," Both sexes","30to39",8.4
+"2882","Democratic Republic of the Congo"," Male","30to39",12.6
+"2883","Democratic Republic of the Congo"," Female","30to39",4.1
+"2884","Denmark"," Both sexes","30to39",9.2
+"2885","Denmark"," Male","30to39",12.7
+"2886","Denmark"," Female","30to39",5.6
+"2887","Djibouti"," Both sexes","30to39",7.6
+"2888","Djibouti"," Male","30to39",10.2
+"2889","Djibouti"," Female","30to39",4.9
+"2890","Dominican Republic"," Both sexes","30to39",16.2
+"2891","Dominican Republic"," Male","30to39",28.6
+"2892","Dominican Republic"," Female","30to39",4.2
+"2893","Ecuador"," Both sexes","30to39",8.3
+"2894","Ecuador"," Male","30to39",12.9
+"2895","Ecuador"," Female","30to39",3.7
+"2896","Egypt"," Both sexes","30to39",6.2
+"2897","Egypt"," Male","30to39",10.4
+"2898","Egypt"," Female","30to39",2
+"2899","El Salvador"," Both sexes","30to39",18.2
+"2900","El Salvador"," Male","30to39",35.5
+"2901","El Salvador"," Female","30to39",4.5
+"2902","Equatorial Guinea"," Both sexes","30to39",25.5
+"2903","Equatorial Guinea"," Male","30to39",33
+"2904","Equatorial Guinea"," Female","30to39",13.4
+"2905","Eritrea"," Both sexes","30to39",9.1
+"2906","Eritrea"," Male","30to39",14.6
+"2907","Eritrea"," Female","30to39",3.7
+"2908","Estonia"," Both sexes","30to39",17.7
+"2909","Estonia"," Male","30to39",28.1
+"2910","Estonia"," Female","30to39",6.8
+"2911","Eswatini"," Both sexes","30to39",21.4
+"2912","Eswatini"," Male","30to39",32.5
+"2913","Eswatini"," Female","30to39",11
+"2914","Ethiopia"," Both sexes","30to39",9.7
+"2915","Ethiopia"," Male","30to39",15.3
+"2916","Ethiopia"," Female","30to39",4.3
+"2917","Fiji"," Both sexes","30to39",7.5
+"2918","Fiji"," Male","30to39",13.2
+"2919","Fiji"," Female","30to39",1.5
+"2920","Finland"," Both sexes","30to39",18.7
+"2921","Finland"," Male","30to39",27.6
+"2922","Finland"," Female","30to39",9.2
+"2923","France"," Both sexes","30to39",13.4
+"2924","France"," Male","30to39",20.6
+"2925","France"," Female","30to39",5.9
+"2926","Gabon"," Both sexes","30to39",7.1
+"2927","Gabon"," Male","30to39",10.4
+"2928","Gabon"," Female","30to39",3.2
+"2929","Gambia"," Both sexes","30to39",5.8
+"2930","Gambia"," Male","30to39",8.8
+"2931","Gambia"," Female","30to39",3.1
+"2932","Georgia"," Both sexes","30to39",7.3
+"2933","Georgia"," Male","30to39",13.7
+"2934","Georgia"," Female","30to39",1.2
+"2935","Germany"," Both sexes","30to39",10.4
+"2936","Germany"," Male","30to39",15.9
+"2937","Germany"," Female","30to39",4.7
+"2938","Ghana"," Both sexes","30to39",6.1
+"2939","Ghana"," Male","30to39",9.9
+"2940","Ghana"," Female","30to39",2.5
+"2941","Greece"," Both sexes","30to39",4.3
+"2942","Greece"," Male","30to39",6.1
+"2943","Greece"," Female","30to39",2.4
+"2944","Grenada"," Both sexes","30to39",0
+"2945","Grenada"," Male","30to39",0
+"2946","Grenada"," Female","30to39",0
+"2947","Guatemala"," Both sexes","30to39",3.2
+"2948","Guatemala"," Male","30to39",5.1
+"2949","Guatemala"," Female","30to39",1.5
+"2950","Guinea"," Both sexes","30to39",7.3
+"2951","Guinea"," Male","30to39",10
+"2952","Guinea"," Female","30to39",4.5
+"2953","Guinea-Bissau"," Both sexes","30to39",4.5
+"2954","Guinea-Bissau"," Male","30to39",6.1
+"2955","Guinea-Bissau"," Female","30to39",3
+"2956","Guyana"," Both sexes","30to39",40
+"2957","Guyana"," Male","30to39",66.2
+"2958","Guyana"," Female","30to39",15
+"2959","Haiti"," Both sexes","30to39",18.8
+"2960","Haiti"," Male","30to39",30.3
+"2961","Haiti"," Female","30to39",7.8
+"2962","Honduras"," Both sexes","30to39",4.5
+"2963","Honduras"," Male","30to39",7.2
+"2964","Honduras"," Female","30to39",1.9
+"2965","Hungary"," Both sexes","30to39",13.7
+"2966","Hungary"," Male","30to39",21.2
+"2967","Hungary"," Female","30to39",6
+"2968","Iceland"," Both sexes","30to39",21.2
+"2969","Iceland"," Male","30to39",30.5
+"2970","Iceland"," Female","30to39",11.6
+"2971","India"," Both sexes","30to39",22.9
+"2972","India"," Male","30to39",29.4
+"2973","India"," Female","30to39",15.8
+"2974","Indonesia"," Both sexes","30to39",3.6
+"2975","Indonesia"," Male","30to39",4.9
+"2976","Indonesia"," Female","30to39",2.2
+"2977","Iran (Islamic Republic of)"," Both sexes","30to39",5
+"2978","Iran (Islamic Republic of)"," Male","30to39",6.9
+"2979","Iran (Islamic Republic of)"," Female","30to39",3.3
+"2980","Iraq"," Both sexes","30to39",5.4
+"2981","Iraq"," Male","30to39",6.3
+"2982","Iraq"," Female","30to39",4.5
+"2983","Ireland"," Both sexes","30to39",13.7
+"2984","Ireland"," Male","30to39",22.7
+"2985","Ireland"," Female","30to39",5.2
+"2986","Israel"," Both sexes","30to39",5.7
+"2987","Israel"," Male","30to39",8.2
+"2988","Israel"," Female","30to39",3.1
+"2989","Italy"," Both sexes","30to39",6.4
+"2990","Italy"," Male","30to39",10.1
+"2991","Italy"," Female","30to39",2.6
+"2992","Jamaica"," Both sexes","30to39",2.5
+"2993","Jamaica"," Male","30to39",4.1
+"2994","Jamaica"," Female","30to39",1
+"2995","Japan"," Both sexes","30to39",18.6
+"2996","Japan"," Male","30to39",26.8
+"2997","Japan"," Female","30to39",10
+"2998","Jordan"," Both sexes","30to39",4.6
+"2999","Jordan"," Male","30to39",5.7
+"3000","Jordan"," Female","30to39",3.4
+"3001","Kazakhstan"," Both sexes","30to39",38.5
+"3002","Kazakhstan"," Male","30to39",66
+"3003","Kazakhstan"," Female","30to39",11.2
+"3004","Kenya"," Both sexes","30to39",3.6
+"3005","Kenya"," Male","30to39",6
+"3006","Kenya"," Female","30to39",1.3
+"3007","Kiribati"," Both sexes","30to39",16.7
+"3008","Kiribati"," Male","30to39",30.2
+"3009","Kiribati"," Female","30to39",4.5
+"3010","Kuwait"," Both sexes","30to39",3.4
+"3011","Kuwait"," Male","30to39",3.3
+"3012","Kuwait"," Female","30to39",3.4
+"3013","Kyrgyzstan"," Both sexes","30to39",13.6
+"3014","Kyrgyzstan"," Male","30to39",23.2
+"3015","Kyrgyzstan"," Female","30to39",3.9
+"3016","Lao People's Democratic Republic"," Both sexes","30to39",11.1
+"3017","Lao People's Democratic Republic"," Male","30to39",15
+"3018","Lao People's Democratic Republic"," Female","30to39",7.3
+"3019","Latvia"," Both sexes","30to39",27.3
+"3020","Latvia"," Male","30to39",47.2
+"3021","Latvia"," Female","30to39",6.7
+"3022","Lebanon"," Both sexes","30to39",3.9
+"3023","Lebanon"," Male","30to39",4.4
+"3024","Lebanon"," Female","30to39",3.3
+"3025","Lesotho"," Both sexes","30to39",28.7
+"3026","Lesotho"," Male","30to39",30.4
+"3027","Lesotho"," Female","30to39",26.9
+"3028","Liberia"," Both sexes","30to39",5.9
+"3029","Liberia"," Male","30to39",8
+"3030","Liberia"," Female","30to39",3.8
+"3031","Libya"," Both sexes","30to39",7.7
+"3032","Libya"," Male","30to39",12.2
+"3033","Libya"," Female","30to39",3.2
+"3034","Lithuania"," Both sexes","30to39",36.3
+"3035","Lithuania"," Male","30to39",63.2
+"3036","Lithuania"," Female","30to39",9.2
+"3037","Luxembourg"," Both sexes","30to39",9.1
+"3038","Luxembourg"," Male","30to39",13
+"3039","Luxembourg"," Female","30to39",5.3
+"3040","Madagascar"," Both sexes","30to39",4.1
+"3041","Madagascar"," Male","30to39",5.8
+"3042","Madagascar"," Female","30to39",2.3
+"3043","Malawi"," Both sexes","30to39",3.9
+"3044","Malawi"," Male","30to39",6.5
+"3045","Malawi"," Female","30to39",1.4
+"3046","Malaysia"," Both sexes","30to39",4.4
+"3047","Malaysia"," Male","30to39",6.4
+"3048","Malaysia"," Female","30to39",2.2
+"3049","Maldives"," Both sexes","30to39",1.8
+"3050","Maldives"," Male","30to39",2.4
+"3051","Maldives"," Female","30to39",0.8
+"3052","Mali"," Both sexes","30to39",6.7
+"3053","Mali"," Male","30to39",11
+"3054","Mali"," Female","30to39",2.5
+"3055","Malta"," Both sexes","30to39",7.7
+"3056","Malta"," Male","30to39",12.6
+"3057","Malta"," Female","30to39",2.4
+"3058","Mauritania"," Both sexes","30to39",4.6
+"3059","Mauritania"," Male","30to39",7.2
+"3060","Mauritania"," Female","30to39",1.9
+"3061","Mauritius"," Both sexes","30to39",11.8
+"3062","Mauritius"," Male","30to39",19.2
+"3063","Mauritius"," Female","30to39",4.4
+"3064","Mexico"," Both sexes","30to39",6.5
+"3065","Mexico"," Male","30to39",10.4
+"3066","Mexico"," Female","30to39",2.7
+"3067","Micronesia (Federated States of)"," Both sexes","30to39",12.2
+"3068","Micronesia (Federated States of)"," Male","30to39",18.4
+"3069","Micronesia (Federated States of)"," Female","30to39",5.1
+"3070","Mongolia"," Both sexes","30to39",21.7
+"3071","Mongolia"," Male","30to39",39.3
+"3072","Mongolia"," Female","30to39",3.7
+"3073","Montenegro"," Both sexes","30to39",8.2
+"3074","Montenegro"," Male","30to39",13.8
+"3075","Montenegro"," Female","30to39",2.5
+"3076","Morocco"," Both sexes","30to39",3.8
+"3077","Morocco"," Male","30to39",3.7
+"3078","Morocco"," Female","30to39",3.9
+"3079","Mozambique"," Both sexes","30to39",6.5
+"3080","Mozambique"," Male","30to39",10.4
+"3081","Mozambique"," Female","30to39",2.9
+"3082","Myanmar"," Both sexes","30to39",10.3
+"3083","Myanmar"," Male","30to39",7.6
+"3084","Myanmar"," Female","30to39",12.9
+"3085","Namibia"," Both sexes","30to39",12.7
+"3086","Namibia"," Male","30to39",21.7
+"3087","Namibia"," Female","30to39",4.3
+"3088","Nepal"," Both sexes","30to39",10.8
+"3089","Nepal"," Male","30to39",11.9
+"3090","Nepal"," Female","30to39",9.9
+"3091","Netherlands"," Both sexes","30to39",12.3
+"3092","Netherlands"," Male","30to39",16.9
+"3093","Netherlands"," Female","30to39",7.6
+"3094","New Zealand"," Both sexes","30to39",14.3
+"3095","New Zealand"," Male","30to39",21.6
+"3096","New Zealand"," Female","30to39",7.5
+"3097","Nicaragua"," Both sexes","30to39",17
+"3098","Nicaragua"," Male","30to39",29.4
+"3099","Nicaragua"," Female","30to39",5.2
+"3100","Niger"," Both sexes","30to39",5.6
+"3101","Niger"," Male","30to39",8.6
+"3102","Niger"," Female","30to39",2.8
+"3103","Nigeria"," Both sexes","30to39",12.1
+"3104","Nigeria"," Male","30to39",14.7
+"3105","Nigeria"," Female","30to39",9.5
+"3106","Norway"," Both sexes","30to39",13.1
+"3107","Norway"," Male","30to39",18.7
+"3108","Norway"," Female","30to39",7.1
+"3109","Oman"," Both sexes","30to39",5.2
+"3110","Oman"," Male","30to39",6.7
+"3111","Oman"," Female","30to39",1.1
+"3112","Pakistan"," Both sexes","30to39",3.8
+"3113","Pakistan"," Male","30to39",4.5
+"3114","Pakistan"," Female","30to39",3.1
+"3115","Panama"," Both sexes","30to39",5.9
+"3116","Panama"," Male","30to39",10.3
+"3117","Panama"," Female","30to39",1.4
+"3118","Papua New Guinea"," Both sexes","30to39",7.8
+"3119","Papua New Guinea"," Male","30to39",12.2
+"3120","Papua New Guinea"," Female","30to39",3.2
+"3121","Paraguay"," Both sexes","30to39",11.4
+"3122","Paraguay"," Male","30to39",15.4
+"3123","Paraguay"," Female","30to39",7.1
+"3124","Peru"," Both sexes","30to39",6.3
+"3125","Peru"," Male","30to39",9.3
+"3126","Peru"," Female","30to39",3.1
+"3127","Philippines"," Both sexes","30to39",3.6
+"3128","Philippines"," Male","30to39",5.6
+"3129","Philippines"," Female","30to39",1.5
+"3130","Poland"," Both sexes","30to39",15.7
+"3131","Poland"," Male","30to39",27.9
+"3132","Poland"," Female","30to39",3.2
+"3133","Portugal"," Both sexes","30to39",8.7
+"3134","Portugal"," Male","30to39",14.5
+"3135","Portugal"," Female","30to39",3.2
+"3136","Qatar"," Both sexes","30to39",7.1
+"3137","Qatar"," Male","30to39",8.7
+"3138","Qatar"," Female","30to39",1.1
+"3139","Republic of Korea"," Both sexes","30to39",26
+"3140","Republic of Korea"," Male","30to39",33.9
+"3141","Republic of Korea"," Female","30to39",17.6
+"3142","Republic of Moldova"," Both sexes","30to39",13.6
+"3143","Republic of Moldova"," Male","30to39",23.2
+"3144","Republic of Moldova"," Female","30to39",3.7
+"3145","Republic of North Macedonia"," Both sexes","30to39",6.7
+"3146","Republic of North Macedonia"," Male","30to39",10.6
+"3147","Republic of North Macedonia"," Female","30to39",2.5
+"3148","Romania"," Both sexes","30to39",8.9
+"3149","Romania"," Male","30to39",15
+"3150","Romania"," Female","30to39",2.5
+"3151","Russian Federation"," Both sexes","30to39",49.7
+"3152","Russian Federation"," Male","30to39",88.4
+"3153","Russian Federation"," Female","30to39",11.5
+"3154","Rwanda"," Both sexes","30to39",8
+"3155","Rwanda"," Male","30to39",12.4
+"3156","Rwanda"," Female","30to39",4.1
+"3157","Saint Lucia"," Both sexes","30to39",7.9
+"3158","Saint Lucia"," Male","30to39",13.4
+"3159","Saint Lucia"," Female","30to39",2.7
+"3160","Saint Vincent and the Grenadines"," Both sexes","30to39",0.7
+"3161","Saint Vincent and the Grenadines"," Male","30to39",0
+"3162","Saint Vincent and the Grenadines"," Female","30to39",1.4
+"3163","Samoa"," Both sexes","30to39",4.8
+"3164","Samoa"," Male","30to39",8
+"3165","Samoa"," Female","30to39",1.5
+"3166","Sao Tome and Principe"," Both sexes","30to39",3.3
+"3167","Sao Tome and Principe"," Male","30to39",4.6
+"3168","Sao Tome and Principe"," Female","30to39",2
+"3169","Saudi Arabia"," Both sexes","30to39",3.5
+"3170","Saudi Arabia"," Male","30to39",4.7
+"3171","Saudi Arabia"," Female","30to39",1.9
+"3172","Senegal"," Both sexes","30to39",5.8
+"3173","Senegal"," Male","30to39",9.5
+"3174","Senegal"," Female","30to39",2.4
+"3175","Serbia"," Both sexes","30to39",10.1
+"3176","Serbia"," Male","30to39",15
+"3177","Serbia"," Female","30to39",5.1
+"3178","Seychelles"," Both sexes","30to39",9.5
+"3179","Seychelles"," Male","30to39",16.9
+"3180","Seychelles"," Female","30to39",2.1
+"3181","Sierra Leone"," Both sexes","30to39",13.2
+"3182","Sierra Leone"," Male","30to39",17.4
+"3183","Sierra Leone"," Female","30to39",9.1
+"3184","Singapore"," Both sexes","30to39",7.6
+"3185","Singapore"," Male","30to39",9.8
+"3186","Singapore"," Female","30to39",5.6
+"3187","Slovakia"," Both sexes","30to39",11.8
+"3188","Slovakia"," Male","30to39",20.6
+"3189","Slovakia"," Female","30to39",2.5
+"3190","Slovenia"," Both sexes","30to39",14.2
+"3191","Slovenia"," Male","30to39",23.7
+"3192","Slovenia"," Female","30to39",3.8
+"3193","Solomon Islands"," Both sexes","30to39",5.3
+"3194","Solomon Islands"," Male","30to39",8.3
+"3195","Solomon Islands"," Female","30to39",2.4
+"3196","Somalia"," Both sexes","30to39",7.6
+"3197","Somalia"," Male","30to39",10.4
+"3198","Somalia"," Female","30to39",4.9
+"3199","South Africa"," Both sexes","30to39",14.4
+"3200","South Africa"," Male","30to39",23.7
+"3201","South Africa"," Female","30to39",4.7
+"3202","South Sudan"," Both sexes","30to39",4.7
+"3203","South Sudan"," Male","30to39",6.5
+"3204","South Sudan"," Female","30to39",2.8
+"3205","Spain"," Both sexes","30to39",6.6
+"3206","Spain"," Male","30to39",9.8
+"3207","Spain"," Female","30to39",3.3
+"3208","Sri Lanka"," Both sexes","30to39",17.3
+"3209","Sri Lanka"," Male","30to39",29.9
+"3210","Sri Lanka"," Female","30to39",6
+"3211","Sudan"," Both sexes","30to39",18.3
+"3212","Sudan"," Male","30to39",29.5
+"3213","Sudan"," Female","30to39",7.6
+"3214","Suriname"," Both sexes","30to39",31.6
+"3215","Suriname"," Male","30to39",48.4
+"3216","Suriname"," Female","30to39",14.7
+"3217","Sweden"," Both sexes","30to39",15.1
+"3218","Sweden"," Male","30to39",21.8
+"3219","Sweden"," Female","30to39",8.1
+"3220","Switzerland"," Both sexes","30to39",9.8
+"3221","Switzerland"," Male","30to39",13.9
+"3222","Switzerland"," Female","30to39",5.8
+"3223","Syrian Arab Republic"," Both sexes","30to39",3.9
+"3224","Syrian Arab Republic"," Male","30to39",6.5
+"3225","Syrian Arab Republic"," Female","30to39",1.3
+"3226","Tajikistan"," Both sexes","30to39",3.6
+"3227","Tajikistan"," Male","30to39",5.7
+"3228","Tajikistan"," Female","30to39",1.5
+"3229","Thailand"," Both sexes","30to39",20.4
+"3230","Thailand"," Male","30to39",36.3
+"3231","Thailand"," Female","30to39",4.8
+"3232","Timor-Leste"," Both sexes","30to39",6.2
+"3233","Timor-Leste"," Male","30to39",10.3
+"3234","Timor-Leste"," Female","30to39",2.1
+"3235","Togo"," Both sexes","30to39",12.9
+"3236","Togo"," Male","30to39",18.4
+"3237","Togo"," Female","30to39",7.4
+"3238","Tonga"," Both sexes","30to39",3.5
+"3239","Tonga"," Male","30to39",5
+"3240","Tonga"," Female","30to39",2.1
+"3241","Trinidad and Tobago"," Both sexes","30to39",19.6
+"3242","Trinidad and Tobago"," Male","30to39",33.2
+"3243","Trinidad and Tobago"," Female","30to39",6.1
+"3244","Tunisia"," Both sexes","30to39",3.7
+"3245","Tunisia"," Male","30to39",5.1
+"3246","Tunisia"," Female","30to39",2.3
+"3247","Turkey"," Both sexes","30to39",13.8
+"3248","Turkey"," Male","30to39",22.7
+"3249","Turkey"," Female","30to39",4.9
+"3250","Turkmenistan"," Both sexes","30to39",8.6
+"3251","Turkmenistan"," Male","30to39",14.5
+"3252","Turkmenistan"," Female","30to39",2.9
+"3253","Uganda"," Both sexes","30to39",14.5
+"3254","Uganda"," Male","30to39",18.1
+"3255","Uganda"," Female","30to39",10.9
+"3256","Ukraine"," Both sexes","30to39",27.3
+"3257","Ukraine"," Male","30to39",48.9
+"3258","Ukraine"," Female","30to39",5.8
+"3259","United Arab Emirates"," Both sexes","30to39",2.8
+"3260","United Arab Emirates"," Male","30to39",3.5
+"3261","United Arab Emirates"," Female","30to39",0.8
+"3262","United Kingdom of Great Britain and Northern Ireland"," Both sexes","30to39",10.8
+"3263","United Kingdom of Great Britain and Northern Ireland"," Male","30to39",16.7
+"3264","United Kingdom of Great Britain and Northern Ireland"," Female","30to39",4.9
+"3265","United Republic of Tanzania"," Both sexes","30to39",6.6
+"3266","United Republic of Tanzania"," Male","30to39",9.5
+"3267","United Republic of Tanzania"," Female","30to39",3.8
+"3268","United States of America"," Both sexes","30to39",19.2
+"3269","United States of America"," Male","30to39",29.4
+"3270","United States of America"," Female","30to39",9
+"3271","Uruguay"," Both sexes","30to39",20.6
+"3272","Uruguay"," Male","30to39",31.5
+"3273","Uruguay"," Female","30to39",9.8
+"3274","Uzbekistan"," Both sexes","30to39",9.3
+"3275","Uzbekistan"," Male","30to39",13.9
+"3276","Uzbekistan"," Female","30to39",4.7
+"3277","Vanuatu"," Both sexes","30to39",4.6
+"3278","Vanuatu"," Male","30to39",7.3
+"3279","Vanuatu"," Female","30to39",1.8
+"3280","Venezuela (Bolivarian Republic of)"," Both sexes","30to39",4.6
+"3281","Venezuela (Bolivarian Republic of)"," Male","30to39",8.2
+"3282","Venezuela (Bolivarian Republic of)"," Female","30to39",1.1
+"3283","Viet Nam"," Both sexes","30to39",10.3
+"3284","Viet Nam"," Male","30to39",17.1
+"3285","Viet Nam"," Female","30to39",3.5
+"3286","Yemen"," Both sexes","30to39",17.5
+"3287","Yemen"," Male","30to39",24.8
+"3288","Yemen"," Female","30to39",9.9
+"3289","Zambia"," Both sexes","30to39",8.9
+"3290","Zambia"," Male","30to39",13.3
+"3291","Zambia"," Female","30to39",4.6
+"3292","Zimbabwe"," Both sexes","30to39",13.7
+"3293","Zimbabwe"," Male","30to39",22.8
+"3294","Zimbabwe"," Female","30to39",5.5
+"3295","Afghanistan"," Both sexes","20to29",10.2
+"3296","Afghanistan"," Male","20to29",16.3
+"3297","Afghanistan"," Female","20to29",3.5
+"3298","Albania"," Both sexes","20to29",6.5
+"3299","Albania"," Male","20to29",6.3
+"3300","Albania"," Female","20to29",6.6
+"3301","Algeria"," Both sexes","20to29",4.2
+"3302","Algeria"," Male","20to29",6.2
+"3303","Algeria"," Female","20to29",2.1
+"3304","Angola"," Both sexes","20to29",6.6
+"3305","Angola"," Male","20to29",10.4
+"3306","Angola"," Female","20to29",2.9
+"3307","Antigua and Barbuda"," Both sexes","20to29",0
+"3308","Antigua and Barbuda"," Male","20to29",0
+"3309","Antigua and Barbuda"," Female","20to29",0
+"3310","Argentina"," Both sexes","20to29",15.3
+"3311","Argentina"," Male","20to29",25.3
+"3312","Argentina"," Female","20to29",5
+"3313","Armenia"," Both sexes","20to29",4.5
+"3314","Armenia"," Male","20to29",8.2
+"3315","Armenia"," Female","20to29",0.9
+"3316","Australia"," Both sexes","20to29",13.9
+"3317","Australia"," Male","20to29",20.7
+"3318","Australia"," Female","20to29",6.8
+"3319","Austria"," Both sexes","20to29",10.8
+"3320","Austria"," Male","20to29",17.1
+"3321","Austria"," Female","20to29",4.3
+"3322","Azerbaijan"," Both sexes","20to29",2.2
+"3323","Azerbaijan"," Male","20to29",3.4
+"3324","Azerbaijan"," Female","20to29",0.9
+"3325","Bahamas"," Both sexes","20to29",1.8
+"3326","Bahamas"," Male","20to29",3.1
+"3327","Bahamas"," Female","20to29",0.4
+"3328","Bahrain"," Both sexes","20to29",8.8
+"3329","Bahrain"," Male","20to29",11.7
+"3330","Bahrain"," Female","20to29",3.1
+"3331","Bangladesh"," Both sexes","20to29",9.5
+"3332","Bangladesh"," Male","20to29",5.7
+"3333","Bangladesh"," Female","20to29",13.3
+"3334","Barbados"," Both sexes","20to29",0
+"3335","Barbados"," Male","20to29",0
+"3336","Barbados"," Female","20to29",0
+"3337","Belarus"," Both sexes","20to29",18.9
+"3338","Belarus"," Male","20to29",32.3
+"3339","Belarus"," Female","20to29",4.8
+"3340","Belgium"," Both sexes","20to29",13.4
+"3341","Belgium"," Male","20to29",21
+"3342","Belgium"," Female","20to29",5.6
+"3343","Belize"," Both sexes","20to29",5.4
+"3344","Belize"," Male","20to29",9
+"3345","Belize"," Female","20to29",1.8
+"3346","Benin"," Both sexes","20to29",14
+"3347","Benin"," Male","20to29",21.8
+"3348","Benin"," Female","20to29",6.1
+"3349","Bhutan"," Both sexes","20to29",13.5
+"3350","Bhutan"," Male","20to29",16.7
+"3351","Bhutan"," Female","20to29",10
+"3352","Bolivia (Plurinational State of)"," Both sexes","20to29",21.2
+"3353","Bolivia (Plurinational State of)"," Male","20to29",28.7
+"3354","Bolivia (Plurinational State of)"," Female","20to29",13.6
+"3355","Bosnia and Herzegovina"," Both sexes","20to29",3.8
+"3356","Bosnia and Herzegovina"," Male","20to29",6.2
+"3357","Bosnia and Herzegovina"," Female","20to29",1.2
+"3358","Botswana"," Both sexes","20to29",10.6
+"3359","Botswana"," Male","20to29",17.6
+"3360","Botswana"," Female","20to29",3.4
+"3361","Brazil"," Both sexes","20to29",6.9
+"3362","Brazil"," Male","20to29",11.3
+"3363","Brazil"," Female","20to29",2.5
+"3364","Brunei Darussalam"," Both sexes","20to29",5.7
+"3365","Brunei Darussalam"," Male","20to29",8
+"3366","Brunei Darussalam"," Female","20to29",3.2
+"3367","Bulgaria"," Both sexes","20to29",6.2
+"3368","Bulgaria"," Male","20to29",9.6
+"3369","Bulgaria"," Female","20to29",2.6
+"3370","Burkina Faso"," Both sexes","20to29",9.6
+"3371","Burkina Faso"," Male","20to29",12.1
+"3372","Burkina Faso"," Female","20to29",7.1
+"3373","Burundi"," Both sexes","20to29",12.9
+"3374","Burundi"," Male","20to29",19.8
+"3375","Burundi"," Female","20to29",6.5
+"3376","Cabo Verde"," Both sexes","20to29",6.9
+"3377","Cabo Verde"," Male","20to29",11.2
+"3378","Cabo Verde"," Female","20to29",2.6
+"3379","Cambodia"," Both sexes","20to29",8
+"3380","Cambodia"," Male","20to29",11.8
+"3381","Cambodia"," Female","20to29",4.2
+"3382","Cameroon"," Both sexes","20to29",16.6
+"3383","Cameroon"," Male","20to29",25.5
+"3384","Cameroon"," Female","20to29",7.5
+"3385","Canada"," Both sexes","20to29",12
+"3386","Canada"," Male","20to29",17.6
+"3387","Canada"," Female","20to29",6.3
+"3388","Central African Republic"," Both sexes","20to29",11.7
+"3389","Central African Republic"," Male","20to29",18.3
+"3390","Central African Republic"," Female","20to29",5.2
+"3391","Chad"," Both sexes","20to29",13.8
+"3392","Chad"," Male","20to29",19.3
+"3393","Chad"," Female","20to29",8.2
+"3394","Chile"," Both sexes","20to29",12.9
+"3395","Chile"," Male","20to29",20.6
+"3396","Chile"," Female","20to29",4.8
+"3397","China"," Both sexes","20to29",5
+"3398","China"," Male","20to29",4.4
+"3399","China"," Female","20to29",5.7
+"3400","Colombia"," Both sexes","20to29",11.2
+"3401","Colombia"," Male","20to29",17.9
+"3402","Colombia"," Female","20to29",4.4
+"3403","Comoros"," Both sexes","20to29",7.6
+"3404","Comoros"," Male","20to29",10.7
+"3405","Comoros"," Female","20to29",4.4
+"3406","Congo"," Both sexes","20to29",6.8
+"3407","Congo"," Male","20to29",10.2
+"3408","Congo"," Female","20to29",3.4
+"3409","Costa Rica"," Both sexes","20to29",11
+"3410","Costa Rica"," Male","20to29",18.5
+"3411","Costa Rica"," Female","20to29",3.3
+"3412","Côte d'Ivoire"," Both sexes","20to29",20.1
+"3413","Côte d'Ivoire"," Male","20to29",28.8
+"3414","Côte d'Ivoire"," Female","20to29",11.4
+"3415","Croatia"," Both sexes","20to29",8.9
+"3416","Croatia"," Male","20to29",14.7
+"3417","Croatia"," Female","20to29",2.8
+"3418","Cuba"," Both sexes","20to29",6.6
+"3419","Cuba"," Male","20to29",10.2
+"3420","Cuba"," Female","20to29",2.8
+"3421","Cyprus"," Both sexes","20to29",6.2
+"3422","Cyprus"," Male","20to29",8.2
+"3423","Cyprus"," Female","20to29",3.8
+"3424","Czechia"," Both sexes","20to29",11.6
+"3425","Czechia"," Male","20to29",19.2
+"3426","Czechia"," Female","20to29",3.6
+"3427","Democratic People's Republic of Korea"," Both sexes","20to29",13.6
+"3428","Democratic People's Republic of Korea"," Male","20to29",13.1
+"3429","Democratic People's Republic of Korea"," Female","20to29",14.1
+"3430","Democratic Republic of the Congo"," Both sexes","20to29",7
+"3431","Democratic Republic of the Congo"," Male","20to29",11
+"3432","Democratic Republic of the Congo"," Female","20to29",3.1
+"3433","Denmark"," Both sexes","20to29",6.1
+"3434","Denmark"," Male","20to29",9
+"3435","Denmark"," Female","20to29",3.1
+"3436","Djibouti"," Both sexes","20to29",8.2
+"3437","Djibouti"," Male","20to29",10.9
+"3438","Djibouti"," Female","20to29",5.4
+"3439","Dominican Republic"," Both sexes","20to29",15.4
+"3440","Dominican Republic"," Male","20to29",26.1
+"3441","Dominican Republic"," Female","20to29",4.7
+"3442","Ecuador"," Both sexes","20to29",10.5
+"3443","Ecuador"," Male","20to29",14.8
+"3444","Ecuador"," Female","20to29",6.1
+"3445","Egypt"," Both sexes","20to29",6.4
+"3446","Egypt"," Male","20to29",10.4
+"3447","Egypt"," Female","20to29",2.3
+"3448","El Salvador"," Both sexes","20to29",30.1
+"3449","El Salvador"," Male","20to29",53.5
+"3450","El Salvador"," Female","20to29",8.8
+"3451","Equatorial Guinea"," Both sexes","20to29",25.5
+"3452","Equatorial Guinea"," Male","20to29",35.1
+"3453","Equatorial Guinea"," Female","20to29",11.4
+"3454","Eritrea"," Both sexes","20to29",6.6
+"3455","Eritrea"," Male","20to29",10.8
+"3456","Eritrea"," Female","20to29",2.4
+"3457","Estonia"," Both sexes","20to29",15.8
+"3458","Estonia"," Male","20to29",28.5
+"3459","Estonia"," Female","20to29",2.3
+"3460","Eswatini"," Both sexes","20to29",21.4
+"3461","Eswatini"," Male","20to29",33.5
+"3462","Eswatini"," Female","20to29",9.3
+"3463","Ethiopia"," Both sexes","20to29",8.1
+"3464","Ethiopia"," Male","20to29",13
+"3465","Ethiopia"," Female","20to29",3.3
+"3466","Fiji"," Both sexes","20to29",9.6
+"3467","Fiji"," Male","20to29",13.6
+"3468","Fiji"," Female","20to29",5.2
+"3469","Finland"," Both sexes","20to29",20.6
+"3470","Finland"," Male","20to29",31.5
+"3471","Finland"," Female","20to29",9.2
+"3472","France"," Both sexes","20to29",8
+"3473","France"," Male","20to29",12
+"3474","France"," Female","20to29",3.9
+"3475","Gabon"," Both sexes","20to29",7.1
+"3476","Gabon"," Male","20to29",11.2
+"3477","Gabon"," Female","20to29",2.8
+"3478","Gambia"," Both sexes","20to29",7.7
+"3479","Gambia"," Male","20to29",10.5
+"3480","Gambia"," Female","20to29",5
+"3481","Georgia"," Both sexes","20to29",6
+"3482","Georgia"," Male","20to29",10.7
+"3483","Georgia"," Female","20to29",1.1
+"3484","Germany"," Both sexes","20to29",7.6
+"3485","Germany"," Male","20to29",11.5
+"3486","Germany"," Female","20to29",3.4
+"3487","Ghana"," Both sexes","20to29",5.3
+"3488","Ghana"," Male","20to29",7.6
+"3489","Ghana"," Female","20to29",3
+"3490","Greece"," Both sexes","20to29",4
+"3491","Greece"," Male","20to29",6.3
+"3492","Greece"," Female","20to29",1.5
+"3493","Grenada"," Both sexes","20to29",0
+"3494","Grenada"," Male","20to29",0
+"3495","Grenada"," Female","20to29",0
+"3496","Guatemala"," Both sexes","20to29",4.3
+"3497","Guatemala"," Male","20to29",5.9
+"3498","Guatemala"," Female","20to29",2.6
+"3499","Guinea"," Both sexes","20to29",7.9
+"3500","Guinea"," Male","20to29",9.9
+"3501","Guinea"," Female","20to29",5.8
+"3502","Guinea-Bissau"," Both sexes","20to29",3.8
+"3503","Guinea-Bissau"," Male","20to29",5
+"3504","Guinea-Bissau"," Female","20to29",2.6
+"3505","Guyana"," Both sexes","20to29",38
+"3506","Guyana"," Male","20to29",56
+"3507","Guyana"," Female","20to29",19.3
+"3508","Haiti"," Both sexes","20to29",21.5
+"3509","Haiti"," Male","20to29",31.5
+"3510","Haiti"," Female","20to29",11.6
+"3511","Honduras"," Both sexes","20to29",4
+"3512","Honduras"," Male","20to29",5.7
+"3513","Honduras"," Female","20to29",2.2
+"3514","Hungary"," Both sexes","20to29",8.9
+"3515","Hungary"," Male","20to29",14.1
+"3516","Hungary"," Female","20to29",3.5
+"3517","Iceland"," Both sexes","20to29",14.9
+"3518","Iceland"," Male","20to29",25.1
+"3519","Iceland"," Female","20to29",4.2
+"3520","India"," Both sexes","20to29",30.3
+"3521","India"," Male","20to29",27.8
+"3522","India"," Female","20to29",33.1
+"3523","Indonesia"," Both sexes","20to29",5.1
+"3524","Indonesia"," Male","20to29",7.4
+"3525","Indonesia"," Female","20to29",2.6
+"3526","Iran (Islamic Republic of)"," Both sexes","20to29",6.8
+"3527","Iran (Islamic Republic of)"," Male","20to29",8
+"3528","Iran (Islamic Republic of)"," Female","20to29",5.6
+"3529","Iraq"," Both sexes","20to29",4.8
+"3530","Iraq"," Male","20to29",5.4
+"3531","Iraq"," Female","20to29",4.2
+"3532","Ireland"," Both sexes","20to29",15.8
+"3533","Ireland"," Male","20to29",25.8
+"3534","Ireland"," Female","20to29",5.9
+"3535","Israel"," Both sexes","20to29",5.9
+"3536","Israel"," Male","20to29",9.7
+"3537","Israel"," Female","20to29",2
+"3538","Italy"," Both sexes","20to29",5
+"3539","Italy"," Male","20to29",8.1
+"3540","Italy"," Female","20to29",1.9
+"3541","Jamaica"," Both sexes","20to29",2.8
+"3542","Jamaica"," Male","20to29",4.3
+"3543","Jamaica"," Female","20to29",1.3
+"3544","Japan"," Both sexes","20to29",18.6
+"3545","Japan"," Male","20to29",27.1
+"3546","Japan"," Female","20to29",9.6
+"3547","Jordan"," Both sexes","20to29",3.9
+"3548","Jordan"," Male","20to29",4.7
+"3549","Jordan"," Female","20to29",3
+"3550","Kazakhstan"," Both sexes","20to29",21.7
+"3551","Kazakhstan"," Male","20to29",35.7
+"3552","Kazakhstan"," Female","20to29",7.8
+"3553","Kenya"," Both sexes","20to29",3.8
+"3554","Kenya"," Male","20to29",6.4
+"3555","Kenya"," Female","20to29",1.2
+"3556","Kiribati"," Both sexes","20to29",33.5
+"3557","Kiribati"," Male","20to29",57.4
+"3558","Kiribati"," Female","20to29",9
+"3559","Kuwait"," Both sexes","20to29",4.3
+"3560","Kuwait"," Male","20to29",4.9
+"3561","Kuwait"," Female","20to29",3.6
+"3562","Kyrgyzstan"," Both sexes","20to29",9.2
+"3563","Kyrgyzstan"," Male","20to29",14.4
+"3564","Kyrgyzstan"," Female","20to29",4
+"3565","Lao People's Democratic Republic"," Both sexes","20to29",16.1
+"3566","Lao People's Democratic Republic"," Male","20to29",21.4
+"3567","Lao People's Democratic Republic"," Female","20to29",10.7
+"3568","Latvia"," Both sexes","20to29",18
+"3569","Latvia"," Male","20to29",30.5
+"3570","Latvia"," Female","20to29",4.8
+"3571","Lebanon"," Both sexes","20to29",3.7
+"3572","Lebanon"," Male","20to29",3.7
+"3573","Lebanon"," Female","20to29",3.7
+"3574","Lesotho"," Both sexes","20to29",23.3
+"3575","Lesotho"," Male","20to29",27.4
+"3576","Lesotho"," Female","20to29",19.1
+"3577","Liberia"," Both sexes","20to29",4.6
+"3578","Liberia"," Male","20to29",6.2
+"3579","Liberia"," Female","20to29",2.9
+"3580","Libya"," Both sexes","20to29",6.6
+"3581","Libya"," Male","20to29",10
+"3582","Libya"," Female","20to29",3.3
+"3583","Lithuania"," Both sexes","20to29",27.1
+"3584","Lithuania"," Male","20to29",49.6
+"3585","Lithuania"," Female","20to29",3.2
+"3586","Luxembourg"," Both sexes","20to29",8
+"3587","Luxembourg"," Male","20to29",12.8
+"3588","Luxembourg"," Female","20to29",3
+"3589","Madagascar"," Both sexes","20to29",3.3
+"3590","Madagascar"," Male","20to29",4.8
+"3591","Madagascar"," Female","20to29",1.9
+"3592","Malawi"," Both sexes","20to29",3.2
+"3593","Malawi"," Male","20to29",5.2
+"3594","Malawi"," Female","20to29",1.2
+"3595","Malaysia"," Both sexes","20to29",4
+"3596","Malaysia"," Male","20to29",6
+"3597","Malaysia"," Female","20to29",1.8
+"3598","Maldives"," Both sexes","20to29",2.8
+"3599","Maldives"," Male","20to29",3.5
+"3600","Maldives"," Female","20to29",1.6
+"3601","Mali"," Both sexes","20to29",7.4
+"3602","Mali"," Male","20to29",10.8
+"3603","Mali"," Female","20to29",3.9
+"3604","Malta"," Both sexes","20to29",5.3
+"3605","Malta"," Male","20to29",8.3
+"3606","Malta"," Female","20to29",2.1
+"3607","Mauritania"," Both sexes","20to29",4.3
+"3608","Mauritania"," Male","20to29",6.5
+"3609","Mauritania"," Female","20to29",2
+"3610","Mauritius"," Both sexes","20to29",12.9
+"3611","Mauritius"," Male","20to29",20.4
+"3612","Mauritius"," Female","20to29",5.2
+"3613","Mexico"," Both sexes","20to29",7.5
+"3614","Mexico"," Male","20to29",11.8
+"3615","Mexico"," Female","20to29",3.1
+"3616","Micronesia (Federated States of)"," Both sexes","20to29",21.9
+"3617","Micronesia (Federated States of)"," Male","20to29",31.5
+"3618","Micronesia (Federated States of)"," Female","20to29",11.2
+"3619","Mongolia"," Both sexes","20to29",16.4
+"3620","Mongolia"," Male","20to29",27.8
+"3621","Mongolia"," Female","20to29",4.8
+"3622","Montenegro"," Both sexes","20to29",6.4
+"3623","Montenegro"," Male","20to29",10.7
+"3624","Montenegro"," Female","20to29",1.8
+"3625","Morocco"," Both sexes","20to29",3.8
+"3626","Morocco"," Male","20to29",2.8
+"3627","Morocco"," Female","20to29",4.8
+"3628","Mozambique"," Both sexes","20to29",6.1
+"3629","Mozambique"," Male","20to29",9.5
+"3630","Mozambique"," Female","20to29",2.8
+"3631","Myanmar"," Both sexes","20to29",12.3
+"3632","Myanmar"," Male","20to29",9.6
+"3633","Myanmar"," Female","20to29",15
+"3634","Namibia"," Both sexes","20to29",11.4
+"3635","Namibia"," Male","20to29",19.9
+"3636","Namibia"," Female","20to29",3.1
+"3637","Nepal"," Both sexes","20to29",15.8
+"3638","Nepal"," Male","20to29",16.4
+"3639","Nepal"," Female","20to29",15.3
+"3640","Netherlands"," Both sexes","20to29",8.3
+"3641","Netherlands"," Male","20to29",11.5
+"3642","Netherlands"," Female","20to29",5.1
+"3643","New Zealand"," Both sexes","20to29",18.1
+"3644","New Zealand"," Male","20to29",27.1
+"3645","New Zealand"," Female","20to29",8.7
+"3646","Nicaragua"," Both sexes","20to29",24.2
+"3647","Nicaragua"," Male","20to29",38.9
+"3648","Nicaragua"," Female","20to29",9
+"3649","Niger"," Both sexes","20to29",5.2
+"3650","Niger"," Male","20to29",7.7
+"3651","Niger"," Female","20to29",3
+"3652","Nigeria"," Both sexes","20to29",11.4
+"3653","Nigeria"," Male","20to29",13.9
+"3654","Nigeria"," Female","20to29",8.9
+"3655","Norway"," Both sexes","20to29",12.2
+"3656","Norway"," Male","20to29",17
+"3657","Norway"," Female","20to29",7.1
+"3658","Oman"," Both sexes","20to29",6.3
+"3659","Oman"," Male","20to29",8.5
+"3660","Oman"," Female","20to29",1.2
+"3661","Pakistan"," Both sexes","20to29",5.5
+"3662","Pakistan"," Male","20to29",4.9
+"3663","Pakistan"," Female","20to29",6.1
+"3664","Panama"," Both sexes","20to29",6.8
+"3665","Panama"," Male","20to29",11.9
+"3666","Panama"," Female","20to29",1.6
+"3667","Papua New Guinea"," Both sexes","20to29",11.2
+"3668","Papua New Guinea"," Male","20to29",16.3
+"3669","Papua New Guinea"," Female","20to29",5.9
+"3670","Paraguay"," Both sexes","20to29",19.9
+"3671","Paraguay"," Male","20to29",27
+"3672","Paraguay"," Female","20to29",12.6
+"3673","Peru"," Both sexes","20to29",6.5
+"3674","Peru"," Male","20to29",9
+"3675","Peru"," Female","20to29",3.9
+"3676","Philippines"," Both sexes","20to29",5
+"3677","Philippines"," Male","20to29",6.8
+"3678","Philippines"," Female","20to29",3.1
+"3679","Poland"," Both sexes","20to29",15.7
+"3680","Poland"," Male","20to29",28.2
+"3681","Poland"," Female","20to29",2.6
+"3682","Portugal"," Both sexes","20to29",4.7
+"3683","Portugal"," Male","20to29",7.9
+"3684","Portugal"," Female","20to29",1.5
+"3685","Qatar"," Both sexes","20to29",9.8
+"3686","Qatar"," Male","20to29",11.8
+"3687","Qatar"," Female","20to29",1.2
+"3688","Republic of Korea"," Both sexes","20to29",14.2
+"3689","Republic of Korea"," Male","20to29",16.9
+"3690","Republic of Korea"," Female","20to29",11.1
+"3691","Republic of Moldova"," Both sexes","20to29",11.4
+"3692","Republic of Moldova"," Male","20to29",19.2
+"3693","Republic of Moldova"," Female","20to29",3.5
+"3694","Republic of North Macedonia"," Both sexes","20to29",4.3
+"3695","Republic of North Macedonia"," Male","20to29",6
+"3696","Republic of North Macedonia"," Female","20to29",2.5
+"3697","Romania"," Both sexes","20to29",5.7
+"3698","Romania"," Male","20to29",9.4
+"3699","Romania"," Female","20to29",1.7
+"3700","Russian Federation"," Both sexes","20to29",33.1
+"3701","Russian Federation"," Male","20to29",56.5
+"3702","Russian Federation"," Female","20to29",8.8
+"3703","Rwanda"," Both sexes","20to29",8
+"3704","Rwanda"," Male","20to29",11.6
+"3705","Rwanda"," Female","20to29",4.5
+"3706","Saint Lucia"," Both sexes","20to29",8.9
+"3707","Saint Lucia"," Male","20to29",15.4
+"3708","Saint Lucia"," Female","20to29",2.5
+"3709","Saint Vincent and the Grenadines"," Both sexes","20to29",4.7
+"3710","Saint Vincent and the Grenadines"," Male","20to29",9.2
+"3711","Saint Vincent and the Grenadines"," Female","20to29",0
+"3712","Samoa"," Both sexes","20to29",5.8
+"3713","Samoa"," Male","20to29",9
+"3714","Samoa"," Female","20to29",2.3
+"3715","Sao Tome and Principe"," Both sexes","20to29",4.5
+"3716","Sao Tome and Principe"," Male","20to29",6.1
+"3717","Sao Tome and Principe"," Female","20to29",3
+"3718","Saudi Arabia"," Both sexes","20to29",4
+"3719","Saudi Arabia"," Male","20to29",5.8
+"3720","Saudi Arabia"," Female","20to29",1.9
+"3721","Senegal"," Both sexes","20to29",4.9
+"3722","Senegal"," Male","20to29",7.3
+"3723","Senegal"," Female","20to29",2.6
+"3724","Serbia"," Both sexes","20to29",5.9
+"3725","Serbia"," Male","20to29",9.1
+"3726","Serbia"," Female","20to29",2.5
+"3727","Seychelles"," Both sexes","20to29",8.2
+"3728","Seychelles"," Male","20to29",13.9
+"3729","Seychelles"," Female","20to29",1.7
+"3730","Sierra Leone"," Both sexes","20to29",14.8
+"3731","Sierra Leone"," Male","20to29",19.8
+"3732","Sierra Leone"," Female","20to29",10
+"3733","Singapore"," Both sexes","20to29",7.6
+"3734","Singapore"," Male","20to29",10.7
+"3735","Singapore"," Female","20to29",4.3
+"3736","Slovakia"," Both sexes","20to29",9.2
+"3737","Slovakia"," Male","20to29",16.1
+"3738","Slovakia"," Female","20to29",2.1
+"3739","Slovenia"," Both sexes","20to29",12.3
+"3740","Slovenia"," Male","20to29",20.9
+"3741","Slovenia"," Female","20to29",3.1
+"3742","Solomon Islands"," Both sexes","20to29",9.7
+"3743","Solomon Islands"," Male","20to29",14.3
+"3744","Solomon Islands"," Female","20to29",4.9
+"3745","Somalia"," Both sexes","20to29",6.5
+"3746","Somalia"," Male","20to29",9.6
+"3747","Somalia"," Female","20to29",3.5
+"3748","South Africa"," Both sexes","20to29",12.6
+"3749","South Africa"," Male","20to29",20.6
+"3750","South Africa"," Female","20to29",4.4
+"3751","South Sudan"," Both sexes","20to29",4.7
+"3752","South Sudan"," Male","20to29",6.3
+"3753","South Sudan"," Female","20to29",3.1
+"3754","Spain"," Both sexes","20to29",5.1
+"3755","Spain"," Male","20to29",7.6
+"3756","Spain"," Female","20to29",2.5
+"3757","Sri Lanka"," Both sexes","20to29",21.9
+"3758","Sri Lanka"," Male","20to29",34.6
+"3759","Sri Lanka"," Female","20to29",10.2
+"3760","Sudan"," Both sexes","20to29",18.1
+"3761","Sudan"," Male","20to29",27.2
+"3762","Sudan"," Female","20to29",8.8
+"3763","Suriname"," Both sexes","20to29",26
+"3764","Suriname"," Male","20to29",41.9
+"3765","Suriname"," Female","20to29",9.3
+"3766","Sweden"," Both sexes","20to29",13.5
+"3767","Sweden"," Male","20to29",18.2
+"3768","Sweden"," Female","20to29",8.6
+"3769","Switzerland"," Both sexes","20to29",9
+"3770","Switzerland"," Male","20to29",13.6
+"3771","Switzerland"," Female","20to29",4.3
+"3772","Syrian Arab Republic"," Both sexes","20to29",3.1
+"3773","Syrian Arab Republic"," Male","20to29",4.6
+"3774","Syrian Arab Republic"," Female","20to29",1.5
+"3775","Tajikistan"," Both sexes","20to29",2.3
+"3776","Tajikistan"," Male","20to29",3
+"3777","Tajikistan"," Female","20to29",1.6
+"3778","Thailand"," Both sexes","20to29",18
+"3779","Thailand"," Male","20to29",30.9
+"3780","Thailand"," Female","20to29",5
+"3781","Timor-Leste"," Both sexes","20to29",9.6
+"3782","Timor-Leste"," Male","20to29",14
+"3783","Timor-Leste"," Female","20to29",5.2
+"3784","Togo"," Both sexes","20to29",10.7
+"3785","Togo"," Male","20to29",14.3
+"3786","Togo"," Female","20to29",7
+"3787","Tonga"," Both sexes","20to29",5.6
+"3788","Tonga"," Male","20to29",7.2
+"3789","Tonga"," Female","20to29",3.9
+"3790","Trinidad and Tobago"," Both sexes","20to29",21.9
+"3791","Trinidad and Tobago"," Male","20to29",36.7
+"3792","Trinidad and Tobago"," Female","20to29",6.9
+"3793","Tunisia"," Both sexes","20to29",3.1
+"3794","Tunisia"," Male","20to29",4.2
+"3795","Tunisia"," Female","20to29",2
+"3796","Turkey"," Both sexes","20to29",15.6
+"3797","Turkey"," Male","20to29",24.3
+"3798","Turkey"," Female","20to29",6.8
+"3799","Turkmenistan"," Both sexes","20to29",9.7
+"3800","Turkmenistan"," Male","20to29",13.6
+"3801","Turkmenistan"," Female","20to29",5.8
+"3802","Uganda"," Both sexes","20to29",14.3
+"3803","Uganda"," Male","20to29",17.9
+"3804","Uganda"," Female","20to29",10.7
+"3805","Ukraine"," Both sexes","20to29",20.4
+"3806","Ukraine"," Male","20to29",35.9
+"3807","Ukraine"," Female","20to29",4.2
+"3808","United Arab Emirates"," Both sexes","20to29",4
+"3809","United Arab Emirates"," Male","20to29",4.9
+"3810","United Arab Emirates"," Female","20to29",1
+"3811","United Kingdom of Great Britain and Northern Ireland"," Both sexes","20to29",8.6
+"3812","United Kingdom of Great Britain and Northern Ireland"," Male","20to29",13.4
+"3813","United Kingdom of Great Britain and Northern Ireland"," Female","20to29",3.5
+"3814","United Republic of Tanzania"," Both sexes","20to29",6.7
+"3815","United Republic of Tanzania"," Male","20to29",10.1
+"3816","United Republic of Tanzania"," Female","20to29",3.5
+"3817","United States of America"," Both sexes","20to29",18
+"3818","United States of America"," Male","20to29",28.9
+"3819","United States of America"," Female","20to29",6.6
+"3820","Uruguay"," Both sexes","20to29",23
+"3821","Uruguay"," Male","20to29",38.4
+"3822","Uruguay"," Female","20to29",7.1
+"3823","Uzbekistan"," Both sexes","20to29",10.6
+"3824","Uzbekistan"," Male","20to29",12.2
+"3825","Uzbekistan"," Female","20to29",9
+"3826","Vanuatu"," Both sexes","20to29",8.4
+"3827","Vanuatu"," Male","20to29",13.4
+"3828","Vanuatu"," Female","20to29",3.6
+"3829","Venezuela (Bolivarian Republic of)"," Both sexes","20to29",5.4
+"3830","Venezuela (Bolivarian Republic of)"," Male","20to29",9.5
+"3831","Venezuela (Bolivarian Republic of)"," Female","20to29",1.3
+"3832","Viet Nam"," Both sexes","20to29",9
+"3833","Viet Nam"," Male","20to29",13.5
+"3834","Viet Nam"," Female","20to29",4.2
+"3835","Yemen"," Both sexes","20to29",17.7
+"3836","Yemen"," Male","20to29",22.9
+"3837","Yemen"," Female","20to29",12.3
+"3838","Zambia"," Both sexes","20to29",8.3
+"3839","Zambia"," Male","20to29",12.3
+"3840","Zambia"," Female","20to29",4.2
+"3841","Zimbabwe"," Both sexes","20to29",11.3
+"3842","Zimbabwe"," Male","20to29",19.1
+"3843","Zimbabwe"," Female","20to29",3.8
+"3844","Afghanistan"," Both sexes","10to19",3.1
+"3845","Afghanistan"," Male","10to19",4.8
+"3846","Afghanistan"," Female","10to19",1.2
+"3847","Albania"," Both sexes","10to19",5
+"3848","Albania"," Male","10to19",3.1
+"3849","Albania"," Female","10to19",7
+"3850","Algeria"," Both sexes","10to19",1.3
+"3851","Algeria"," Male","10to19",1.6
+"3852","Algeria"," Female","10to19",1
+"3853","Angola"," Both sexes","10to19",2.6
+"3854","Angola"," Male","10to19",3.8
+"3855","Angola"," Female","10to19",1.4
+"3856","Antigua and Barbuda"," Both sexes","10to19",0
+"3857","Antigua and Barbuda"," Male","10to19",0
+"3858","Antigua and Barbuda"," Female","10to19",0
+"3859","Argentina"," Both sexes","10to19",8.6
+"3860","Argentina"," Male","10to19",12.7
+"3861","Argentina"," Female","10to19",4.3
+"3862","Armenia"," Both sexes","10to19",2.2
+"3863","Armenia"," Male","10to19",3.5
+"3864","Armenia"," Female","10to19",0.6
+"3865","Australia"," Both sexes","10to19",5.6
+"3866","Australia"," Male","10to19",7.3
+"3867","Australia"," Female","10to19",3.9
+"3868","Austria"," Both sexes","10to19",4.5
+"3869","Austria"," Male","10to19",5.2
+"3870","Austria"," Female","10to19",3.7
+"3871","Azerbaijan"," Both sexes","10to19",1.4
+"3872","Azerbaijan"," Male","10to19",2.1
+"3873","Azerbaijan"," Female","10to19",0.6
+"3874","Bahamas"," Both sexes","10to19",0.8
+"3875","Bahamas"," Male","10to19",1
+"3876","Bahamas"," Female","10to19",0.6
+"3877","Bahrain"," Both sexes","10to19",3
+"3878","Bahrain"," Male","10to19",4.3
+"3879","Bahrain"," Female","10to19",1.5
+"3880","Bangladesh"," Both sexes","10to19",6.2
+"3881","Bangladesh"," Male","10to19",2.7
+"3882","Bangladesh"," Female","10to19",9.8
+"3883","Barbados"," Both sexes","10to19",0
+"3884","Barbados"," Male","10to19",0
+"3885","Barbados"," Female","10to19",0
+"3886","Belarus"," Both sexes","10to19",4.8
+"3887","Belarus"," Male","10to19",7.6
+"3888","Belarus"," Female","10to19",1.8
+"3889","Belgium"," Both sexes","10to19",3.6
+"3890","Belgium"," Male","10to19",4.9
+"3891","Belgium"," Female","10to19",2.1
+"3892","Belize"," Both sexes","10to19",2.8
+"3893","Belize"," Male","10to19",3.5
+"3894","Belize"," Female","10to19",2
+"3895","Benin"," Both sexes","10to19",4.5
+"3896","Benin"," Male","10to19",6.6
+"3897","Benin"," Female","10to19",2.4
+"3898","Bhutan"," Both sexes","10to19",4.9
+"3899","Bhutan"," Male","10to19",5.2
+"3900","Bhutan"," Female","10to19",4.6
+"3901","Bolivia (Plurinational State of)"," Both sexes","10to19",10.4
+"3902","Bolivia (Plurinational State of)"," Male","10to19",10.8
+"3903","Bolivia (Plurinational State of)"," Female","10to19",10
+"3904","Bosnia and Herzegovina"," Both sexes","10to19",1.7
+"3905","Bosnia and Herzegovina"," Male","10to19",2.5
+"3906","Bosnia and Herzegovina"," Female","10to19",0.8
+"3907","Botswana"," Both sexes","10to19",3.5
+"3908","Botswana"," Male","10to19",5.3
+"3909","Botswana"," Female","10to19",1.6
+"3910","Brazil"," Both sexes","10to19",2.7
+"3911","Brazil"," Male","10to19",3.8
+"3912","Brazil"," Female","10to19",1.6
+"3913","Brunei Darussalam"," Both sexes","10to19",0.6
+"3914","Brunei Darussalam"," Male","10to19",0.7
+"3915","Brunei Darussalam"," Female","10to19",0.4
+"3916","Bulgaria"," Both sexes","10to19",2.9
+"3917","Bulgaria"," Male","10to19",4.2
+"3918","Bulgaria"," Female","10to19",1.6
+"3919","Burkina Faso"," Both sexes","10to19",3.1
+"3920","Burkina Faso"," Male","10to19",4
+"3921","Burkina Faso"," Female","10to19",2.1
+"3922","Burundi"," Both sexes","10to19",5.7
+"3923","Burundi"," Male","10to19",7.8
+"3924","Burundi"," Female","10to19",3.6
+"3925","Cabo Verde"," Both sexes","10to19",2.2
+"3926","Cabo Verde"," Male","10to19",3.4
+"3927","Cabo Verde"," Female","10to19",0.9
+"3928","Cambodia"," Both sexes","10to19",2.4
+"3929","Cambodia"," Male","10to19",3.1
+"3930","Cambodia"," Female","10to19",1.6
+"3931","Cameroon"," Both sexes","10to19",6.3
+"3932","Cameroon"," Male","10to19",9.2
+"3933","Cameroon"," Female","10to19",3.4
+"3934","Canada"," Both sexes","10to19",5.1
+"3935","Canada"," Male","10to19",5.9
+"3936","Canada"," Female","10to19",4.2
+"3937","Central African Republic"," Both sexes","10to19",3.8
+"3938","Central African Republic"," Male","10to19",5.3
+"3939","Central African Republic"," Female","10to19",2.3
+"3940","Chad"," Both sexes","10to19",4.9
+"3941","Chad"," Male","10to19",5.6
+"3942","Chad"," Female","10to19",4.2
+"3943","Chile"," Both sexes","10to19",4.9
+"3944","Chile"," Male","10to19",6.6
+"3945","Chile"," Female","10to19",3.1
+"3946","China"," Both sexes","10to19",1.9
+"3947","China"," Male","10to19",1.5
+"3948","China"," Female","10to19",2.3
+"3949","Colombia"," Both sexes","10to19",7.3
+"3950","Colombia"," Male","10to19",9.6
+"3951","Colombia"," Female","10to19",5
+"3952","Comoros"," Both sexes","10to19",2.4
+"3953","Comoros"," Male","10to19",3.1
+"3954","Comoros"," Female","10to19",1.7
+"3955","Congo"," Both sexes","10to19",2.6
+"3956","Congo"," Male","10to19",3.7
+"3957","Congo"," Female","10to19",1.5
+"3958","Costa Rica"," Both sexes","10to19",4.4
+"3959","Costa Rica"," Male","10to19",6.5
+"3960","Costa Rica"," Female","10to19",2.3
+"3961","Côte d'Ivoire"," Both sexes","10to19",8.1
+"3962","Côte d'Ivoire"," Male","10to19",10.9
+"3963","Côte d'Ivoire"," Female","10to19",5.2
+"3964","Croatia"," Both sexes","10to19",3.4
+"3965","Croatia"," Male","10to19",5.8
+"3966","Croatia"," Female","10to19",0.9
+"3967","Cuba"," Both sexes","10to19",2.4
+"3968","Cuba"," Male","10to19",3.6
+"3969","Cuba"," Female","10to19",1.2
+"3970","Cyprus"," Both sexes","10to19",1.6
+"3971","Cyprus"," Male","10to19",3.1
+"3972","Cyprus"," Female","10to19",0
+"3973","Czechia"," Both sexes","10to19",4
+"3974","Czechia"," Male","10to19",5.6
+"3975","Czechia"," Female","10to19",2.4
+"3976","Democratic People's Republic of Korea"," Both sexes","10to19",4.4
+"3977","Democratic People's Republic of Korea"," Male","10to19",3.6
+"3978","Democratic People's Republic of Korea"," Female","10to19",5.3
+"3979","Democratic Republic of the Congo"," Both sexes","10to19",3.3
+"3980","Democratic Republic of the Congo"," Male","10to19",4.7
+"3981","Democratic Republic of the Congo"," Female","10to19",1.9
+"3982","Denmark"," Both sexes","10to19",2.2
+"3983","Denmark"," Male","10to19",3.1
+"3984","Denmark"," Female","10to19",1.3
+"3985","Djibouti"," Both sexes","10to19",3.4
+"3986","Djibouti"," Male","10to19",4.4
+"3987","Djibouti"," Female","10to19",2.4
+"3988","Dominican Republic"," Both sexes","10to19",3.8
+"3989","Dominican Republic"," Male","10to19",5.3
+"3990","Dominican Republic"," Female","10to19",2.2
+"3991","Ecuador"," Both sexes","10to19",8.8
+"3992","Ecuador"," Male","10to19",10
+"3993","Ecuador"," Female","10to19",7.6
+"3994","Egypt"," Both sexes","10to19",2.3
+"3995","Egypt"," Male","10to19",3.4
+"3996","Egypt"," Female","10to19",1.2
+"3997","El Salvador"," Both sexes","10to19",10.9
+"3998","El Salvador"," Male","10to19",14.2
+"3999","El Salvador"," Female","10to19",7.6
+"4000","Equatorial Guinea"," Both sexes","10to19",7.1
+"4001","Equatorial Guinea"," Male","10to19",10.3
+"4002","Equatorial Guinea"," Female","10to19",3.8
+"4003","Eritrea"," Both sexes","10to19",2.2
+"4004","Eritrea"," Male","10to19",3.4
+"4005","Eritrea"," Female","10to19",0.9
+"4006","Estonia"," Both sexes","10to19",8.4
+"4007","Estonia"," Male","10to19",14.8
+"4008","Estonia"," Female","10to19",1.6
+"4009","Eswatini"," Both sexes","10to19",7.7
+"4010","Eswatini"," Male","10to19",10.6
+"4011","Eswatini"," Female","10to19",4.8
+"4012","Ethiopia"," Both sexes","10to19",3.6
+"4013","Ethiopia"," Male","10to19",5.3
+"4014","Ethiopia"," Female","10to19",1.9
+"4015","Fiji"," Both sexes","10to19",1.2
+"4016","Fiji"," Male","10to19",0.9
+"4017","Fiji"," Female","10to19",1.5
+"4018","Finland"," Both sexes","10to19",4.9
+"4019","Finland"," Male","10to19",6.8
+"4020","Finland"," Female","10to19",2.8
+"4021","France"," Both sexes","10to19",2.2
+"4022","France"," Male","10to19",2.9
+"4023","France"," Female","10to19",1.5
+"4024","Gabon"," Both sexes","10to19",4.4
+"4025","Gabon"," Male","10to19",7
+"4026","Gabon"," Female","10to19",1.8
+"4027","Gambia"," Both sexes","10to19",2.5
+"4028","Gambia"," Male","10to19",2.7
+"4029","Gambia"," Female","10to19",2.3
+"4030","Georgia"," Both sexes","10to19",2.8
+"4031","Georgia"," Male","10to19",4.4
+"4032","Georgia"," Female","10to19",1
+"4033","Germany"," Both sexes","10to19",2.6
+"4034","Germany"," Male","10to19",3.3
+"4035","Germany"," Female","10to19",1.8
+"4036","Ghana"," Both sexes","10to19",1.9
+"4037","Ghana"," Male","10to19",2.3
+"4038","Ghana"," Female","10to19",1.4
+"4039","Greece"," Both sexes","10to19",0.7
+"4040","Greece"," Male","10to19",1.1
+"4041","Greece"," Female","10to19",0.3
+"4042","Grenada"," Both sexes","10to19",0
+"4043","Grenada"," Male","10to19",0
+"4044","Grenada"," Female","10to19",0
+"4045","Guatemala"," Both sexes","10to19",3.1
+"4046","Guatemala"," Male","10to19",2.6
+"4047","Guatemala"," Female","10to19",3.6
+"4048","Guinea"," Both sexes","10to19",2.7
+"4049","Guinea"," Male","10to19",3
+"4050","Guinea"," Female","10to19",2.4
+"4051","Guinea-Bissau"," Both sexes","10to19",1.5
+"4052","Guinea-Bissau"," Male","10to19",1.9
+"4053","Guinea-Bissau"," Female","10to19",1.1
+"4054","Guyana"," Both sexes","10to19",18.3
+"4055","Guyana"," Male","10to19",18.2
+"4056","Guyana"," Female","10to19",18.4
+"4057","Haiti"," Both sexes","10to19",9.7
+"4058","Haiti"," Male","10to19",10.4
+"4059","Haiti"," Female","10to19",9.1
+"4060","Honduras"," Both sexes","10to19",1.3
+"4061","Honduras"," Male","10to19",1.5
+"4062","Honduras"," Female","10to19",1.1
+"4063","Hungary"," Both sexes","10to19",2.7
+"4064","Hungary"," Male","10to19",4.1
+"4065","Hungary"," Female","10to19",1.3
+"4066","Iceland"," Both sexes","10to19",10.8
+"4067","Iceland"," Male","10to19",21.2
+"4068","Iceland"," Female","10to19",0
+"4069","India"," Both sexes","10to19",11.2
+"4070","India"," Male","10to19",7.8
+"4071","India"," Female","10to19",15
+"4072","Indonesia"," Both sexes","10to19",2
+"4073","Indonesia"," Male","10to19",2.7
+"4074","Indonesia"," Female","10to19",1.3
+"4075","Iran (Islamic Republic of)"," Both sexes","10to19",2.8
+"4076","Iran (Islamic Republic of)"," Male","10to19",2.3
+"4077","Iran (Islamic Republic of)"," Female","10to19",3.3
+"4078","Iraq"," Both sexes","10to19",1.2
+"4079","Iraq"," Male","10to19",1.3
+"4080","Iraq"," Female","10to19",1
+"4081","Ireland"," Both sexes","10to19",4.1
+"4082","Ireland"," Male","10to19",5.9
+"4083","Ireland"," Female","10to19",2.2
+"4084","Israel"," Both sexes","10to19",1.4
+"4085","Israel"," Male","10to19",2.1
+"4086","Israel"," Female","10to19",0.7
+"4087","Italy"," Both sexes","10to19",1.4
+"4088","Italy"," Male","10to19",1.8
+"4089","Italy"," Female","10to19",0.9
+"4090","Jamaica"," Both sexes","10to19",1.2
+"4091","Jamaica"," Male","10to19",1.4
+"4092","Jamaica"," Female","10to19",0.9
+"4093","Japan"," Both sexes","10to19",4.8
+"4094","Japan"," Male","10to19",6.6
+"4095","Japan"," Female","10to19",3
+"4096","Jordan"," Both sexes","10to19",1.1
+"4097","Jordan"," Male","10to19",1.2
+"4098","Jordan"," Female","10to19",1
+"4099","Kazakhstan"," Both sexes","10to19",9.9
+"4100","Kazakhstan"," Male","10to19",13.3
+"4101","Kazakhstan"," Female","10to19",6.2
+"4102","Kenya"," Both sexes","10to19",1.4
+"4103","Kenya"," Male","10to19",2.4
+"4104","Kenya"," Female","10to19",0.5
+"4105","Kiribati"," Both sexes","10to19",16
+"4106","Kiribati"," Male","10to19",24.2
+"4107","Kiribati"," Female","10to19",7.3
+"4108","Kuwait"," Both sexes","10to19",0.8
+"4109","Kuwait"," Male","10to19",1.3
+"4110","Kuwait"," Female","10to19",0.3
+"4111","Kyrgyzstan"," Both sexes","10to19",7.3
+"4112","Kyrgyzstan"," Male","10to19",8.7
+"4113","Kyrgyzstan"," Female","10to19",5.9
+"4114","Lao People's Democratic Republic"," Both sexes","10to19",6.3
+"4115","Lao People's Democratic Republic"," Male","10to19",7.8
+"4116","Lao People's Democratic Republic"," Female","10to19",4.8
+"4117","Latvia"," Both sexes","10to19",5.4
+"4118","Latvia"," Male","10to19",9.3
+"4119","Latvia"," Female","10to19",1.3
+"4120","Lebanon"," Both sexes","10to19",1
+"4121","Lebanon"," Male","10to19",1
+"4122","Lebanon"," Female","10to19",0.9
+"4123","Lesotho"," Both sexes","10to19",9.7
+"4124","Lesotho"," Male","10to19",8.8
+"4125","Lesotho"," Female","10to19",10.6
+"4126","Liberia"," Both sexes","10to19",2.1
+"4127","Liberia"," Male","10to19",2.6
+"4128","Liberia"," Female","10to19",1.5
+"4129","Libya"," Both sexes","10to19",1.8
+"4130","Libya"," Male","10to19",2.6
+"4131","Libya"," Female","10to19",1
+"4132","Lithuania"," Both sexes","10to19",8.1
+"4133","Lithuania"," Male","10to19",13.4
+"4134","Lithuania"," Female","10to19",2.5
+"4135","Luxembourg"," Both sexes","10to19",4.8
+"4136","Luxembourg"," Male","10to19",6.7
+"4137","Luxembourg"," Female","10to19",2.9
+"4138","Madagascar"," Both sexes","10to19",1.9
+"4139","Madagascar"," Male","10to19",2.7
+"4140","Madagascar"," Female","10to19",1.1
+"4141","Malawi"," Both sexes","10to19",1.3
+"4142","Malawi"," Male","10to19",2
+"4143","Malawi"," Female","10to19",0.6
+"4144","Malaysia"," Both sexes","10to19",1.9
+"4145","Malaysia"," Male","10to19",2.9
+"4146","Malaysia"," Female","10to19",0.9
+"4147","Maldives"," Both sexes","10to19",1.2
+"4148","Maldives"," Male","10to19",1
+"4149","Maldives"," Female","10to19",1.4
+"4150","Mali"," Both sexes","10to19",2.8
+"4151","Mali"," Male","10to19",3.6
+"4152","Mali"," Female","10to19",1.9
+"4153","Malta"," Both sexes","10to19",4.8
+"4154","Malta"," Male","10to19",4.2
+"4155","Malta"," Female","10to19",5.3
+"4156","Mauritania"," Both sexes","10to19",1.4
+"4157","Mauritania"," Male","10to19",1.8
+"4158","Mauritania"," Female","10to19",1
+"4159","Mauritius"," Both sexes","10to19",3.7
+"4160","Mauritius"," Male","10to19",7.4
+"4161","Mauritius"," Female","10to19",0
+"4162","Mexico"," Both sexes","10to19",4.2
+"4163","Mexico"," Male","10to19",5.3
+"4164","Mexico"," Female","10to19",3.1
+"4165","Micronesia (Federated States of)"," Both sexes","10to19",10.8
+"4166","Micronesia (Federated States of)"," Male","10to19",13.6
+"4167","Micronesia (Federated States of)"," Female","10to19",7.8
+"4168","Mongolia"," Both sexes","10to19",6.9
+"4169","Mongolia"," Male","10to19",10.7
+"4170","Mongolia"," Female","10to19",3.1
+"4171","Montenegro"," Both sexes","10to19",2.4
+"4172","Montenegro"," Male","10to19",4
+"4173","Montenegro"," Female","10to19",0.6
+"4174","Morocco"," Both sexes","10to19",1.1
+"4175","Morocco"," Male","10to19",0.8
+"4176","Morocco"," Female","10to19",1.5
+"4177","Mozambique"," Both sexes","10to19",2.9
+"4178","Mozambique"," Male","10to19",4.2
+"4179","Mozambique"," Female","10to19",1.5
+"4180","Myanmar"," Both sexes","10to19",4.7
+"4181","Myanmar"," Male","10to19",3.3
+"4182","Myanmar"," Female","10to19",6.2
+"4183","Namibia"," Both sexes","10to19",4.6
+"4184","Namibia"," Male","10to19",7.2
+"4185","Namibia"," Female","10to19",2
+"4186","Nepal"," Both sexes","10to19",6
+"4187","Nepal"," Male","10to19",5
+"4188","Nepal"," Female","10to19",7
+"4189","Netherlands"," Both sexes","10to19",2.4
+"4190","Netherlands"," Male","10to19",2.9
+"4191","Netherlands"," Female","10to19",1.8
+"4192","New Zealand"," Both sexes","10to19",11.2
+"4193","New Zealand"," Male","10to19",14.2
+"4194","New Zealand"," Female","10to19",8.1
+"4195","Nicaragua"," Both sexes","10to19",11.6
+"4196","Nicaragua"," Male","10to19",13.2
+"4197","Nicaragua"," Female","10to19",10
+"4198","Niger"," Both sexes","10to19",3.1
+"4199","Niger"," Male","10to19",4
+"4200","Niger"," Female","10to19",2.1
+"4201","Nigeria"," Both sexes","10to19",4
+"4202","Nigeria"," Male","10to19",4.3
+"4203","Nigeria"," Female","10to19",3.7
+"4204","Norway"," Both sexes","10to19",3
+"4205","Norway"," Male","10to19",3.9
+"4206","Norway"," Female","10to19",2.2
+"4207","Oman"," Both sexes","10to19",1.4
+"4208","Oman"," Male","10to19",2.4
+"4209","Oman"," Female","10to19",0.4
+"4210","Pakistan"," Both sexes","10to19",3.1
+"4211","Pakistan"," Male","10to19",2.1
+"4212","Pakistan"," Female","10to19",4.3
+"4213","Panama"," Both sexes","10to19",3.5
+"4214","Panama"," Male","10to19",5.5
+"4215","Panama"," Female","10to19",1.4
+"4216","Papua New Guinea"," Both sexes","10to19",5.2
+"4217","Papua New Guinea"," Male","10to19",6.5
+"4218","Papua New Guinea"," Female","10to19",3.8
+"4219","Paraguay"," Both sexes","10to19",9.6
+"4220","Paraguay"," Male","10to19",9.5
+"4221","Paraguay"," Female","10to19",9.7
+"4222","Peru"," Both sexes","10to19",2.8
+"4223","Peru"," Male","10to19",2.9
+"4224","Peru"," Female","10to19",2.6
+"4225","Philippines"," Both sexes","10to19",2.5
+"4226","Philippines"," Male","10to19",2.9
+"4227","Philippines"," Female","10to19",2.1
+"4228","Poland"," Both sexes","10to19",5.4
+"4229","Poland"," Male","10to19",8.4
+"4230","Poland"," Female","10to19",2.2
+"4231","Portugal"," Both sexes","10to19",1.3
+"4232","Portugal"," Male","10to19",1.9
+"4233","Portugal"," Female","10to19",0.7
+"4234","Qatar"," Both sexes","10to19",2.9
+"4235","Qatar"," Male","10to19",4.7
+"4236","Qatar"," Female","10to19",0.3
+"4237","Republic of Korea"," Both sexes","10to19",4.4
+"4238","Republic of Korea"," Male","10to19",4.9
+"4239","Republic of Korea"," Female","10to19",3.9
+"4240","Republic of Moldova"," Both sexes","10to19",7.1
+"4241","Republic of Moldova"," Male","10to19",11.1
+"4242","Republic of Moldova"," Female","10to19",2.9
+"4243","Republic of North Macedonia"," Both sexes","10to19",1.9
+"4244","Republic of North Macedonia"," Male","10to19",2.6
+"4245","Republic of North Macedonia"," Female","10to19",1.2
+"4246","Romania"," Both sexes","10to19",2.9
+"4247","Romania"," Male","10to19",4.1
+"4248","Romania"," Female","10to19",1.6
+"4249","Russian Federation"," Both sexes","10to19",8.2
+"4250","Russian Federation"," Male","10to19",11.9
+"4251","Russian Federation"," Female","10to19",4.3
+"4252","Rwanda"," Both sexes","10to19",3
+"4253","Rwanda"," Male","10to19",4.1
+"4254","Rwanda"," Female","10to19",1.9
+"4255","Saint Lucia"," Both sexes","10to19",4.4
+"4256","Saint Lucia"," Male","10to19",6.3
+"4257","Saint Lucia"," Female","10to19",2.5
+"4258","Saint Vincent and the Grenadines"," Both sexes","10to19",3
+"4259","Saint Vincent and the Grenadines"," Male","10to19",3.1
+"4260","Saint Vincent and the Grenadines"," Female","10to19",3
+"4261","Samoa"," Both sexes","10to19",2.6
+"4262","Samoa"," Male","10to19",3.6
+"4263","Samoa"," Female","10to19",1.6
+"4264","Sao Tome and Principe"," Both sexes","10to19",1.4
+"4265","Sao Tome and Principe"," Male","10to19",1.7
+"4266","Sao Tome and Principe"," Female","10to19",1.1
+"4267","Saudi Arabia"," Both sexes","10to19",1.6
+"4268","Saudi Arabia"," Male","10to19",2.4
+"4269","Saudi Arabia"," Female","10to19",0.8
+"4270","Senegal"," Both sexes","10to19",2.3
+"4271","Senegal"," Male","10to19",3.4
+"4272","Senegal"," Female","10to19",1.2
+"4273","Serbia"," Both sexes","10to19",1.3
+"4274","Serbia"," Male","10to19",2.2
+"4275","Serbia"," Female","10to19",0.3
+"4276","Seychelles"," Both sexes","10to19",1.5
+"4277","Seychelles"," Male","10to19",2.1
+"4278","Seychelles"," Female","10to19",0.9
+"4279","Sierra Leone"," Both sexes","10to19",4.1
+"4280","Sierra Leone"," Male","10to19",5.2
+"4281","Sierra Leone"," Female","10to19",3
+"4282","Singapore"," Both sexes","10to19",3.7
+"4283","Singapore"," Male","10to19",4
+"4284","Singapore"," Female","10to19",3.3
+"4285","Slovakia"," Both sexes","10to19",2.5
+"4286","Slovakia"," Male","10to19",4.1
+"4287","Slovakia"," Female","10to19",0.9
+"4288","Slovenia"," Both sexes","10to19",3
+"4289","Slovenia"," Male","10to19",4.9
+"4290","Slovenia"," Female","10to19",0.9
+"4291","Solomon Islands"," Both sexes","10to19",4.7
+"4292","Solomon Islands"," Male","10to19",6
+"4293","Solomon Islands"," Female","10to19",3.2
+"4294","Somalia"," Both sexes","10to19",2.4
+"4295","Somalia"," Male","10to19",3
+"4296","Somalia"," Female","10to19",1.8
+"4297","South Africa"," Both sexes","10to19",4.2
+"4298","South Africa"," Male","10to19",6.1
+"4299","South Africa"," Female","10to19",2.3
+"4300","South Sudan"," Both sexes","10to19",1.6
+"4301","South Sudan"," Male","10to19",1.8
+"4302","South Sudan"," Female","10to19",1.3
+"4303","Spain"," Both sexes","10to19",1.5
+"4304","Spain"," Male","10to19",2
+"4305","Spain"," Female","10to19",1
+"4306","Sri Lanka"," Both sexes","10to19",6.2
+"4307","Sri Lanka"," Male","10to19",6.2
+"4308","Sri Lanka"," Female","10to19",6.2
+"4309","Sudan"," Both sexes","10to19",5.3
+"4310","Sudan"," Male","10to19",6.8
+"4311","Sudan"," Female","10to19",3.7
+"4312","Suriname"," Both sexes","10to19",11.3
+"4313","Suriname"," Male","10to19",10.2
+"4314","Suriname"," Female","10to19",12.4
+"4315","Sweden"," Both sexes","10to19",3.5
+"4316","Sweden"," Male","10to19",4.5
+"4317","Sweden"," Female","10to19",2.4
+"4318","Switzerland"," Both sexes","10to19",4.1
+"4319","Switzerland"," Male","10to19",5.8
+"4320","Switzerland"," Female","10to19",2.4
+"4321","Syrian Arab Republic"," Both sexes","10to19",0.7
+"4322","Syrian Arab Republic"," Male","10to19",0.9
+"4323","Syrian Arab Republic"," Female","10to19",0.5
+"4324","Tajikistan"," Both sexes","10to19",1
+"4325","Tajikistan"," Male","10to19",1.3
+"4326","Tajikistan"," Female","10to19",0.8
+"4327","Thailand"," Both sexes","10to19",5.6
+"4328","Thailand"," Male","10to19",9.2
+"4329","Thailand"," Female","10to19",1.8
+"4330","Timor-Leste"," Both sexes","10to19",3
+"4331","Timor-Leste"," Male","10to19",2.8
+"4332","Timor-Leste"," Female","10to19",3.3
+"4333","Togo"," Both sexes","10to19",4
+"4334","Togo"," Male","10to19",5.3
+"4335","Togo"," Female","10to19",2.8
+"4336","Tonga"," Both sexes","10to19",2.5
+"4337","Tonga"," Male","10to19",2.6
+"4338","Tonga"," Female","10to19",2.3
+"4339","Trinidad and Tobago"," Both sexes","10to19",7.3
+"4340","Trinidad and Tobago"," Male","10to19",10.6
+"4341","Trinidad and Tobago"," Female","10to19",3.8
+"4342","Tunisia"," Both sexes","10to19",0.9
+"4343","Tunisia"," Male","10to19",1
+"4344","Tunisia"," Female","10to19",0.9
+"4345","Turkey"," Both sexes","10to19",5.4
+"4346","Turkey"," Male","10to19",6.5
+"4347","Turkey"," Female","10to19",4.2
+"4348","Turkmenistan"," Both sexes","10to19",5.9
+"4349","Turkmenistan"," Male","10to19",6.2
+"4350","Turkmenistan"," Female","10to19",5.6
+"4351","Uganda"," Both sexes","10to19",5.3
+"4352","Uganda"," Male","10to19",6.1
+"4353","Uganda"," Female","10to19",4.6
+"4354","Ukraine"," Both sexes","10to19",6.7
+"4355","Ukraine"," Male","10to19",10.6
+"4356","Ukraine"," Female","10to19",2.5
+"4357","United Arab Emirates"," Both sexes","10to19",1.8
+"4358","United Arab Emirates"," Male","10to19",3.2
+"4359","United Arab Emirates"," Female","10to19",0.3
+"4360","United Kingdom of Great Britain and Northern Ireland"," Both sexes","10to19",2.2
+"4361","United Kingdom of Great Britain and Northern Ireland"," Male","10to19",3.2
+"4362","United Kingdom of Great Britain and Northern Ireland"," Female","10to19",1.2
+"4363","United Republic of Tanzania"," Both sexes","10to19",2.5
+"4364","United Republic of Tanzania"," Male","10to19",3.3
+"4365","United Republic of Tanzania"," Female","10to19",1.6
+"4366","United States of America"," Both sexes","10to19",6.3
+"4367","United States of America"," Male","10to19",9
+"4368","United States of America"," Female","10to19",3.4
+"4369","Uruguay"," Both sexes","10to19",8.1
+"4370","Uruguay"," Male","10to19",12.1
+"4371","Uruguay"," Female","10to19",3.9
+"4372","Uzbekistan"," Both sexes","10to19",9
+"4373","Uzbekistan"," Male","10to19",8.5
+"4374","Uzbekistan"," Female","10to19",9.6
+"4375","Vanuatu"," Both sexes","10to19",4.4
+"4376","Vanuatu"," Male","10to19",6
+"4377","Vanuatu"," Female","10to19",2.6
+"4378","Venezuela (Bolivarian Republic of)"," Both sexes","10to19",3
+"4379","Venezuela (Bolivarian Republic of)"," Male","10to19",4.3
+"4380","Venezuela (Bolivarian Republic of)"," Female","10to19",1.7
+"4381","Viet Nam"," Both sexes","10to19",1.8
+"4382","Viet Nam"," Male","10to19",2.5
+"4383","Viet Nam"," Female","10to19",1
+"4384","Yemen"," Both sexes","10to19",4.5
+"4385","Yemen"," Male","10to19",5.2
+"4386","Yemen"," Female","10to19",3.9
+"4387","Zambia"," Both sexes","10to19",2.8
+"4388","Zambia"," Male","10to19",3.9
+"4389","Zambia"," Female","10to19",1.6
+"4390","Zimbabwe"," Both sexes","10to19",4.6
+"4391","Zimbabwe"," Male","10to19",6.4
+"4392","Zimbabwe"," Female","10to19",2.7

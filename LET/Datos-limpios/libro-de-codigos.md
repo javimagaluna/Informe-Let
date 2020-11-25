@@ -1,14 +1,24 @@
 
 # Sobre los datos
 
-`\tasas_suicidio.csv` - `\tasa_suicidio_edad2016.csv` 
+`\tasas_suicidio.csv` 
 
 | Variable | Tipo de variable | Descripción |
 |---|---|---|
 | país | caracter | Nombre del país |
-| año | numérica | Año de tasa de suicidio |
+| año | numérica | Año de tasa de suicidio (2000, 2010, 2015, 2016)|
 | sexo | caracter | femenino, masculino o ambos sexos |
-| edad | numérica | Edades de los habitantes en intervalos de 9 años |
+| tasa_suicidio | numérica | tasa de suicidios |
+
+
+`\tasa_suicidio_edad.csv` 
+
+| Variable | Tipo de variable | Descripción |
+|---|---|---|
+| país | caracter | Nombre del país |
+| sexo | caracter | femenino, masculino o ambos sexos |
+| rango_edad | caracter | Edades de los habitantes en intervalos de 9 años|
+| tasa_suicidio | numérica | tasa de suicidios en el año 2016  |
 
 
 `\instalaciones.csv`
