@@ -2,7 +2,8 @@
 # Analizando datos faltantes ----------------------------------------------
 n<- length(instalaciones$pais) #cantidad de paises
 
-## instalaciones ##
+
+## instalaciones medicas ##
 
 summary(instalaciones)
 

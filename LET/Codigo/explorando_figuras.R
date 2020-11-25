@@ -14,13 +14,6 @@ library(fcuk)
 
 
 
-# Matriz correlacion instalaciones ----------------------------------------
-
-instalacion_sinpais<- cor(instalaciones_sin_NA[,2:4])
-
-corrplot(instalacion_sinpais, method="color",tl.col="black",type="upper",addCoef.col = "black" )
-
-
 # graficos ----------------------------------------------------------------
 
 ### TASAS DE SUICIDIO SEPARADO POR SEXO ###
@@ -112,5 +105,9 @@ tasas_suicidio %>%
   geom_bar(col="purple") +
   theme_minimal()
 
+# Matriz correlacion instalaciones ----------------------------------------
 
+instalacion_sinpais<- cor(instalaciones_sin_NA[,2:4])
+
+corrplot(instalacion_sinpais, method="color",tl.col="black",type="upper",addCoef.col = "black" )
 

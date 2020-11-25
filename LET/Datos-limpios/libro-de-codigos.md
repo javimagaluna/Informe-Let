@@ -1,6 +1,7 @@
 
 # Sobre los datos
 
+
 `\tasas_suicidio.csv` 
 
 | Variable | Tipo de variable | Descripción |
