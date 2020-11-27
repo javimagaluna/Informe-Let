@@ -32,9 +32,9 @@ names(personal_especializado)=c("pais","psiquiatras", "nurses", "trabajadores_so
 
 # tasas de suicidio -------------------------------------------------------
 
-tasas_suicidio<- gather(tasa_suicidio,"anio","tasa_suicidio",-1,-2)
+tasa_suicidio<- gather(tasa_suicidio,"anio","tasa_suicidio",-1,-2)
 
-tasas_suicidio$anio<- as.numeric(tasas_suicidio$anio)
+tasa_suicidio$anio<- as.numeric(tasa_suicidio$anio)
 
 
 # tasa suicidio por edad --------------------------------------------------

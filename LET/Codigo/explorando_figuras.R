@@ -6,6 +6,7 @@ library(hrbrthemes)
 library(ggthemes)
 library(gghighlight) 
 library(countrycode)
+library(sf)
 
 library(corrplot)
 library(ggfortify)
@@ -21,7 +22,7 @@ library(fcuk)
 tasas_suicidio %>%
   filter(tasas_suicidio$sexo==" Both sexes") %>%
   mutate(region=countrycode(sourcevar=pais, origin="country.name", destination= "region23")) %>% 
-  ggplot(aes(anio,tasa_suicidio, group=pais, col= pais))+ 
+  ggplot(aes(anio,tasa_suicidio, group=pais, col=pais))+ 
   theme_minimal()+
   labs( y="Tasa suicidio", title= "Tasas de suicidios", caption="Fuente: elaboración propia a partir de datos de kaggle.com")+
   geom_line()+ gghighlight(pais=="Chile") # no usar 
@@ -53,7 +54,12 @@ tasas_suicidio %>%
   ggplot(aes(anio,tasa_suicidio, group=pais, col= pais))+ 
   theme_minimal()+
   labs( y="Tasa suicidio", title= "Tasa de suicidio en Sur América", caption="Fuente: elaboración propia a partir de datos de kaggle.com")+
-  geom_line()#+ gghighlight(pais=="Chile")
+  geom_line()+ gghighlight(pais=="Chile")
+
+
+
+t<-tasas_suicidio %>% filter(tasas_suicidio$sexo==" Both sexes")
+
 
 ###------###
 
@@ -63,8 +69,8 @@ tasa_suicidio_edad %>%
   filter(tasa_suicidio_edad$sexo==" Both sexes") %>%
   mutate(region=countrycode(sourcevar=pais, origin="country.name", destination= "region23")) %>% 
   ggplot(aes(rango_edad,tasa_suicidio, group=pais, col= pais))+ 
-  theme_minimal()+geom_line() + gghighlight(pais=="Chile")+
-  labs(x="rango de edad", y="Tasa suicidio", title= "Tasa de suicidio en 2016 según rangos de edad", caption="Fuente: elaboración propia a partir de datos de kaggle.com")
+  theme_minimal()+ geom_line() + gghighlight(pais=="Chile")+
+  labs(x="Rango de edad", y="Tasa suicidio", title= "Tasa de suicidio en 2016 según rangos de edad", caption="Fuente: elaboración propia a partir de datos de kaggle.com")
 
 
 tasa_suicidio_edad %>%
@@ -72,7 +78,7 @@ tasa_suicidio_edad %>%
   mutate(region=countrycode(sourcevar=pais, origin="country.name", destination= "region23")) %>% 
   filter(region=="South America") %>%
   ggplot(aes(rango_edad,tasa_suicidio, group=pais, col= pais))+ 
-  theme_minimal()+geom_line() #+ gghighlight(pais=="Suriname") 
+  theme_minimal()+geom_line() + gghighlight(pais=="Suriname") 
 
 
 
@@ -105,9 +111,33 @@ tasas_suicidio %>%
   geom_bar(col="purple") +
   theme_minimal()
 
-# Matriz correlacion instalaciones ----------------------------------------
 
-instalacion_sinpais<- cor(instalaciones_sin_NA[,2:4])
 
-corrplot(instalacion_sinpais, method="color",tl.col="black",type="upper",addCoef.col = "black" )
+# jugando un poco ---------------------------------------------------------
+
+library(mapdata)
+library(maps)
+library(ggrepel)
+
+t_S<-tasas_suicidio%>% 
+  filter(tasas_suicidio$sexo==" Both sexes")
+
+
+options(scipen = 999) # para evitar la anotación científica 
+
+# Graficamos indicando 
+
+mapa_mundo <- map_data("world")
+
+mapa_mundo %>%
+  ggplot() +
+  geom_polygon(aes( x= long, y = lat, group = group),
+               fill = "grey80",
+               color = "white") +
+  geom_point(data= tasas_suicidio, aes(tasa_suicidio),
+             stroke = T) +
+  scale_size_continuous(name = "n° infectados") +
+  ggtitle( "Casos acumulados COVID") +
+  theme_map()
+
 

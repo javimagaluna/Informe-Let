@@ -3,41 +3,92 @@ title: |
   ![](Logu.png){width=1in}  
   Informe
 author: "Javiera Preuss Araya"
-date: "`r Sys.Date()`"
 output:
   rmdformats::material:
     highlight: kate
 ---
 
 
-```{r setup, echo=FALSE, warning=FALSE}
+```{r setup, warning=FALSE,include=FALSE}
 library(knitr)
 library(rmdformats)
 library(here)
 
 ## Global options
 options(max.print="75")
-opts_chunk$set(
-	             cache=TRUE,
-               prompt=FALSE,
+opts_chunk$set(prompt=FALSE,
                tidy=TRUE,
-               comment=NA,
-               message=FALSE,
-               warning=FALSE)
+               comment=NA)
 opts_knit$set(width=75)
 ```
 
 
 # Introducción
 
-Según la OMS (Organización Mundial de la Salud) cada 40 segundos una persona se suicida a nivel mundial, esta tasa a medida del transcurso de los años a ido aumentando y aparentemente no se observan mejorias. Algunos países han implementado nuevas intervenciones para prevenir el suicidio pero esto no ha sido suficiente, a pesar de tener grandes bases de datos estas no son del todo completas, los paises de menores ingresos económicos poseen una precaria información registrada de sus datos, lo que dificulta a las diferentes organizaciones de salud para crear nuevas estrategias efectivas para reducir esta tasa. Cabe destacar que las cifras anteriormente mencionadas no incluyen a los suicidios "tentativos", los cuales pueden llegar a ser 20 veces mayor que el suicidio consumado.
+  La Organización Mundial de la Salud (OMS) reporta que cada 40 segundos una persona se suicida a nivel mundial$_{[1]}$, esta tasa a medida del transcurso de los años a ido aumentando y aparentemente no se observan mejorias. Algunos países han implementado nuevas intervenciones para prevenir el suicidio pero esto no ha sido suficiente, a pesar de tener grandes bases de datos estas no son del todo completas, ya que, los paises de menores ingresos económicos poseen una precaria información registrada de sus datos, lo que dificulta a las diferentes organizaciones de salud para crear nuevas estrategias efectivas para reducir esta tasa. Cabe destacar que la cifra anteriormente mencionada no incluye a los suicidios "tentativos", los cuales pueden llegar a ser 20 veces mayor que el suicidio consumado.
 
-El suicidio es un tema complejo y delicado, cualquier paso en falso es un error fatal, es por ello que es inevitable cuestionarse ¿Qué es lo que esta pasando a nivel mundial con la salud mental?, hoy en día es bastante común escuchar a los jovenes decir "me quiero morir" y normalizarlo como si fuese una broma, pero ¿y si esto no es así? ¿Qué pasaría si realmente la persona se quiere suicidar y nosotros ignoramos estas señales definitorias de vida o muerte?. Si bien, no todos somos personas capacitadas para estos asuntos, pero si es necesario tener una idea del como actuar en estas situaciones, es por ello que se necesitan más politicas públicas para que el personal especializado visualice esta realidad. En Chile es usual escuchar que los tratamientos de salud mental tienen un costo muy elevado o que estos estan colpsados de atenciones médicas por lo que agendar una cita es casi imposible, entonces una se pregunta ¿Qué tan accesible es la salud mental? ¿Cuánto personal especializado existe?. 
+  El suicidio es un tema complejo y delicado, cualquier paso en falso es un error fatal, es por ello que es inevitable cuestionarse ¿Qué es lo que esta pasando a nivel mundial con la salud mental?, hoy en día es bastante común escuchar a los jóvenes decir "me quiero morir" y normalizarlo como si fuese una broma, pero ¿y si esto no es así? ¿Qué pasaría si realmente la persona se quiere suicidar y nosotros ignoramos estas señales definitorias de vida o muerte?. Si bien, no todos somos personas capacitadas para estos asuntos, pero si es necesario tener una idea del como actuar en estas situaciones, es por ello que se necesitan más politicas públicas para que el personal especializado visualice esta realidad. En Chile, es usual escuchar que los tratamientos de salud mental tienen un costo muy elevado o que estos estan colpsados, por lo que agendar una cita es casi imposible, entonces, una se pregunta ¿Qué tan accesible es la salud mental? ¿Cuánto personal especializado existe?.
 
-En este informe analizaremos las tasas de suicidio según país y edad  durante los años 2000, 2010, 2015 y 2016, además, nos enfocaremos en la accesibilidad de los recursos de salud mental del año 2016 para cada país, tanto el personal capacitado como los establecimientos de salud mental, y, así, contrastaremos esta información para evidenciar posibles carencias o eficiencias sistematicas de las naciones. 
+  En este informe analizaremos las tasas de suicidio según país durante los años 2000, 2010, 2015 y 2016, además, nos enfocaremos en la accesibilidad de los recursos de salud mental del año 2016 para cada país, con esto, nos referimos al personal capacitado y los establecimientos destinados a salud mental. Contrastaremos esta información para evidenciar posibles carencias o eficiencias sistematicas de las naciones.
+  
+  (idea secundaria: relacionar estos resultados con las cantidades de busqueda en google) 
 
 CARTA DE NAVEGACIÓN EN PROCESO CREATIVO DE CREACIÓN
-Primero se visualizaran los datos de forma gráfica para poder evidenciar más las tasas generales de suicidio mundial y se realizará el respectivo análisis descriptivo.
+
+  Este análisis inicia con una visualización de datos en forma gráfica para poder evidenciar las tasas mundiales de suicidio con su respectivo análisis descriptivo.
+
+
+
+# Resultados 
+
+( Respaldo base por comportamiento raro de R )
+
+  Las tasas de suicidios utilizadas son expresadas como el número de suicidios cada 100000 habitantes de una población. En el siguiente gráfico, mostraremos las diferentes tasas de suicidio a nivel mundial 
+
+```{r, fig.aline="center"}
+
+# mapa en proceso
+
+```
+
+  En la Figura _
+  
+  
+  Analisis por sexo
+  
+```{r}
+
+```
+  
+  
+  Ahora, enfocandonos en el año 2016, realizaremos un análisis según rango de edades
+  
+```{r, fig.aline="center"}
+ 
+```
+  
+  
+
+
+  Acerca de las instalaciones disponibles para salud mental en cada país, nuestra base de datos posee muchos datos faltantes, es por ello que se eliminaron 2 variables y se realizo un breve análisis gráfico/descriptivo de los paises que tienen las tasas más altas y bajas para las 3 variables restantes.
+  
+```{r , fig.aline="center"}
+
+
+```
+
+  
+  Se eliminaron 35 paises para poder realizar los analisis de correlación.
+
+
+  
+  Analisis con personal especializado
+  
+```{r, fig.aline="center"}
+
+```
+  
+  
 
 
 
