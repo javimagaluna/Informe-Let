@@ -9,17 +9,11 @@ output:
 ---
 
 
-```{r setup, warning=FALSE,include=FALSE}
+```{r setup, warning=FALSE, include=FALSE}
 library(knitr)
 library(rmdformats)
 library(here)
 
-## Global options
-options(max.print="75")
-opts_chunk$set(prompt=FALSE,
-               tidy=TRUE,
-               comment=NA)
-opts_knit$set(width=75)
 ```
 
 
@@ -41,38 +35,56 @@ CARTA DE NAVEGACIÓN EN PROCESO CREATIVO DE CREACIÓN
 
 # Resultados 
 
-( Respaldo base por comportamiento raro de R )
+  Las tasas de suicidios utilizadas son expresadas como el número de suicidios cada 100000 habitantes de una determinada población. En el siguiente gráfico, mostraremos las diferentes tasas de suicidio a nivel mundial 
 
-  Las tasas de suicidios utilizadas son expresadas como el número de suicidios cada 100000 habitantes de una población. En el siguiente gráfico, mostraremos las diferentes tasas de suicidio a nivel mundial 
+```{r, fig.align="center", fig.cap= "Figura 1", echo=FALSE}
 
-```{r, fig.aline="center"}
-
-# mapa en proceso
+# Intento de grafico de mapas en proceso
 
 ```
 
-  En la Figura _
+  ANALIZAR FIG 1
   
   
-  Analisis por sexo
   
-```{r}
+  Ahora, enfocandonos en el año 2016, realizaremos un análisis según rango de edad, en el cual, se observa, a nivel mundial, un drástico aumento en la tasa de suicidio a medida que la población adquiere mayor edad (ver Figura GRÁFICO MOMENTANEO)
+  
+```{r, fig.align="center", fig.cap= "Figura GRÁFICO MOMENTANEO. Gráfico de lineas por rango etario ", echo=FALSE}
+
+knitr::include_graphics(here::here("Figuras","rango_edad-continente_puntos.png"))
 
 ```
   
   
-  Ahora, enfocandonos en el año 2016, realizaremos un análisis según rango de edades
+  Si bien, se visualiza un gran aumento de la tasa de suicidio para personas cuya edad está sobre 60 años, según la OMS, esta no es la mayor causa de muerte para este rango, si no que lo son las enfermedades cardiovasculares, cánceres y/o enfermedades respiratorias$_{[2]}$.A pesar de ello, estos niveles si son de gran importartancia y como sociedad debemos preocuparnos de aquello.
   
-```{r, fig.aline="center"}
- 
+  Dado que la escala en el eje "Tasa suicidio" de la Figura GRÁFICO MOMENTANEO es muy grande, perdemos información de los demás países al estar más concentrados en tasas relativamente más bajas,es por ello que analizaremos lo que ocurre en América del Sur.
+  
+```{r, fig.align="center", fig.cap= "Figura. Gráfico de lineas América del Sur", echo=FALSE}
+
+knitr::include_graphics(here::here("Figuras","rango_edad_america_sur.png"))
+
+```
+
+
+  Analisis por sexo (intentar algo por region primero)
+  
+  Hasta el momento hemos analizado a la totalidad de la población, pero ¿Qué pasaría si hicieramos un análisis separando por la varaible "sexo"? ¿Qué tan diferente será la tendencia?. Para esta visualización, se iniciará con la nación de Chile, ver Figura x.
+  
+```{r, fig.align="center", echo=FALSE, fig.cap= "Figura x"}
+
+knitr::include_graphics(here::here("Figuras","Chile_edad_sexo.png"))
+
 ```
   
-  
+  En la Figura x, podemos apreciar que las personas de sexo masculino tienden más a cosumar este hecho frente a las mujeres, las cuales poseen una alta distancia de valores en las tasas.
 
 
-  Acerca de las instalaciones disponibles para salud mental en cada país, nuestra base de datos posee muchos datos faltantes, es por ello que se eliminaron 2 variables y se realizo un breve análisis gráfico/descriptivo de los paises que tienen las tasas más altas y bajas para las 3 variables restantes.
+
+
+  Acerca de las instalaciones disponibles para salud mental en cada país, nuestra base de datos posee muchos datos faltantes, es por ello que se eliminaron 2 variables y se realizó un breve análisis gráfico/descriptivo de los paises que tienen las tasas más altas y bajas para las 3 variables restantes.
   
-```{r , fig.aline="center"}
+```{r, fig.align="center"}
 
 
 ```
@@ -84,7 +96,9 @@ CARTA DE NAVEGACIÓN EN PROCESO CREATIVO DE CREACIÓN
   
   Analisis con personal especializado
   
-```{r, fig.aline="center"}
+```{r, fig.align="center"}
+
+
 
 ```
   
