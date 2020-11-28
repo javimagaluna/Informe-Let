@@ -171,12 +171,10 @@ library(ggrepel)
 library(ls)
 
 t_S<-tasas_suicidio%>% 
-  filter(tasas_suicidio$sexo==" Both sexes")
+  filter(tasas_suicidio$sexo=="Both sexes")
 
 
 options(scipen = 999) # para evitar la anotación científica 
-
-# Graficamos indicando 
 
 mapa_mundo <- map_data("world")
 
@@ -187,8 +185,8 @@ mapa_mundo %>%
                color = "white") +
   geom_point(data= tasas_suicidio, aes(tasa_suicidio),
              stroke = T) +
-  scale_size_continuous(name = "n° infectados") +
-  ggtitle( "Casos acumulados COVID") +
+  scale_size_continuous(name = " ") +
+  ggtitle( "Casos acumulados") +
   theme_map()
 
 

@@ -37,7 +37,7 @@ CARTA DE NAVEGACIÓN EN PROCESO CREATIVO DE CREACIÓN
 
   Las tasas de suicidios utilizadas son expresadas como el número de suicidios cada 100000 habitantes de una determinada población. En el siguiente gráfico, mostraremos las diferentes tasas de suicidio a nivel mundial 
 
-```{r, fig.align="center", fig.cap= "Figura 1", echo=FALSE}
+```{r, fig.align="center", fig.cap= "Figura 1"}
 
 # Intento de grafico de mapas en proceso
 
@@ -45,11 +45,11 @@ CARTA DE NAVEGACIÓN EN PROCESO CREATIVO DE CREACIÓN
 
   ANALIZAR FIG 1
   
-  
+--  
   
   Ahora, enfocandonos en el año 2016, realizaremos un análisis según rango de edad, en el cual, se observa, a nivel mundial, un drástico aumento en la tasa de suicidio a medida que la población adquiere mayor edad (ver Figura GRÁFICO MOMENTANEO)
   
-```{r, fig.align="center", fig.cap= "Figura GRÁFICO MOMENTANEO. Gráfico de lineas por rango etario ", echo=FALSE}
+```{r, fig.align="center", fig.cap= "Figura GRÁFICO MOMENTANEO. Gráfico de puntos por rango etario ", echo=FALSE}
 
 knitr::include_graphics(here::here("Figuras","rango_edad-continente_puntos.png"))
 
@@ -58,7 +58,7 @@ knitr::include_graphics(here::here("Figuras","rango_edad-continente_puntos.png")
   
   Si bien, se visualiza un gran aumento de la tasa de suicidio para personas cuya edad está sobre 60 años, según la OMS, esta no es la mayor causa de muerte para este rango, si no que lo son las enfermedades cardiovasculares, cánceres y/o enfermedades respiratorias$_{[2]}$.A pesar de ello, estos niveles si son de gran importartancia y como sociedad debemos preocuparnos de aquello.
   
-  Dado que la escala en el eje "Tasa suicidio" de la Figura GRÁFICO MOMENTANEO es muy grande, perdemos información de los demás países al estar más concentrados en tasas relativamente más bajas,es por ello que analizaremos lo que ocurre en América del Sur.
+  Dado que la escala en el eje "Tasa suicidio" de la Figura "GRÁFICO MOMENTANEO" es muy grande, perdemos información de los demás países al estar más concentrados en tasas relativamente más bajas,es por ello que analizaremos lo que ocurre en América del Sur.
   
 ```{r, fig.align="center", fig.cap= "Figura. Gráfico de lineas América del Sur", echo=FALSE}
 
@@ -66,6 +66,10 @@ knitr::include_graphics(here::here("Figuras","rango_edad_america_sur.png"))
 
 ```
 
+  En esta gráfica, se observa un alza en las tasas para el rango entre 20 y 29 años, luego, en general, estas lineas tienden a disminuir levemente para así, volver a tener un alza desde los 70 años de edad hacia adelante (hacer una descripcion decente!! xd) 
+
+
+--
 
   Analisis por sexo (intentar algo por region primero)
   
@@ -77,10 +81,12 @@ knitr::include_graphics(here::here("Figuras","Chile_edad_sexo.png"))
 
 ```
   
-  En la Figura x, podemos apreciar que las personas de sexo masculino tienden más a cosumar este hecho frente a las mujeres, las cuales poseen una alta distancia de valores en las tasas.
+  En la Figura x, podemos apreciar que las personas de sexo masculino tienden más a cosumar este hecho, en cambio, las personas de sexo femenino, poseen tasas notablemente menores. Además, se observa que, en el caso masculino, existe un alza gigantesco desde los 60 años, pero en el caso femenino, en este intervalo hay una disminución de muertes debido al suicidio.
 
 
+--
 
+INSTALACIONES DISPONIBLES PARA SALUD MENTAL
 
   Acerca de las instalaciones disponibles para salud mental en cada país, nuestra base de datos posee muchos datos faltantes, es por ello que se eliminaron 2 variables y se realizó un breve análisis gráfico/descriptivo de los paises que tienen las tasas más altas y bajas para las 3 variables restantes.
   
@@ -92,19 +98,30 @@ knitr::include_graphics(here::here("Figuras","Chile_edad_sexo.png"))
   
   Se eliminaron 35 paises para poder realizar los analisis de correlación.
 
+--
 
+PERSONAL ESPECIALIZADO
   
-  Analisis con personal especializado
+  Una gran pregunta que surge al realizar estos análisis es ¿Qué pasa con el personal especializado? ¿Alcanza para toda la población?. Para este estudio contamos con una base de datos de 107 países durante el 2016, los cuales poseen datos faltantes, es por ello que intentaremos eliminar la menor cantidad de datos para no modificar la posible relación existente entre las variables.
   
-```{r, fig.align="center"}
+  Uno de los personales especializados más importantes en esta área son los profesionales de psiquiatría y psicología, dado que estos son los que realizan los diagnósticos de transtornos mentales de los habitantes. Es por ello que es de vital importancia tener una noción de cuantos profesionales hay disponibles, en la Figura _ podemos apreciar un gráfico de disperción con las variables "psiquiatras" y "psicólogos".
+  
+```{r, fig.align="center", fig.cap= "Figura _", echo=FALSE}
 
+knitr::include_graphics(here::here("Figuras","puntos-psiqui_psicol.png"))
+
+```
+  
+  En esta gráfica podemos ver que tenemos al menos 3 puntos extremos en el costado inferior derecho y 2 en el costado superior izquierdo, estos puntos poseen una mayor cantidad de psicólogos y psiquiatras cada 100000 habitantes en una determinada zona. Estos puntos los consideraremos como puntos de interés, a los cuales analizaremos las tasas de suicidio en aquellos países más adelante en este informe.
+  Ahora bien, si nos fijamos en el sector inferior izquierdo, podemos notar una gran concentración de datos, la cual podemos estudiar un poco más realizando un acercamiento en ese lugar.
+  
+```{r, fig.align="center", fig.cap= "Figura _", echo=FALSE}
 
 
 ```
   
-  
 
-
+  La correlación existente entre estas variables alcanza un valor de `r 0.4914`, este número nos indica que podemos encontrar una relación positiva entre las variables, ya que poseen un nivel de asociación.
 
 
 

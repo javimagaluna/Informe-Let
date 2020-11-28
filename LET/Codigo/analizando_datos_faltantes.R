@@ -32,6 +32,20 @@ instalaciones_SIU<-instalaciones_SU%>%
 
 summary(personal_especializado)
 
+personal_psi<-personal_especializado%>%
+  filter(is.na(personal_especializado$psiquiatras)==FALSE)
+
+personal<-personal_psi%>%
+  filter(is.na(personal_psi$psicologos)==FALSE)
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,5 +1,4 @@
 
-# ggplot no me plotea :c
 
 library(psych)
 
