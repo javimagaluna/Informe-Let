@@ -19,7 +19,9 @@ personal_especializado<- read.csv(here::here("Datos-sin-procesar","Human Resourc
 personal_especializado<- personal_especializado[,-2]   # Eliminando anio
 
 
-# Cambiendo nombre de variables -------------------------------------------
+# Cambiando nombre de variables -------------------------------------------
+
+names(tasa_suicidio)= c("pais", "sexo", "x2016", "x2015", "x2010", "x2000")
 
 names(tasa_suicidio)= c("pais", "sexo", 2016, 2015, 2010, 2000)
 
