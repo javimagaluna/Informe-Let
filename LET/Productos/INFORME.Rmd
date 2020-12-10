@@ -1,11 +1,19 @@
 ---
 title: |
+  <div style="text-align: center">
   ![](Logu.png){width=1in}  
   Suicidio y salud mental
-author: "Javiera Preuss Araya"
+  <div/>
+author: |
+  <div style="text-align: center">
+  Javiera Preuss Araya
+  <div/>
 output:
   rmdformats::material:
     highlight: kate
+    df_print: kable
+thumbnails: FALSE
+    
 ---
 
 ```{r setup, warning=FALSE, include=FALSE}
@@ -13,30 +21,106 @@ library(knitr)
 library(rmdformats)
 library(here)
 
+knitr::opts_chunk$set(fig.align = "center")
+
 ```
 
 # Resumen
 
-A través de la exploración y visualización de datos,
+  A través de la exploración y visualización de datos, se 
+
+  Guyana :c
 
 
 # Introducción
 
-  La Organización Mundial de la Salud (OMS) reporta que cada 40 segundos una persona se suicida a nivel mundial$_{[1]}$, esta tasa a medida del transcurso de los años a ido aumentando y aparentemente no se observan mejorías. Algunos países han implementado nuevas intervenciones para prevenir el suicidio pero esto no ha sido suficiente, a pesar de tener grandes bases de datos estas no son del todo completas, ya que, los países de menores ingresos económicos poseen una precaria información registrada de sus datos, lo que dificulta a las diferentes organizaciones de salud para crear nuevas estrategias efectivas para reducir esta tasa. Cabe destacar que la cifra anteriormente mencionada no incluye a los suicidios "tentativos", los cuales pueden llegar a ser 20 veces mayor que el suicidio consumado.
+  La Organización Mundial de la Salud (OMS) reporta que cada 40 segundos una persona se suicida a nivel mundial $^{[1]}$, tasa que, a medida del transcurso de los años, ha ido aumentando y aparentemente no se observan mejorías. Cabe destacar que la cifra anteriormente mencionada no incluye a los suicidios "tentativos", los cuales pueden llegar a ser 20 veces mayor que el suicidio consumado. Si bien algunos países han implementado nuevas intervenciones para prevenir el suicidio, estas no han sido suficientes. Una de las razones se relaciona con la calidad de los datos que estos poseen. Los países de menores ingresos tienen menos registros, lo que presenta dificultades para las organizaciones de salud al crear nuevas estrategias para reducir esta tasa.
 
-  El suicidio es un tema complejo y delicado, cualquier paso en falso es un error fatal, es por ello que es inevitable cuestionarse ¿Qué es lo que esta pasando a nivel mundial con la salud mental?, hoy en día es bastante común escuchar a los jóvenes decir "me quiero morir" y normalizarlo como si fuese una broma, pero ¿y si esto no es así? ¿Qué pasaría si realmente la persona se quiere suicidar y nosotros ignoramos estas señales definitorias de vida o muerte?. Si bien, no todos somos personas capacitadas para estos asuntos, pero si es necesario tener una idea del como actuar en estas situaciones, es por ello que se necesitan más políticas públicas para que el personal especializado visualice esta realidad. En Chile, es usual escuchar que los tratamientos de salud mental tienen un costo muy elevado o que estos están colapsados, por lo que agendar una cita es casi imposible, entonces, una se pregunta ¿Qué tan accesible es la salud mental? ¿Cuánto personal especializado existe?.
+  El suicidio es un tema complejo y delicado,  en el que cualquier paso en falso puede ser un error fatal. Es por ello que es inevitable cuestionarse: ¿qué es lo que esta pasando a nivel mundial con la salud mental? Hoy en día es bastante común escuchar a los jóvenes decir "me quiero morir" y normalizarlo como si fuese una broma, pero ¿y si esto no es así? ¿Qué pasaría si realmente la persona se quiere suicidar y nosotros ignoramos estas señales definitorias de vida o muerte? Si bien no todos somos personas capacitadas para estos asuntos, sí es necesario tener una idea de cómo actuar en estas situaciones, lo que da cuenta de la necesidad de más políticas públicas para que el personal especializado visualice esta realidad. En Chile, es usual escuchar que los tratamientos de salud mental tienen un costo muy elevado o que el sistema de salud está colapsado, por lo que agendar una cita es casi imposible. Entonces, una se pregunta ¿qué tan accesible es la salud mental? ¿Cuánto personal especializado existe?
 
-  En este informe analizaremos las tasas de suicidio según país durante los años 2000, 2010, 2015 y 2016, además, nos enfocaremos en la accesibilidad de los recursos de salud mental del año 2016 para cada país, con esto, nos referimos al personal capacitado y los establecimientos destinados a salud mental. Contrastaremos esta información para evidenciar posibles carencias o eficiencias sistemáticas de las naciones.
+  Este informe tiene como objetivo comparar las tasas de suicidio de distintos países durante los años 2000, 2010, 2015 y 2016. Además, busca visibilizar la accesibilidad de los recursos de salud mental del año 2016 para cada uno de estos países. 
   
-  (idea secundaria: relacionar estos resultados con las cantidades de busqueda en google) 
+  Con esto, nos referimos al personal capacitado y los establecimientos destinados a salud mental. 
+  
 
-CARTA DE NAVEGACIÓN EN PROCESO CREATIVO DE CREACIÓN
+CARTA DE NAVEGACIÓN EN PROCESO CREATIVO
+
+  A través de la visualización de datos se gráfica las tasas mundiales
+  
+  A continuación, se analiza la accesibilidad
+  
+  Luego se contrasta la información para evidenciar posibles carencias o eficiencias sistemáticas de las naciones
+  
+  Y finalmente blahblah
 
   Este análisis inicia con una visualización de datos en forma gráfica para poder evidenciar las tasas mundiales de suicidio con su respectivo análisis descriptivo.
 
+  Contrastaremos esta información para evidenciar posibles carencias o eficiencias sistemáticas de las naciones.
+
 # Metodología
 
-  Las tasas de suicidio utilizadas en este informe están estandarizadas, es decir, son expresadas como el número de suicidios cada 100000 habitantes de una determinada población.
+  En este estudio utilizaremos los datos de [mental-health-and-suicide-rates](https://kaggle.com/twinkle0705/mental-health-and-suicide-rates) provenientes de kaggle.com. Esta página contiene cuatro bases de datos, en donde la información que recopilamos para este informe fue reorganizada y la describiremos a continuación.
+  
+  La primera base de datos `tasa_suicidio` consta de cuatro variables (ver Tabla I). Contiene información de 183 países acerca de las tasas de suicidio durante los años 2000, 2010, 2015 y 2016. Esta base posee 2196 observaciones.
+
+
+Table: Tabla I: Descripción de variables tasa_suicidio. 
+  
+| Variable | Tipo de variable | Descripción |
+|---|---|---|
+| país | categórica | Nombre del país |
+| anio | numérica | Año de tasa de suicidio (2000, 2010, 2015 o 2016)|
+| sexo | categórica | femenino, masculino o ambos sexos |
+| tasa_suicidio | numérica | tasa de suicidios consumados|
+  
+  
+  La segunda base `tasa_suicidio_edad`, al igual que la base anterior, posee 4 variables (ver Tabla II) y 2196 observaciones. Esta nos muestra las  tasas de suicidio para diferentes rangos de edad durante el 2016 para 183 países.
+
+
+Table: Tabla II: Descripción de variables tasa_suicidio_edad.
+
+| Variable | Tipo de variable | Descripción |
+|---|---|---|
+| país | categórica | Nombre del país |
+| sexo | categórica | femenino, masculino o ambos sexos |
+| rango_edad | categórica | Edades de los habitantes en intervalos de 9 años|
+| tasa_suicidio | numérica | tasa de suicidios consumados en el año 2016  |
+
+
+  La tercera base `instalaciones` contiene las tasas de instalaciones de salud mental disponibles para el año 2016. Esta base tiene información de 112 países, cuyas variables describiremos en la siguiente tabla:
+  
+
+Table: Tabla III: Descripción de variables instalaciones.
+
+| Variable | Tipo de variable | Descripción |
+|---|---|---|
+| país | categórica | Nombre del país |
+| hospitales_psiquiátricos | numérica | Tasa de hospitales psiquiátricos disponibles |
+| unidades_de_salud | numérica | Tasa de unidades de salud mental en hospitales generales | 
+| instalaciones_de_salud | numérica | Tasa de instalaciones de salud mental para pacientes ambulatorios |
+
+
+  Por último, tenemos la base `personal_especializado` que contiene las tasas del personal especializado disponible para salud mental durante el 2016 de 107 países. Las variables están descritas en la  Tabla IV.
+
+Table: Tabla IV: Descripción de variables personal_especializado.
+
+| Variable | Tipo de variable | Descripción |
+|---|---|---|
+| país | categórica | Nombre del país |
+| psiquiatras | numérica | Tasa de psiquiatras que trabajan en el sector de la salud mental |
+| nurses | numérica | Tasa de enfermeras y enfermeros que trabajan en el sector de salud mental|
+| trabajadores_sociales| numérica | Tasa de trabajadores sociales que trabajan en el sector de salud mental |
+| psicólogos| numérica | Tasa de psicólogos que trabajan en el sector de salud mental|
+
+
+  Todas las tasas utilizadas en este informe están estandarizadas, es decir, son expresadas como el número de ocurrencias cada 100.000 habitantes de una determinada población.
+
+  Uno de los problemas existentes en estas bases de datos es la existencia de datos faltantes. Es por ello que en los diversos estudios de este informe se mencionará la cantidad de países con la que se esta trabajando para evitar sesgos informativos.
+
+
+trasformaciones, TODO LO QUE SIRVA PARA INTERPRETAR MEJOR LOS RESULTADOS
+
+
 
 # Resultados 
   
@@ -63,7 +147,7 @@ knitr::include_graphics(here::here("Figuras","rango_edad-continente_puntos.png")
 ```
   
   
-  Si bien, se visualiza un gran aumento de la tasa de suicidio para personas cuya edad está sobre 70 años, según los datos recopilados por Our World In Data, esta no es la mayor causa de muerte para este rango, si no que lo son las enfermedades cardiovasculares, cánceres y/o enfermedades respiratorias$_{[2]}$.A pesar de ello, estos niveles si son de gran importancia y como sociedad debemos preocuparnos de aquello.
+  Si bien, se visualiza un gran aumento de la tasa de suicidio para personas cuya edad está sobre 70 años, según los datos recopilados por Our World In Data, esta no es la mayor causa de muerte para este rango, si no que lo son las enfermedades cardiovasculares, cánceres y/o enfermedades respiratorias$^{[2]}$.A pesar de ello, estos niveles si son de gran importancia y como sociedad debemos preocuparnos de aquello.
   
   Dado que la escala en el eje "Tasa suicidio" de la Figura "GRÁFICO MOMENTANEO" es muy grande, perdemos información de los demás países al estar más concentrados en tasas relativamente más bajas,es por ello que analizaremos lo que ocurre en América del Sur.
   
@@ -95,7 +179,10 @@ knitr::include_graphics(here::here("Figuras","Chile_edad_sexo.png"))
 
 INSTALACIONES DISPONIBLES PARA SALUD MENTAL
 
-  Acerca de las instalaciones disponibles para salud mental en cada país, nuestra base de datos posee muchos datos faltantes, es por ello que se eliminaron 2 variables y se realizó un breve análisis gráfico/descriptivo de los paises que tienen las tasas más altas y bajas para las 3 variables restantes.
+  Acerca de las instalaciones disponibles para salud mental en cada país, nuestra base de datos posee muchos datos faltantes, es por ello que se eliminaron 2 variables y se realizó un breve análisis gráfico/descriptivo de los países que tienen las tasas más altas y bajas para las 3 variables restantes.
+  
+  
+  
   
 ```{r, fig.align="center"}
 
@@ -103,13 +190,13 @@ INSTALACIONES DISPONIBLES PARA SALUD MENTAL
 ```
 
   
-  Se eliminaron 35 paises para poder realizar los analisis de correlación.
+  Se eliminaron 35 países para poder realizar los análisis de correlación.
 
 --
 
 PERSONAL ESPECIALIZADO
   
-  Una gran pregunta que surge al realizar estos análisis es ¿Qué pasa con el personal especializado? ¿Alcanza para toda la población?. Para este estudio contamos con una base de datos de 107 países durante el 2016, los cuales poseen datos faltantes, es por ello que intentaremos eliminar la menor cantidad de datos para no modificar la posible relación existente entre las variables.
+  Una gran pregunta que surge al realizar estos análisis es ¿qué pasa con el personal especializado? ¿Alcanza para toda la población?. Para este estudio contamos con una base de datos de 107 países durante el 2016, los cuales poseen datos faltantes, es por ello que intentaremos eliminar la menor cantidad de datos para no modificar la posible relación existente entre las variables.
   
   Uno de los personales especializados más importantes en esta área son los profesionales de psiquiatría y psicología, dado que estos son los que realizan los diagnósticos de trastornos mentales de los habitantes. Es por esto que es de vital importancia tener una noción de cuantos profesionales hay disponibles, en la Figura _ podemos apreciar un gráfico de dispersión con las variables "psiquiatras" y "psicólogos".
   
@@ -119,12 +206,12 @@ knitr::include_graphics(here::here("Figuras","puntos-psiqui_psicol.png"))
 
 ```
   
-  En esta gráfica (Fig. _) podemos ver que en el sector inferior izquierdo, existe una gran concentración de datos, por lo que, en general, la cantidad de psicólogos y psiquiatras disponibles son bastante bajos. Además, cabe destacar que la escala del eje x "Psicólogos" es cuatro veces mayor que la escala del eje y "Psiquiatras", esto nos indica que existe una mayor cantidad de psicólogos que de psiquiatras ¿Por qué es importante mencionar esto? Porque de 104 países, el $45,19 \%$ tiene acceso a menos de un psiquiatra cada 100000 habitantes, cifra alarmante pues debilita a los equipos dedicados a salud mental.
+  En esta gráfica (Fig. _) podemos ver que en el sector inferior izquierdo, existe una gran concentración de datos, por lo que, en general, la cantidad de psicólogos y psiquiatras disponibles son bastante bajos. Además, cabe destacar que la escala del eje x "Psicólogos" es cuatro veces mayor que la escala del eje y "Psiquiatras", esto nos indica que existe una mayor cantidad de psicólogos que de psiquiatras ¿Por qué es importante mencionar esto? Porque de 104 países, el 45,19 % tiene acceso a menos de un psiquiatra cada 100.000 habitantes, cifra alarmante pues debilita a los equipos dedicados a salud mental.
   
-  "Retomando nuestra comparación, la correlación existente entre estas variables alcanza un valor de `r 0.4914`, este número nos indica que podemos encontrar una relación positiva entre las variables, ya que poseen un nivel de asociación."
+   la correlación existente entre estas variables alcanza un valor de `r 0.4914`, este número nos indica que podemos encontrar una relación positiva entre las variables, ya que poseen un nivel de asociación."
   
   
-  Ahora, retomando nuestra comparación, notemos que tenemos al menos 3 puntos extremos en el costado inferior derecho y 2 en el costado superior izquierdo, estos puntos nos indican una mayor cantidad de psicólogos o psiquiatras cada 100000 habitantes en una determinada zona. 
+  Ahora, retomando nuestra comparación, notemos que, en la Figura _, tenemos al menos 3 puntos extremos en el costado inferior derecho y 2 en el costado superior izquierdo, estos puntos nos indican una mayor cantidad de psicólogos o psiquiatras cada 100.000 habitantes en una determinada zona. 
   
 ```{r, fig.align="center", fig.cap= "Figura _", echo=FALSE}
 
@@ -132,7 +219,7 @@ knitr::include_graphics(here::here("Figuras","puntos_maxpais-psiqui_psicol.png")
                         
 ```
   
-  En la Figura _, hemos identificado el país de estos puntos de interés, a los cuales analizaremos las tasas de suicidio.
+  En la Figura _, hemos identificado el país de estos puntos de interés, a los cuales analizaremos las tasas de suicidio según rango etario.
   
 
 ```{r, fig.align="center", fig.cap= "Figura _", echo=FALSE}
@@ -141,8 +228,7 @@ knitr::include_graphics(here::here("Figuras","Paises_mayor_psiq_psicol-lineas_ed
                         
 ```
 
-  En esta gráfica no consideramos el país Mónaco ya que la base de datos no poseía esta tasa, a pesar de esto, los demás países son muy informativos
-  
+  En esta gráfica no consideramos el país Mónaco ya que este país no figuraba en la base de datos, a pesar de esto, los demás países son muy informativos. 
   
   ¿Qué tan diferente será la tasa de suicidio si comparamos los países con mayor cantidad de psicólogos y psiquiatras con los de menor cantidad del personal? En la Figura _ podemos apreciar esta comparación.
 
@@ -154,14 +240,19 @@ knitr::include_graphics(here::here("Figuras","Paises_menor_psiq_psicol-lineas_ed
 ```
 
   
-  En este gráfico, se aprecia uwu
+  En este gráfico, notamos que los países con menor cantidad de personal (líneas destacadas) tienen un gran aumento en las tasas de suicidio a partir de los 60 años. En el caso de Guyana, país sudamericano de 771.000 habitantes en 2016, se observa una tasa de suicidio superior en todos los rangos etarios en comparación a los países con mayor accesibilidad a personal especializado. Guyana es uno de los países con mayor tasa de suicidio a nivel mundial, y esto sin contar los suicidios no consumados, que son muy altos en la nación. En aquel país, los intentos de suicidio son penados por la ley, pero debido a la alza se hace "vista gorda" a la situación. 
+  
+  Es bastante difícil inferir por qué las personas se suicidan, pero si podemos afirmar que tener accesibilidad a establecimientos hospitalarios o personal especializado es de gran ayuda. Anteriormente, mencionamos a Guyana, este país de pocos habitantes, posee sólo un hospital psiquiátrico y 7 psiquiatras para toda la población, lo cual no da abasto para disminuir esta tasa.
+  
   
   CORRELACION TASA DE SUICIDIO Y PSICOLOGOS-PSIQUIATRAS.
 
 
 # Conclusión
 
-  Como se mencionó anteriormente uno de los principales objetivos de este informe es mostrar e informar sobre este complicado tema, si necesitas ayuda, no dudes en contactar a los teléfonos , tu vida **si** es importante.
+  Como se mencionó anteriormente uno de los principales objetivos de este informe es mostrar e informar sobre este complicado tema, 
+  
+  si necesitas ayuda, no dudes en contactar a los teléfonos , tu vida **si** es importante.
 
 El día 10 de septiembre es el día mundial para la prevención del suicidio
 
@@ -169,10 +260,10 @@ El día 10 de septiembre es el día mundial para la prevención del suicidio
 
 # Referencias
 
-$[1]$  Organización Mundial de la Salud (2019). *Cada 40 segundos se suicida una persona*. [on line] en: https://www.who.int/es/news/item/09-09-2019-suicide-one-person-dies-every-40-seconds
+[1]:  Organización Mundial de la Salud (2019). *Cada 40 segundos se suicida una persona*. [on line] en: https://www.who.int/es/news/item/09-09-2019-suicide-one-person-dies-every-40-seconds
 
 
-$[2]$ Our World in Data (2018). *Causes Of Deaths For People Who Were 70 Years And Older*. [on line] en: https://ourworldindata.org/grapher/causes-of-death-in-70-year-olds?time=2016 
+[2]: Our World in Data (2018). *Causes Of Deaths For People Who Were 70 Years And Older*. [on line] en: https://ourworldindata.org/grapher/causes-of-death-in-70-year-olds?time=2016 
 
 
 
