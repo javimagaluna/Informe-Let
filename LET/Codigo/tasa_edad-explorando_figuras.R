@@ -25,6 +25,11 @@ tasa_suicidio_edad %>%
   labs(x="Rango de edad", y="Tasa suicidio", title= "Tasa de suicidio en Chile durante el 2016 según sexo y rango de edad")
 
 
+tasa_suicidio_edad %>% 
+  filter(tasa_suicidio_edad$pais=="Chile") %>%
+  ggplot(., aes(tasa_suicidio))+ 
+  theme_minimal()+ geom_density(aes(x= tasa_suicidio, fill=sexo), position = "identity", alpha = 0.5)+ labs(x="Rango de edad", y="Tasa suicidio", title= "Tasa de suicidio en Chile durante el 2016 según sexo y rango de edad")
+
 # PAISES CON MAYOR CANTIDAD DE PSQUIATRAS- PSICOLOGOS
 
 tasa_suicidio_edad %>%
@@ -59,6 +64,35 @@ tasas_suicidio %>%
   gghighlight(pais=="Guinea" | pais=="Guyana" | pais=="Niger") 
 
 
+
+
+# SEXO --------------------------------------------------------------------
+
+t_f<- tasas_suicidio%>% filter(tasas_suicidio$sexo=="Female" & tasas_suicidio$anio==2016)
+t_f<-t_f[,-2]
+t_f<-t_f[,-2]
+
+t_m<- tasas_suicidio%>% filter(tasas_suicidio$sexo=="Male"& tasas_suicidio$anio==2016)
+t_m<-t_m[,-2]
+t_m<-t_m[,-2]
+
+plot(t_f$tasa_suicidio, t_m$tasa_suicidio)
+abline(0,1, lwd=2, col="purple")
+
+tasa_2016_FM<-data.frame(tasa_femenino=t_f, tasa_masculino=t_m)
+tasa_2016_FM<- tasa_2016_FM[,-3]
+
+names(tasa_2016_FM)<- c("pais","tasa_femenino", "tasa_masculino" )
+
+# Gráfico fav <3
+
+ggplot(tasa_2016_FM, aes(tasa_femenino, tasa_masculino))+ geom_point(aes(group=pais, col=pais))+
+  theme_minimal() + geom_abline(intercept=0, slope=1)+
+  gghighlight(pais=="Lesotho"| pais== "Nigeria"  | pais=="Belarus" | pais=="Côte d'Ivoire"| pais=="Equatorial Guinea"| pais== "Guyana" | pais== "Kazakhstan" | pais=="Latvia" | pais=="Lithuania" | pais=="Russian Federation"| pais=="Suriname"| pais== "Ukraine"| pais=="Liberia"| pais=="China" | pais=="Barbados" | pais=="Pakistan")+ labs(x="Femenino", y="Masculino", title="Tasa de suicidio: sexo masculino v/s  sexo femenino")
+
+#| pais=="Uganda"
+tasa_2016_FM$pais[tasa_2016_FM$tasa_femenino>15]
+tasa_2016_FM$pais[tasa_2016_FM$tasa_masculino>30]
 
 
 

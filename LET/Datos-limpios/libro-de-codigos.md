@@ -26,7 +26,7 @@
 
 | Variable | Tipo de variable | Descripción |
 |---|---|---|
-| hospitales_psiquiátricos | numérica | Tasa de hospitales psiquiatricos disponibles en 2016 cada 100000 habitantes|
+| hospitales_psiquiátricos | numérica | Tasa de hospitales psiquiátricos disponibles en 2016 cada 100000 habitantes|
 | unidades_de_salud | numérica | Tasa de unidades de salud mental en hospitales generales cada 100000 habitantes en 2016 | 
 | instalaciones_de_salud | numérica | Tasa de instalaciones de salud mental para pacientes ambulatorios por cada 100 000 habitantes en 2016 |
 

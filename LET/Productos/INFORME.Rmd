@@ -27,7 +27,7 @@ knitr::opts_chunk$set(fig.align = "center")
 
 # Resumen
 
-  A través de la exploración y visualización de datos, se 
+  A través de la exploración y visualización de datos, se evidenció 
 
   Guyana :c
 
@@ -45,21 +45,15 @@ knitr::opts_chunk$set(fig.align = "center")
 
 CARTA DE NAVEGACIÓN EN PROCESO CREATIVO
 
-  A través de la visualización de datos se gráfica las tasas mundiales
+  A través de la visualización de datos se gráfica las tasas mundiales de suicidio, separando por rango etario y sexo femenino o masculino
   
-  A continuación, se analiza la accesibilidad
+  A continuación, se analizará la accesibilidad a las instalaciones de salud mental. Luego lo contrastaremos con la cantidad de personal especializado en el área y evidenciaremos  carencias o eficiencias sistemáticas de los países.
   
-  Luego se contrasta la información para evidenciar posibles carencias o eficiencias sistemáticas de las naciones
-  
-  Y finalmente blahblah
-
-  Este análisis inicia con una visualización de datos en forma gráfica para poder evidenciar las tasas mundiales de suicidio con su respectivo análisis descriptivo.
-
-  Contrastaremos esta información para evidenciar posibles carencias o eficiencias sistemáticas de las naciones.
+  Finalmente retomaremos nuestro primer análisis de visualización y lo relacionaremos con los recursos de salud mental antes mencionados.
 
 # Metodología
 
-  En este estudio utilizaremos los datos de [mental-health-and-suicide-rates](https://kaggle.com/twinkle0705/mental-health-and-suicide-rates) provenientes de kaggle.com. Esta página contiene cuatro bases de datos, en donde la información que recopilamos para este informe fue reorganizada y la describiremos a continuación.
+  En este estudio utilizaremos los datos de [mental-health-and-suicide-rates](https://kaggle.com/twinkle0705/mental-health-and-suicide-rates) provenientes de kaggle.com. Esta página contiene cuatro bases de datos. La información que recopilamos para este informe fue reorganizada y la describiremos a continuación.
   
   La primera base de datos `tasa_suicidio` consta de cuatro variables (ver Tabla I). Contiene información de 183 países acerca de las tasas de suicidio durante los años 2000, 2010, 2015 y 2016. Esta base posee 2196 observaciones.
 
@@ -70,8 +64,8 @@ Table: Tabla I: Descripción de variables tasa_suicidio.
 |---|---|---|
 | país | categórica | Nombre del país |
 | anio | numérica | Año de tasa de suicidio (2000, 2010, 2015 o 2016)|
-| sexo | categórica | femenino, masculino o ambos sexos |
-| tasa_suicidio | numérica | tasa de suicidios consumados|
+| sexo | categórica | Femenino, masculino o ambos sexos |
+| tasa_suicidio | numérica | Tasa de suicidios consumados|
   
   
   La segunda base `tasa_suicidio_edad`, al igual que la base anterior, posee 4 variables (ver Tabla II) y 2196 observaciones. Esta nos muestra las  tasas de suicidio para diferentes rangos de edad durante el 2016 para 183 países.
@@ -82,12 +76,12 @@ Table: Tabla II: Descripción de variables tasa_suicidio_edad.
 | Variable | Tipo de variable | Descripción |
 |---|---|---|
 | país | categórica | Nombre del país |
-| sexo | categórica | femenino, masculino o ambos sexos |
+| sexo | categórica | Femenino, masculino o ambos sexos |
 | rango_edad | categórica | Edades de los habitantes en intervalos de 9 años|
-| tasa_suicidio | numérica | tasa de suicidios consumados en el año 2016  |
+| tasa_suicidio | numérica | Tasa de suicidios consumados en el año 2016  |
 
 
-  La tercera base `instalaciones` contiene las tasas de instalaciones de salud mental disponibles para el año 2016. Esta base tiene información de 112 países, cuyas variables describiremos en la siguiente tabla:
+  La tercera base `instalaciones` contiene las tasas de instalaciones de salud mental disponibles para el año 2016. Esta base tiene información de 112 países, cuyas variables describiremos en la Tabla III:
   
 
 Table: Tabla III: Descripción de variables instalaciones.
@@ -100,7 +94,7 @@ Table: Tabla III: Descripción de variables instalaciones.
 | instalaciones_de_salud | numérica | Tasa de instalaciones de salud mental para pacientes ambulatorios |
 
 
-  Por último, tenemos la base `personal_especializado` que contiene las tasas del personal especializado disponible para salud mental durante el 2016 de 107 países. Las variables están descritas en la  Tabla IV.
+  Por último, tenemos la base `personal_especializado` que contiene las tasas del personal especializado disponible para salud mental durante el 2016 de 107 países. Las variables las describiremos en la Tabla IV:
 
 Table: Tabla IV: Descripción de variables personal_especializado.
 
@@ -118,13 +112,15 @@ Table: Tabla IV: Descripción de variables personal_especializado.
   Uno de los problemas existentes en estas bases de datos es la existencia de datos faltantes. Es por ello que en los diversos estudios de este informe se mencionará la cantidad de países con la que se esta trabajando para evitar sesgos informativos.
 
 
-trasformaciones, TODO LO QUE SIRVA PARA INTERPRETAR MEJOR LOS RESULTADOS
-
+TODO LO QUE SIRVA PARA INTERPRETAR MEJOR LOS RESULTADOS
 
 
 # Resultados 
   
   Al inicio de este informe, comentamos que, a pesar de las medidas mundiales que se han realizado, las tasas de suicidio están lejos de disminuir, si realizamos un análisis de correlación 
+
+  HACER GRAFICO DE PUNTOS 
+
 
    En el siguiente gráfico, mostraremos las diferentes tasas de suicidio a nivel mundial 
 
@@ -136,7 +132,7 @@ trasformaciones, TODO LO QUE SIRVA PARA INTERPRETAR MEJOR LOS RESULTADOS
 
   ANALIZAR FIG 1
   
---  
+---
   
   Ahora, enfocándonos en el año 2016, realizaremos un análisis según rango de edad, en el cual, se observa, a nivel mundial, un drástico aumento en la tasa de suicidio a medida que la población adquiere mayor edad (ver Figura GRÁFICO MOMENTANEO)
   
@@ -160,11 +156,21 @@ knitr::include_graphics(here::here("Figuras","rango_edad_america_sur.png"))
   En esta gráfica, se observa un alza en las tasas para el rango entre 20 y 29 años, luego, en general, estas lineas tienden a disminuir levemente para así, volver a tener un alza desde los 70 años de edad hacia adelante (hacer una descripcion decente!! xd) 
 
 
---
-
-  Análisis por sexo (intentar algo por región primero)
+---
   
-  Hasta el momento hemos analizado a la totalidad de la población, pero ¿Qué pasaría si hicieramos un análisis separando por la variable "sexo"? ¿Qué tan diferente será la tendencia?. Para esta visualización, se iniciará con la nación de Chile, ver Figura x.
+  Hasta el momento hemos analizado a la totalidad de la población y se ha distinguido por rango etario, pero ¿qué pasaría si se realizara un análisis separando por la variable "sexo"? ¿Qué tan diferente será la tendencia? Para esta visualización se iniciará con la Figura x. En donde nos enfocaremos en el año 2016 con la presencia de 183 países.
+  
+```{r, fig.align="center", echo=FALSE, fig.cap= "Figura x"}
+
+knitr::include_graphics(here::here("Figuras","tasa-femenino-vs-masculino.png"))
+
+```
+  
+  Notemos que en la Figura x la concentración de las observaciones está sobre la recta. Esto nos indica que las personas de sexo masculino tienen una mayor tendencia al suicidio que las personas de sexo femenino. Además, si nos fijamos en los largos de los ejes, la tasa de suicidio para el sexo masculino duplica a los de sexo femenino en casi todos los países. Este resultado es bastante sorprendente, recordemos que a nivel mundial existen más personas de sexo femenino que de sexo masculino. Una de las posibles razones de la gran variación de tasas es el ambiente sociocultural que estos se han asignado a si mismos.  
+  
+  
+  Ahora, veamos que pasa si relacionamos nuestro estudio por sexo y el que realizamos anteriormente con rango de edad. Para ello nos enfocaremos en las tasas de suicidio del año 2016 para Chile.
+  
   
 ```{r, fig.align="center", echo=FALSE, fig.cap= "Figura x"}
 
@@ -172,14 +178,15 @@ knitr::include_graphics(here::here("Figuras","Chile_edad_sexo.png"))
 
 ```
   
-  En la Figura x, podemos apreciar que las personas de sexo masculino tienden más a cosumar este hecho, en cambio, las personas de sexo femenino, poseen tasas notablemente menores. Además, se observa que, en el caso masculino, existe un alza gigantesco desde los 60 años, pero en el caso femenino, en este intervalo hay una disminución de muertes debido al suicidio.
+  En la Figura x, podemos apreciar que las personas de sexo masculino tienden más a consumar este hecho, en cambio, las personas de sexo femenino, poseen tasas notablemente menores. Además, se observa que, en el caso masculino, existe un gran alza desde los 60 años, pero en el caso femenino, hay una disminución de muertes debido al suicidio en aquel intervalo. Ahora de forma global para ambos sexos se presenta un aumento en la tasa de suicidios desde los 70 años de edad.
+  
+  Entonces si contrastamos esta información con nuestros análisis anteriores, podemos apreciar que los resultados obtenidos concuerdan  con lo que hemos descrito. Es por ello que podemos afirmar que, aparentemente, no existe un cambio de asociación entre las variables cuando analizamos el efecto de otra variable en particular.
 
-
---
+---
 
 INSTALACIONES DISPONIBLES PARA SALUD MENTAL
 
-  Acerca de las instalaciones disponibles para salud mental en cada país, nuestra base de datos posee muchos datos faltantes, es por ello que se eliminaron 2 variables y se realizó un breve análisis gráfico/descriptivo de los países que tienen las tasas más altas y bajas para las 3 variables restantes.
+  Acerca de las instalaciones disponibles para salud mental en cada país, nuestra base de datos posee muchos datos faltantes, es por ello que se eliminaron dos variables y se realizó un breve análisis gráfico/descriptivo de los países que tienen las tasas más altas y bajas para las tres variables restantes.
   
   
   
@@ -192,11 +199,11 @@ INSTALACIONES DISPONIBLES PARA SALUD MENTAL
   
   Se eliminaron 35 países para poder realizar los análisis de correlación.
 
---
+---
 
 PERSONAL ESPECIALIZADO
   
-  Una gran pregunta que surge al realizar estos análisis es ¿qué pasa con el personal especializado? ¿Alcanza para toda la población?. Para este estudio contamos con una base de datos de 107 países durante el 2016, los cuales poseen datos faltantes, es por ello que intentaremos eliminar la menor cantidad de datos para no modificar la posible relación existente entre las variables.
+  Una gran pregunta que surge al realizar estos análisis es ¿qué pasa con el personal especializado? ¿Alcanza para toda la población? Para este estudio contamos con una base de datos de sobre 107 países durante el 2016.
   
   Uno de los personales especializados más importantes en esta área son los profesionales de psiquiatría y psicología, dado que estos son los que realizan los diagnósticos de trastornos mentales de los habitantes. Es por esto que es de vital importancia tener una noción de cuantos profesionales hay disponibles, en la Figura _ podemos apreciar un gráfico de dispersión con las variables "psiquiatras" y "psicólogos".
   
@@ -206,12 +213,12 @@ knitr::include_graphics(here::here("Figuras","puntos-psiqui_psicol.png"))
 
 ```
   
-  En esta gráfica (Fig. _) podemos ver que en el sector inferior izquierdo, existe una gran concentración de datos, por lo que, en general, la cantidad de psicólogos y psiquiatras disponibles son bastante bajos. Además, cabe destacar que la escala del eje x "Psicólogos" es cuatro veces mayor que la escala del eje y "Psiquiatras", esto nos indica que existe una mayor cantidad de psicólogos que de psiquiatras ¿Por qué es importante mencionar esto? Porque de 104 países, el 45,19 % tiene acceso a menos de un psiquiatra cada 100.000 habitantes, cifra alarmante pues debilita a los equipos dedicados a salud mental.
+  En esta gráfica (Fig. _) podemos ver que en el sector inferior izquierdo, existe una gran concentración de datos, por lo que, en general, la cantidad de psicólogos y psiquiatras disponibles son bastante bajos. Además, cabe destacar que la escala del eje x "Psicólogos" es cuatro veces mayor que la escala del eje y "Psiquiatras", esto nos indica que existe una mayor cantidad de psicólogos que de psiquiatras ¿por qué es importante mencionar esto? Porque de 104 países, el 45,19 % tiene acceso a menos de un psiquiatra cada 100.000 habitantes, cifra alarmante pues debilita a los equipos dedicados a salud mental.
   
    la correlación existente entre estas variables alcanza un valor de `r 0.4914`, este número nos indica que podemos encontrar una relación positiva entre las variables, ya que poseen un nivel de asociación."
   
   
-  Ahora, retomando nuestra comparación, notemos que, en la Figura _, tenemos al menos 3 puntos extremos en el costado inferior derecho y 2 en el costado superior izquierdo, estos puntos nos indican una mayor cantidad de psicólogos o psiquiatras cada 100.000 habitantes en una determinada zona. 
+  Ahora, retomando nuestra comparación, notemos que, en la Figura _, tenemos al menos tres puntos extremos en el costado inferior derecho y dos en el costado superior izquierdo, estos puntos nos indican una mayor cantidad de psicólogos o psiquiatras cada 100.000 habitantes en una determinada zona. 
   
 ```{r, fig.align="center", fig.cap= "Figura _", echo=FALSE}
 

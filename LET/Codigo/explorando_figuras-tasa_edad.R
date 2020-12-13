@@ -11,13 +11,10 @@ pairs.panels(tasa_ambos[,3:6], method = "pearson",
              factor=3, lwd=2 )
 
 
-t<-tasa_ambos[,3:6]
-
-uwu<-corPlot(t, cex = 1.2)
-plot(uwu$clust)
+plot(anio2000$tasa_suicidio, anio2010$tasa_suicidio)
 
 
-
+pairs(tasa_ambos[,3:6], lower.panel=NULL,labels=c("2016","2015","2010","2000"), pch=19, cex=0.8)
 
 
 
