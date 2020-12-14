@@ -25,18 +25,10 @@ library(here)
 
 # Resumen
 
-  A través de la exploración y visualización de datos, se evidenció los aumentos en las tasas de suicidio a medida que pasan los años 
+  Mediante la exploración y visualización de datos, se evidenció los aumentos en las tasas de suicidio a medida que pasan los años. Se identificó que el rango etario con mayor tasa de suicidio es para las personas sobre 80 años. Además, se compararon las tasas de suicidio para el sexo femenino y masculino, concluyendo que el sexo masculino es más propenso a suicidarse, llegando a duplicar la tasa de suicidios femeninos.
   
-  - rango etario con mayor tasa de suicidio desde los 70 años en adelante
-  
-  - las personas de sexo masculino son mas propensos a suicidarse que las mujeres, llegando a duplicar la tasa de mujeres.
-  
-  - el 97,5% de los 82 países poseen menos de un hospital psiquiátrico y que el 96,3% tiene menos de una unidad de salud mental en hospitales generales.
-  
-   - instalaciones, para Guayana hay solo un hospital psiquiátrico
-  
-  - el 45,19 % tiene acceso a menos de un psiquiatra cada 100.000 habitantes
-
+  Con respecto a los recursos disponibles para salud mental durante el 2016, se realizaron distintos contrastes. En primera instancia se visualizó la cantidad de establecimientos, en donde se estimó que el 97,5% de 82 países poseen menos de un hospital psiquiátrico cada 100.000 habitantes y el 96,3% tiene menos de una unidad de salud mental en hospitales generales. Seguidamente se estudió la cantidad de psicólogos y psiquiatras en el área, en donde lamentablemente se estimó que de 104 países el 45,19 % tiene acceso a menos de un psiquiatra cada 100.000 habitantes. 
+  Con la información antes recopilada se habló de Guyana, país que pese a su baja población posee una de las mayores tasas de suicidio a nivel mundial. Esta nación tiene acceso a solo un hospital psiquiátrico y siete psiquiatras para toda la población.
 
 
 # Introducción
@@ -118,11 +110,11 @@ knitr::include_graphics(here::here("Figuras","Relacion-tasa-anio.png"))
 
 ```
   
-  En este gráfico se observa una relación positiva entre todas las variables, en donde la correlación entre años "consecutivos" aumenta. Los valores obtenidos son muy altos, lo que nos indica que existe una conexión entre los años de las tasas de suicidio. Es interesante mirar la comparación entre el año 2016 y 2000, porque nos da indicios, gracias a la dispersión de puntos,  de como han ido aumentando las tasas de suicidio en las distintas naciones.
+  En este gráfico se observa una relación positiva entre todas las variables, en donde la correlación entre años "consecutivos" aumenta. Los valores obtenidos son muy altos, lo que nos indica que existe una conexión entre los años de las tasas de suicidio. Es interesante mirar la comparación entre el año 2016 y 2000, porque nos da indicios, gracias a la dispersión de puntos, de como han ido aumentando las tasas de suicidio en las distintas naciones.
   
 ---
   
-  Ahora, enfocándonos en el año 2016, realizaremos un análisis según rango de edad, en el cual, se observa, a nivel mundial, un drástico aumento en la tasa de suicidio a medida que la población adquiere mayor edad (ver Figura 2-3)
+  Ahora, enfocándonos en el año 2016, realizaremos un análisis según rango de edad, en donde se observa, a nivel mundial, un drástico aumento en la tasa de suicidio a medida que la población adquiere mayor edad (ver Figura 2.)
   
 ```{r, fig.align="center", fig.cap= "Figura 2: Tasa de suicidio promedio durante el 2016 para distintos rangos etarios  ", echo=FALSE}
 
@@ -131,7 +123,7 @@ knitr::include_graphics(here::here("Figuras","tasa-edad-promedio-2016-eje_rotado
 ```
   
   
-  Si bien, se visualiza un gran aumento de la tasa de suicidio para personas cuya edad está sobre 70 años, según los datos recopilados por Our World In Data, esta no es la mayor causa de muerte para este rango, si no que lo son las enfermedades cardiovasculares, cánceres y/o enfermedades respiratorias$^{[2]}$.A pesar de ello, estos niveles si son de gran importancia y como sociedad debemos preocuparnos de aquello.
+  Si bien, se visualiza un gran aumento de la tasa de suicidio para personas cuya edad está sobre 80 años, según los datos recopilados por Our World In Data, esta no es la mayor causa de muerte para este rango, si no que lo son las enfermedades cardiovasculares, cánceres y/o enfermedades respiratorias$^{[2]}$. A pesar de ello, estos niveles si son de gran importancia y como sociedad debemos preocuparnos de aquello.
   
   Dado que el promedio es sensible a los puntos extremos, se visualizará lo que ocurre en América del Sur ¿obtendremos los mismos resultados?
   
@@ -141,7 +133,8 @@ knitr::include_graphics(here::here("Figuras","rango_edad_america_sur.png"))
 
 ```
 
-  En la Figura 3, se observa un alza en las tasas para el rango entre 20 y 29 años, luego, en general, estas lineas tienden a disminuir levemente para así, volver a tener un alza desde los 70 años de edad hacia adelante. Si se realizara un estudio por promedio para esta región, el país Guyana afectaría a la estimación por tener una tasa de suicidio aproximadamente del doble que los demás países. Entonces, para los países de América del Sur,  los rangos etarios con mayor tasa de suicidio son de 20 a 29 y sobre 70. 
+  En la Figura 3, se observa un alza en las tasas para el rango entre 20 y 29 años, luego, en general, estas lineas tienden a disminuir levemente para así, volver a tener un alza desde los 70 años de edad hacia adelante. Si se realizará un estudio por promedio para esta región, el país Guyana (color celeste oscuro que inicia su tasa de suicidio con un valor cercano a 20) afectaría a la estimación por tener una tasa de suicidio aproximadamente del doble que los demás países.
+  Entonces, para los países de América del Sur,  los rangos etarios con mayor tasa de suicidio son de 20 a 29 y sobre 80. 
 
 
 ---
@@ -172,8 +165,6 @@ knitr::include_graphics(here::here("Figuras","Chile_edad_sexo.png"))
 
 ---
 
-INSTALACIONES DISPONIBLES PARA SALUD MENTAL
-
   Ahora hablando acerca de las instalaciones disponibles para salud mental en cada país, nos referiremos a la cantidad de hospitales psiquiátricos existentes y las unidades médicas en los hospitales generales. Es interesante tener una noción de cuantos establecimientos y lugares especializados existen. Es por ello que para esta visualización iniciaremos con un gráfico de dispersión para 82 países en donde contrastaremos ambas variables.
 
   
@@ -192,14 +183,12 @@ knitr::include_graphics(here::here("Figuras","hospital-unidad-acercamiento.png")
 ```
   
   
-  En el gráfico anterior se visualiza que en general existe una mayor tasa de de unidades de salud en hospitales generales que de hospitales psiquiátricos. Además, cabe destacar que los países ubicados sobre la recta nos indican que tienen una tasa de establecimientos sumamente parecidas. 
+  En el gráfico anterior se visualiza que, en general, existe una mayor tasa de unidades de salud en hospitales generales que hospitales psiquiátricos. Pero que exista una mayor tasa de unidades de salud no implica que atiendan a más habitantes, al hablar de "establecimientos" nos referimos a la cantidad de edificaciones destinadas a un sector determinado. Es por esto que, a pesar de tener una mayor tasa, se esperaría que los hospitales psiquiátricos atendieran a más personas. Volviendo a la Figura 7, cabe destacar que los países ubicados en la recta nos indican que tienen una tasa para ambos establecimientos sumamente parecidas. 
   
   Con esta información podemos estimar que el 97,5% de los 82 países poseen menos de un hospital psiquiátrico y que el 96,3% tiene menos de una unidad de salud mental en hospitales generales cada 100.000 habitantes.
   
   
 ---
-
-PERSONAL ESPECIALIZADO
   
   Una gran pregunta que surge al realizar estos análisis es ¿qué pasa con el personal especializado? ¿Alcanza para toda la población? Para este estudio contamos con una base de datos de sobre 107 países durante el 2016.
   
@@ -213,10 +202,8 @@ knitr::include_graphics(here::here("Figuras","puntos-psiqui_psicol.png"))
   
   En esta gráfica (Fig. 8) podemos ver que en el sector inferior izquierdo, existe una gran concentración de datos, por lo que, en general, la cantidad de psicólogos y psiquiatras disponibles son bastante bajos. Además, cabe destacar que la escala del eje x "Psicólogos" es cuatro veces mayor que la escala del eje y "Psiquiatras", esto nos indica que existe una mayor cantidad de psicólogos que de psiquiatras ¿por qué es importante mencionar esto? Porque de 104 países, el 45,19 % tiene acceso a menos de un psiquiatra cada 100.000 habitantes, cifra alarmante pues debilita a los equipos dedicados a salud mental.
   
-   la correlación existente entre estas variables alcanza un valor de `r 0.4914`, este número nos indica que podemos encontrar una relación positiva entre las variables, ya que poseen un nivel de asociación."
   
-  
-  Ahora, retomando nuestra comparación, notemos que, en la Figura _, tenemos al menos tres puntos extremos en el costado inferior derecho y dos en el costado superior izquierdo, estos puntos nos indican una mayor cantidad de psicólogos o psiquiatras cada 100.000 habitantes en una determinada zona. 
+  Ahora, retomando nuestra comparación, notemos que, en la Figura 8, tenemos al menos tres puntos extremos en el costado inferior derecho y dos en el costado superior izquierdo, estos puntos nos indican una mayor cantidad de psicólogos o psiquiatras cada 100.000 habitantes en una determinada zona. 
   
 ```{r, fig.align="center", fig.cap= "Figura 9", echo=FALSE}
 
@@ -233,32 +220,36 @@ knitr::include_graphics(here::here("Figuras","Paises_mayor_psiq_psicol-lineas_ed
                         
 ```
 
-  En esta gráfica (Fig. 10) no consideramos el país Mónaco ya que este país no figuraba en la base de datos, a pesar de esto, los demás países son muy informativos. 
+  En esta gráfica (Fig. 10) no consideramos el país Mónaco ya que este país no figuraba en la base de datos `tasa_suicidio_edad`. Entonces, en la Figura 10, podemos apreciar altas tasas de suicidio para el rango de 50 a 59 años, línea la cual tiende a disminuir un poco y posteriormente vuelve a aumentar rápidamente para el rango etario sobre 80 años.
   
   ¿Qué tan diferente será la tasa de suicidio si comparamos los países con mayor cantidad de psicólogos y psiquiatras con los de menor cantidad del personal? En la Figura 11 podemos apreciar esta comparación.
 
 
-```{r, fig.align="center", fig.cap= "Figura 11", echo=FALSE}
+```{r, fig.align="center", fig.cap= "Figura 11: Comparación de tasas de suicidio para paises valores extremos de psicólogos y psiquiatras ", echo=FALSE}
 
 knitr::include_graphics(here::here("Figuras","Paises_menor_psiq_psicol-lineas_edad.png"))
                         
 ```
 
   
-  En este gráfico, notamos que los países con menor cantidad de personal (líneas destacadas) tienen un gran aumento en las tasas de suicidio a partir de los 60 años. En el caso de Guyana, país sudamericano de 771.000 habitantes en 2016, se observa una tasa de suicidio superior en todos los rangos etarios en comparación a los países con mayor accesibilidad a personal especializado. Guyana es uno de los países con mayor tasa de suicidio a nivel mundial, y esto sin contar los suicidios no consumados, que son muy altos en la nación. En aquel país, los intentos de suicidio son penados por la ley, pero debido a la alza se hace "vista gorda" a la situación. 
+  En la Figura 11, notamos que los países con menor cantidad de personal (líneas destacadas) tienen un gran aumento en las tasas de suicidio a partir de los 60 años. En el caso de Guyana, país sudamericano de 771.000 habitantes en 2016, se observa una tasa de suicidio superior en todos los rangos etarios en comparación a los países con mayor accesibilidad a personal especializado. Guyana es uno de los países con mayor tasa de suicidio a nivel mundial, y esto sin contar los suicidios no consumados, que son muy altos en la nación. En aquel país, los intentos de suicidio son penados por la ley, pero debido a la alza se ignora la situación. 
   
   Es bastante difícil inferir por qué las personas se suicidan, pero si podemos afirmar que tener accesibilidad a establecimientos hospitalarios o personal especializado es de gran ayuda. Anteriormente, mencionamos a Guyana, este país de pocos habitantes, posee sólo un hospital psiquiátrico y siete psiquiatras para toda la población, lo cual no da abasto para disminuir esta tasa.
 
 
 # Conclusión
 
-  Como se mencionó anteriormente uno de los principales objetivos de este informe es mostrar e informar sobre este complicado tema, 
+  Como se mencionó anteriormente uno de los principales objetivos de este informe es mostrar e informar sobre este complicado tema. Si bien las bases de datos recopiladas no estaban del todo completas de igual forma pudimos rescatar información valiosa que nos permitió estudiar estos hechos. 
   
-  Frente a la información recaudada
+  Frente a la información recaudada, vimos que las personas de sexo masculino tienden más a suicidarse que las de sexo femenino. Una explicación que se da para esta tendencia es la cultura en la que estamos inversos, en donde los hombres con su rol de superioridad, reprimen sus sentimientos y problemas llegando su punto máximo, el suicidio. Es interesante contrastar que las mujeres tienden más a tener suicidios no consumados, ya que la violencia con la que se ejerce este hecho es distinta $^{[3]}$.
   
-  si necesitas ayuda, no dudes en contactar a los teléfonos , tu vida **si** es importante.
-
-El día 10 de septiembre es el día mundial para la prevención del suicidio
+  En relación a la cantidad de recursos en salud mental, los resultados son bastante deprimentes. Se estimó que de 104 países, el 45,19 % posee menos de un psiquiatra cada 1000.000 habitantes. Esto da hincapié a lo que se mencionó antes sobre la situación en Chile y las largas listas de espera existentes. De alguna forma podemos relacionar este bajo porcentaje de psiquiatras con el alto costo que esta posee esta profesión y su la duración, en donde se debe estudiar siete años medicina más tres años de especialización en el área. Paralelamente, se visualizó que los países con mayor cantidad de psicólogos y psiquiatras poseen menores tasas de suicidio en los rangos etarios de mayor riesgo, por lo que si podemos afirmar que el tener un mayor acceso con quien comunicar como nos sentimos produce una diferencia.
+  
+  Ahora hablando de los establecimientos de salud mental, se calculó que de 82 países, el 96,3% tiene menos de una unidad de salud mental en hospitales generales cada 100.000 habitantes. Esta cifra puede sonar alarmante, pero recodemos que existen muchos establecimientos que no son hospitales que se dedican a la atención mental y estos no fueron considerados para este análisis. es por ello que para tener una mejor relación causal entre variables se debe contrastar la información obtenida con otra base de datos. Por otro lado, tenemos a los hospitales psiquiátricos en donde el 97,5% de 82 países posee menos de un hospital psiquiátrico cada 100.000 habitantes. Esta cifra si es alarmante para países pequeños como Guyana, ya que, tal como mencionamos en la sección anterior, cuentan con solo un hospital psiquiátrico para todo el país, lo que evidencia las pocas políticas públicas en relación a salud mental. 
+  
+  Los recursos destinados hacia salud mental son sumamente bajos, según un estudio reciente de la Organización Panamericana de la Salud (OPS) reporta que solo el 2% del presupuesto de salud anual es destinado a salud mental $^{[4]}$, por lo que las nuevas herramientas, planificaciones y servicios que se deseen brindar estarán estancados debido a la poca ayuda monetaria en el área. Es por esto que es necesario crear nuevas políticas en las naciones, que puedan asegurar un mejor acceso a salud mental y que estos se mantengan con el tiempo. La importancia de estos lugares o "sitios seguros" nos ayudarán como sociedad a poder continuar avanzando, brindando una luz alternativa que no está al final del túnel.
+  
+  Nunca esta demás recordar que si estas pasando por un mal momento y no tienes con quien hablar al respecto, no dudes en contactar a los canales de ayuda. En Chile puedes contactarte con Salud Responde llamando al: 600 360 7777. Tú vida **si** es importante.
 
 
 
@@ -269,5 +260,8 @@ El día 10 de septiembre es el día mundial para la prevención del suicidio
 
 [2]: Our World in Data (2018). *Causes Of Deaths For People Who Were 70 Years And Older*. [on line] en: https://ourworldindata.org/grapher/causes-of-death-in-70-year-olds?time=2016 
 
+[3]: BBC News Mundo (2019). *¿Por qué hay más hombres víctimas de suicidio aunque más mujeres lo intentan?* [on line] en: https://www.bbc.com/mundo/vert-fut-47694296
+
+[4]: Pan American Health Organization / World Health Organization (2019). *OPS insta a aumentar la inversión en salud mental*.  https://www.paho.org/hq/index.php?option=com_content&view=article&id=14999:mental-health-spending-must-increase-in-order-to-meet-current-needs-in-the-americas&Itemid=1926&lang=es
 
 

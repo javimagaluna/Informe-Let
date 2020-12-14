@@ -33,7 +33,13 @@ datos<-Reduce(merge, list(sui,personal,instalaciones_sin_NAs))
 datos<- datos[,-4]
 datos<- datos[,-4]
 
-# regresion
+datos<-Reduce(merge, list(sui,personal_especializado,instalaciones_sin_NAs))
+summary(datos)
+
+cor(datos[,2:7])
+
+
+# regresión
 regresion<-lm(tasa~.-pais, datos)
 summary(regresion)
 

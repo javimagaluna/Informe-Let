@@ -16,12 +16,43 @@ tasa_suicidio_edad %>%
   ggplot(.,aes(rango_edad,tasa_suicidio, group=pais, col= pais))+ 
   theme_minimal()+geom_line()+ labs(x="Rango de edad", y="Tasa suicidio", title= "Tasa de suicidio de hombres en América del Sur durante el 2016 según rango de edad")
 
+pais_sudamerica<-tasa_suicidio_edad %>%
+  filter(tasa_suicidio_edad$sexo=="Both sexes") %>%
+  mutate(region=countrycode(sourcevar=pais, origin="country.name", destination= "region23")) %>% 
+  filter(region=="South America")
+
+pais_sudamerica<-data.frame(pais_sudamerica,type)
+
+tasa_suicidio_edad %>%
+  filter(tasa_suicidio_edad$sexo=="Both sexes") %>%
+  mutate(region=countrycode(sourcevar=pais, origin="country.name", destination= "region23")) %>% 
+  filter(region=="South America") %>%
+  ggplot(.,aes(rango_edad,tasa_suicidio, group=pais, col= pais))+ 
+  theme_minimal()+geom_line()+ labs(x="Rango de edad", y="Tasa suicidio", title= "Tasa de suicidio en América del Sur durante el 2016 según rango de edad") + ggrepel::geom_label_repel(aes(label = pais), data= pais_sudamerica)
+
+paises<-data.frame(pais=c("Argentina" ,"Bolivia (Plurinational State of)","Brazil","Chile", "Colombia", "Ecuador","Guyana" ,"Paraguay","Peru" ,"Suriname" ,"Uruguay","Venezuela (Bolivarian Republic of)"), rango_edad= c("sobre_80", "sobre_80", "sobre_80", "sobre_80","sobre_80", "sobre_80", "sobre_80", "sobre_80", "sobre_80", "sobre_80","70to79","70to79"))
+
+pais_sudamerica %>%
+  ggplot(.,aes(rango_edad,tasa_suicidio, group=pais, col= pais))+geom_line()+ labs(x="Rango de edad", y="Tasa suicidio", title= "Tasa de suicidio en América del Sur durante el 2016 según rango de edad")+ theme_minimal()+ geom_text_repel(data = pais_sudamerica,mapping=aes(x=rango_edad, y=tasa_suicidio,label=pais), size=4, vjust=3, hjust=0.5,size=6,use_group_by=TRUE, box.padding = unit(0.5, "lines"))
+  
+  
+#scale_color_brewer(palette ="Paired")+theme_minimal()
+
+
+
+#+ gghighlight( pais==c("Argentina" ,"Bolivia (Plurinational State of)","Brazil","Chile", "Colombia", "Ecuador","Guyana" ,"Paraguay","Peru" ,"Suriname" ,"Uruguay","Venezuela (Bolivarian Republic of)"), use_group_by=TRUE, alpha==0.5)+ geom_label(aes(label = pais),hjust = 1, vjust = 1, alpha= 0.5)
+
+  
+#geom_label(aes(label = pais), data = paises)
+
+
+#+ scale_fill_brewer(palette = "Paired")
+#+ ggrepel::geom_label_repel(aes(label = pais), data= pais_sudamerica)
 
 
 tasa_suicidio_edad %>% 
   filter(tasa_suicidio_edad$pais=="Chile") %>%
-  ggplot(.,aes(rango_edad,tasa_suicidio, col= sexo))+ 
-  theme_minimal()+geom_point()+ geom_line(aes(group=sexo))+
+  ggplot(.,aes(rango_edad,tasa_suicidio, col= sexo))+  theme_minimal()+geom_point()+ geom_line(aes(group=sexo))+
   labs(x="Rango de edad", y="Tasa suicidio", title= "Tasa de suicidio en Chile durante el 2016 según sexo y rango de edad")
 
 
