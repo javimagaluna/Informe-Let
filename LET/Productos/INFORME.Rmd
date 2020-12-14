@@ -21,15 +21,16 @@ library(knitr)
 library(rmdformats)
 library(here)
 
-knitr::opts_chunk$set(fig.align = "center")
-
 ```
 
 # Resumen
 
-  A través de la exploración y visualización de datos, se evidenció 
+  A través de la exploración y visualización de datos, se evidenció los aumentos en las tasas de suicidio a medida que pasan los años 
+  - rango etario con mayor tasa de suicidio desde los 70 años en adelante
+  - las personas de sexo masculino son mas propensos a suicidarse que las mujeres, llegando a duplicar la tasa de mujeres.
+  - instalaciones, para Guayana hay solo un hospital psiquiatrico
+  - el 45,19 % tiene acceso a menos de un psiquiatra cada 100.000 habitantes
 
-  Guyana :c
 
 
 # Introducción
@@ -38,18 +39,9 @@ knitr::opts_chunk$set(fig.align = "center")
 
   El suicidio es un tema complejo y delicado,  en el que cualquier paso en falso puede ser un error fatal. Es por ello que es inevitable cuestionarse: ¿qué es lo que esta pasando a nivel mundial con la salud mental? Hoy en día es bastante común escuchar a los jóvenes decir "me quiero morir" y normalizarlo como si fuese una broma, pero ¿y si esto no es así? ¿Qué pasaría si realmente la persona se quiere suicidar y nosotros ignoramos estas señales definitorias de vida o muerte? Si bien no todos somos personas capacitadas para estos asuntos, sí es necesario tener una idea de cómo actuar en estas situaciones, lo que da cuenta de la necesidad de más políticas públicas para que el personal especializado visualice esta realidad. En Chile, es usual escuchar que los tratamientos de salud mental tienen un costo muy elevado o que el sistema de salud está colapsado, por lo que agendar una cita es casi imposible. Entonces, una se pregunta ¿qué tan accesible es la salud mental? ¿Cuánto personal especializado existe?
 
-  Este informe tiene como objetivo comparar las tasas de suicidio de distintos países durante los años 2000, 2010, 2015 y 2016. Además, busca visibilizar la accesibilidad de los recursos de salud mental del año 2016 para cada uno de estos países. 
-  
-  Con esto, nos referimos al personal capacitado y los establecimientos destinados a salud mental. 
-  
+  Este informe tiene como objetivo comparar las tasas de suicidio de distintos países durante los años 2000, 2010, 2015 y 2016. Además, busca visibilizar la accesibilidad de los recursos de salud mental del año 2016 para cada uno de estos países. Con accesibilidad de recursos nos referimos al personal capacitado y los establecimientos destinados a salud mental. 
 
-CARTA DE NAVEGACIÓN EN PROCESO CREATIVO
-
-  A través de la visualización de datos se gráfica las tasas mundiales de suicidio, separando por rango etario y sexo femenino o masculino
-  
-  A continuación, se analizará la accesibilidad a las instalaciones de salud mental. Luego lo contrastaremos con la cantidad de personal especializado en el área y evidenciaremos  carencias o eficiencias sistemáticas de los países.
-  
-  Finalmente retomaremos nuestro primer análisis de visualización y lo relacionaremos con los recursos de salud mental antes mencionados.
+  A través de la visualización de datos se gráfica las tasas mundiales de suicidio, separando por rango etario y sexo femenino o masculino. A continuación, se analizará la accesibilidad a las instalaciones de salud mental. Luego lo contrastaremos con la cantidad de personal especializado en el área y evidenciaremos  carencias o eficiencias sistemáticas de los países. Finalmente retomaremos nuestro primer análisis de visualización y lo relacionaremos con los recursos de salud mental antes mencionados.
 
 # Metodología
 
@@ -102,8 +94,6 @@ Table: Tabla IV: Descripción de variables personal_especializado.
 |---|---|---|
 | país | categórica | Nombre del país |
 | psiquiatras | numérica | Tasa de psiquiatras que trabajan en el sector de la salud mental |
-| nurses | numérica | Tasa de enfermeras y enfermeros que trabajan en el sector de salud mental|
-| trabajadores_sociales| numérica | Tasa de trabajadores sociales que trabajan en el sector de salud mental |
 | psicólogos| numérica | Tasa de psicólogos que trabajan en el sector de salud mental|
 
 
@@ -112,40 +102,33 @@ Table: Tabla IV: Descripción de variables personal_especializado.
   Uno de los problemas existentes en estas bases de datos es la existencia de datos faltantes. Es por ello que en los diversos estudios de este informe se mencionará la cantidad de países con la que se esta trabajando para evitar sesgos informativos.
 
 
-TODO LO QUE SIRVA PARA INTERPRETAR MEJOR LOS RESULTADOS
-
-
 # Resultados 
   
-  Al inicio de este informe, comentamos que, a pesar de las medidas mundiales que se han realizado, las tasas de suicidio están lejos de disminuir, si realizamos un análisis de correlación 
-
-  HACER GRAFICO DE PUNTOS 
+  Al inicio de este informe, comentamos que, a pesar de las medidas mundiales que se han realizado, las tasas de suicidio están lejos de disminuir. Esto lo podemos visualizar en la Figura 1, en donde comparamos las tasas de suicidio entre los años 2000, 2010, 2015 y 2016 y la respectiva correlación de estas tasas entre años.
 
 
-   En el siguiente gráfico, mostraremos las diferentes tasas de suicidio a nivel mundial 
+```{r,fig.align="center", fig.cap= "Figura 1: Relación entre tasas de suicidio con su respectiva correlación", echo=FALSE}
 
-```{r, fig.align="center", fig.cap= "Figura 1"}
-
-# Intento de gráfico de mapas en proceso
+knitr::include_graphics(here::here("Figuras","Relacion-tasa-anio.png"))
 
 ```
-
-  ANALIZAR FIG 1
+  En este gráfico se observa una relación positiva entre todas las variables, en donde la correlación entre años "consecutivos" aumenta. Estos valores obtenidos son muy altos, lo que nos indica que existe una conexión entre los años de las tasas de suicidio. Es interesante mirar la comparación entre el año 2016 y 2000, porque nos da indicios, gracias a la dispersión de puntos,  de como han ido aumentando las tasas de suicidio en las distintas naciones.
   
 ---
   
-  Ahora, enfocándonos en el año 2016, realizaremos un análisis según rango de edad, en el cual, se observa, a nivel mundial, un drástico aumento en la tasa de suicidio a medida que la población adquiere mayor edad (ver Figura GRÁFICO MOMENTANEO)
+  Ahora, enfocándonos en el año 2016, realizaremos un análisis según rango de edad, en el cual, se observa, a nivel mundial, un drástico aumento en la tasa de suicidio a medida que la población adquiere mayor edad (ver Figura 2-3)
   
-```{r, fig.align="center", fig.cap= "Figura GRÁFICO MOMENTANEO. Gráfico de puntos por rango etario ", echo=FALSE}
+```{r, fig.align="center", fig.cap= "Figura 2: Tasa de suicidio promedio durante el 2016 para distintos rangos etarios  ", echo=FALSE}
 
-knitr::include_graphics(here::here("Figuras","rango_edad-continente_puntos.png"))
+knitr::include_graphics(here::here("Figuras","promedio-tasas-edad-mundo-2016.png"))
+knitr::include_graphics(here::here("Figuras","tasa-edad-promedio-2016-eje_rotado.png"))
 
 ```
   
   
   Si bien, se visualiza un gran aumento de la tasa de suicidio para personas cuya edad está sobre 70 años, según los datos recopilados por Our World In Data, esta no es la mayor causa de muerte para este rango, si no que lo son las enfermedades cardiovasculares, cánceres y/o enfermedades respiratorias$^{[2]}$.A pesar de ello, estos niveles si son de gran importancia y como sociedad debemos preocuparnos de aquello.
   
-  Dado que la escala en el eje "Tasa suicidio" de la Figura "GRÁFICO MOMENTANEO" es muy grande, perdemos información de los demás países al estar más concentrados en tasas relativamente más bajas,es por ello que analizaremos lo que ocurre en América del Sur.
+  Dado que el promedio es sensible a los puntos extremos, se visualizará lo que ocurre en América del Sur ¿obtendremos los mismos resultados?
   
 ```{r, fig.align="center", fig.cap= "Figura. Gráfico de lineas América del Sur", echo=FALSE}
 
@@ -153,7 +136,7 @@ knitr::include_graphics(here::here("Figuras","rango_edad_america_sur.png"))
 
 ```
 
-  En esta gráfica, se observa un alza en las tasas para el rango entre 20 y 29 años, luego, en general, estas lineas tienden a disminuir levemente para así, volver a tener un alza desde los 70 años de edad hacia adelante (hacer una descripcion decente!! xd) 
+  En la Figura _, se observa un alza en las tasas para el rango entre 20 y 29 años, luego, en general, estas lineas tienden a disminuir levemente para así, volver a tener un alza desde los 70 años de edad hacia adelante. Si se realizara un estudio por promedio para esta región, el país Guyana afectaría a la estimación por tener una tasa de suicidio aproximadamente del doble que los demás países. Entonces, para los países de América del Sur,  los rangos etarios con mayor tasa de suicidio son de 20 a 29 y sobre 70. 
 
 
 ---
@@ -259,6 +242,8 @@ knitr::include_graphics(here::here("Figuras","Paises_menor_psiq_psicol-lineas_ed
 
   Como se mencionó anteriormente uno de los principales objetivos de este informe es mostrar e informar sobre este complicado tema, 
   
+  Frente a la información recaudada
+  
   si necesitas ayuda, no dudes en contactar a los teléfonos , tu vida **si** es importante.
 
 El día 10 de septiembre es el día mundial para la prevención del suicidio
@@ -271,7 +256,6 @@ El día 10 de septiembre es el día mundial para la prevención del suicidio
 
 
 [2]: Our World in Data (2018). *Causes Of Deaths For People Who Were 70 Years And Older*. [on line] en: https://ourworldindata.org/grapher/causes-of-death-in-70-year-olds?time=2016 
-
 
 
 

@@ -14,7 +14,7 @@ library(fcuk)
 
 
 
-# graficos ----------------------------------------------------------------
+# gráficos ----------------------------------------------------------------
 
 ### TASAS DE SUICIDIO SEPARADO POR SEXO ###
 
@@ -67,14 +67,27 @@ t<-tasas_suicidio %>% filter(tasas_suicidio$sexo==" Both sexes")
 
 ###------###
 
+tasas_suicidio %>%
+  mutate(region=countrycode(sourcevar=pais, origin="country.name", destination= "continent"))%>% 
+  ggplot(aes(anio, group=pais, col=region))+ 
+  theme_minimal()+
+  labs(title= "Tasas de suicidios", caption="Fuente: elaboración propia a partir de datos de kaggle.com")+ 
+  geom_density(aes( x=tasa_suicidio, fill=sexo), position = "stack", alpha = 0.5)
+
+
 ### TASAS DE SUICIDIO SEPARADO POR EDAD ###
 
 tasa_suicidio_edad %>%
   filter(tasa_suicidio_edad$sexo=="Both sexes") %>%
   mutate(region=countrycode(sourcevar=pais, origin="country.name", destination= "continent")) %>% 
-  ggplot(., aes(rango_edad,tasa_suicidio, group=region, col= region))+ 
-  theme_minimal()+ geom_point() +
-  labs(x="Rango de edad", y="Tasa suicidio", title= "Tasa de suicidio por continente en 2016 según rangos de edad", caption="Fuente: elaboración propia a partir de datos de kaggle.com")
+  ggplot(., aes(rango_edad,tasa_suicidio, group=region, col= region))+
+  theme_minimal()+ geom_point() + labs(x="Rango de edad", y="Tasa suicidio", title= "Tasa de suicidio por continente en 2016 según rangos de edad", caption="Fuente: elaboración propia a partir de datos de kaggle.com")
+
+tasa_suicidio_edad %>%
+  filter(tasa_suicidio_edad$sexo=="Both sexes") %>%
+  mutate(region=countrycode(sourcevar=pais, origin="country.name", destination= "continent")) %>% 
+  ggplot(., aes(rango_edad,tasa_suicidio, group=region, col= region))+ geom_bar(stat="identity", position=position_dodge())
+
 
 
 tasa_suicidio_edad %>%
@@ -91,8 +104,7 @@ tasa_suicidio_edad %>%
   mutate(region=countrycode(sourcevar=pais, origin="country.name", destination= "region23")) %>% 
   filter(region=="South America") %>%
   ggplot(.,aes(rango_edad,tasa_suicidio, group=pais, col= pais))+ 
-  theme_minimal()+geom_line()+ labs(x="Rango de edad", y="Tasa suicidio", title= "Tasa de suicidio en América del Sur durante el 2016 según rangos de edad", caption="Fuente: elaboración propia a partir de datos de kaggle.com")
-  #+ gghighlight(pais=="Suriname") 
+  theme_minimal()+geom_line()+ labs(x="Rango de edad", y="Tasa suicidio", title= "Tasa de suicidio en América del Sur durante el 2016 según rangos de edad", caption="Fuente: elaboración propia a partir de datos de kaggle.com")+ gghighlight(pais=="Suriname"| pais=="Argentina" |pais=="Brazil") 
 
 
 

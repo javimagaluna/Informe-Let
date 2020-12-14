@@ -30,6 +30,7 @@ tasa_suicidio_edad %>%
   ggplot(., aes(tasa_suicidio))+ 
   theme_minimal()+ geom_density(aes(x= tasa_suicidio, fill=sexo), position = "identity", alpha = 0.5)+ labs(x="Rango de edad", y="Tasa suicidio", title= "Tasa de suicidio en Chile durante el 2016 según sexo y rango de edad")
 
+
 # PAISES CON MAYOR CANTIDAD DE PSQUIATRAS- PSICOLOGOS
 
 tasa_suicidio_edad %>%
@@ -95,4 +96,39 @@ tasa_2016_FM$pais[tasa_2016_FM$tasa_femenino>15]
 tasa_2016_FM$pais[tasa_2016_FM$tasa_masculino>30]
 
 
+
+# EDAD --------------------------------------------------------------------
+
+tasa_ambos_edad<-tasa_suicidio_edad%>%filter(tasa_suicidio_edad$sexo=="Both sexes")
+
+promedios<-c()
+
+t<-tasa_ambos_edad%>% filter(tasa_ambos_edad$rango_edad=="10to19")
+promedios<-c(promedios,mean(t$tasa_suicidio))
+
+t<-tasa_ambos_edad%>% filter(tasa_ambos_edad$rango_edad=="20to29")
+promedios<-c(promedios,mean(t$tasa_suicidio))
+
+t<-tasa_ambos_edad%>% filter(tasa_ambos_edad$rango_edad=="30to39")
+promedios<-c(promedios,mean(t$tasa_suicidio))
+
+t<-tasa_ambos_edad%>% filter(tasa_ambos_edad$rango_edad=="40to49")
+promedios<-c(promedios,mean(t$tasa_suicidio))
+
+t<-tasa_ambos_edad%>% filter(tasa_ambos_edad$rango_edad=="50to59")
+promedios<-c(promedios,mean(t$tasa_suicidio))
+
+t<-tasa_ambos_edad%>% filter(tasa_ambos_edad$rango_edad=="60to69")
+promedios<-c(promedios,mean(t$tasa_suicidio))
+
+t<-tasa_ambos_edad%>% filter(tasa_ambos_edad$rango_edad=="70to79")
+promedios<-c(promedios,mean(t$tasa_suicidio))
+
+t<-tasa_ambos_edad%>% filter(tasa_ambos_edad$rango_edad=="sobre_80")
+promedios<-c(promedios,mean(t$tasa_suicidio))
+
+promedios_edades_mundo<- data.frame(Rango=c("10 a 19","20 a 29","30 a 39","40 a 49","50 a 59","60 a 69","70 a 79","Sobre 80"),Tasa_promedio=promedios)
+
+promedios_edades_mundo%>% ggplot(., aes(Rango, Tasa_promedio, fill=Rango))+ geom_bar(stat="identity", position=position_dodge())+
+  labs(x="Rango de edad", y="Tasa suicidio promedio", title =" Promedio de tasas de suicidio mundiales según rango de edad durante 2016")+ theme_minimal()+ scale_fill_brewer(palette = "Paired")+ coord_flip() 
 
