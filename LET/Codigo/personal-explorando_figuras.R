@@ -28,7 +28,9 @@ ggplot(personal, aes(psicologos, psiquiatras))+geom_point(alpha=0.5, col="purple
 
 # psiquiatras : Noruega 48.040, Mónaco 31.326, Polonia 24.176
 # psicologos : 	Argentina 222.572, Costa Rica 142.018, Israel	88.089
-
+personal[46,1]<-"Mónaco"
+personal[53,1]<-"Noruega"
+personal[57,1]<-"Polonia"
 
 max_psi<- personal%>%filter(personal$psiquiatras>24 |personal$psicologos>88)
 
