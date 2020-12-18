@@ -2,7 +2,7 @@
 title: |
   <div style="text-align: center">
   ![](Logu.png){width=1in}  
-  Suicidio y salud mental
+  Suicidio y acceso a salud mental
   <div/>
 author: |
   <div style="text-align: center">
@@ -127,7 +127,7 @@ knitr::include_graphics(here::here("Figuras","tasa-edad-promedio-2016-eje_rotado
   
   Dado que el promedio es sensible a los puntos extremos, se visualizará lo que ocurre en América del Sur ¿obtendremos los mismos resultados?
   
-```{r, fig.align="center", fig.cap= "Figura 3: Gráfico de lineas América del Sur.", echo=FALSE}
+```{r, fig.align="center", fig.cap= "Figura 3: Gráfico de líneas América del Sur.", echo=FALSE}
 
 knitr::include_graphics(here::here("Figuras","rango_edad_america_sur.png"))
 
@@ -168,9 +168,9 @@ knitr::include_graphics(here::here("Figuras","Chile_edad_sexo.png"))
   Ahora hablando acerca de las instalaciones disponibles para salud mental en cada país, nos referiremos a la cantidad de hospitales psiquiátricos existentes y las unidades médicas en los hospitales generales. Es interesante tener una noción de cuantos establecimientos y lugares especializados existen. Es por ello que para esta visualización iniciaremos con un gráfico de dispersión para 82 países en donde contrastaremos ambas variables.
 
   
-```{r, fig.align="center", echo=FALSE, fig.cap= "Figura 6: Gráfico de dispersión de las variables unidades de salud en hospitales y hospitales psiquiátricos."}
+```{r, fig.align="center", echo=FALSE, fig.cap= "Figura 6: Gráfico de dispersión de las variables unidades de salud en hospitales generales y hospitales psiquiátricos."}
 
-knitr::include_graphics(here::here("Figuras","hospital-unidad-mal-grafico.png"))
+knitr::include_graphics(here::here("Figuras", "hospital-unidad-mal-grafico.png"))
 
 ```
 
