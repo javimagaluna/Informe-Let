@@ -15,7 +15,7 @@ Carpeta con las bases de datos recopiladas de kaggle.com sobre salud mental y su
 Gráficos que se utilizarán en el informe y logo uc (de fondo transparente).
 
 `Productos/`
-Archivo .Rmd con la introducción (en proceso creativo) y el respectivo archivo html con la misma información.
+Informe .Rmd y su respectivo .html :D
 
 
 
